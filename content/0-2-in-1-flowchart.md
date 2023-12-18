@@ -40,6 +40,14 @@ Since I am an engineer, I like to draw diagrams / flowcharts to help me think an
 
 Here is a flowchart that captures how I have gone about deriving meaning, purpose and hope based on evidence and reason alone, starting from First Principles. (All the terms mentioned in the diagram are defined the book.)
 
+First, we define our methodology, and then build the MSE Framework using it.
+
+The framework starts with a discussion of our Ultimate Reality, followed by Physical Reality and Life on one side, and Consciousness on the other.
+
+Then we define what we mean by the "6CED" Tendencies of the universe and Meaning-Seeking Entities (MSE).
+
+Finally, this allows us to come up with rigorous, First-Principles-based definitions of meaning, purpose and hope that don't require you to take any leaps of faith or rely on someone's opinion.
+
 
 
 ***
