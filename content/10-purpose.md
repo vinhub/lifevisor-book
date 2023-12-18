@@ -16,7 +16,7 @@ layout:
 
 
 
-![We do know what his purpose is, just like we do for every other part of the universe](<.gitbook/assets/0 (7).jpeg>)
+![We do know what his purpose is, just like we do for every other part of the universe](broken-reference)
 
 
 

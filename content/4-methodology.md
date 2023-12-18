@@ -553,7 +553,7 @@ A lot of our learning is basically a result of repeated application of this proc
 
 ## **Deep Dive: The Scientific method**
 
-<figure><img src=".gitbook/assets/4.jpeg" alt="" width="390"><figcaption><p>The Scientific Method</p></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="390"><figcaption><p>The Scientific Method</p></figcaption></figure>
 
 As shown in the picture, the scientific method consists of making observations, creating a hypothesis based on those observations, and conducting experiments to see if the hypothesis proves to be correct or not.&#x20;
 

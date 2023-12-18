@@ -256,7 +256,7 @@ The following graph shows this relationship.
 
 
 
-![The relationship between Entropy and Complexity](<.gitbook/assets/1 (3).png>)
+![The relationship between Entropy and Complexity](broken-reference)
 
 
 

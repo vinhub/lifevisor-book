@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/0 (6).jpeg" alt="" width="563"><figcaption><p>Life has always been inherently meaningful</p></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="563"><figcaption><p>Life has always been inherently meaningful</p></figcaption></figure>
 
 
 
