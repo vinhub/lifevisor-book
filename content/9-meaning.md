@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption><p>Life has always been inherently meaningful</p></figcaption></figure>
+<figure><img src=".gitbook/assets/astronaut meme.jpg" alt="" width="563"><figcaption><p>You don't have to go to the ends of the earth to find out!</p></figcaption></figure>
 
 
 

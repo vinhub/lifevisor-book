@@ -16,7 +16,7 @@ layout:
 
 
 
-![“Inner Life of the Cell” - Animation developed by Harvard University showing a motor protein carrying a vesicle inside a living cell.](broken-reference)
+<figure><img src=".gitbook/assets/INNER-LIFE-OF-THE-CELL.png" alt="" width="563"><figcaption><p>“Inner Life of the Cell” - Animation developed by Harvard University showing a motor protein carrying a vesicle inside a living cell.</p></figcaption></figure>
 
 
 
@@ -156,7 +156,7 @@ It shows a Living Entity (big box on the right) interacting with its environment
 
 
 
-![The Free Energy Principle (Simplified)](broken-reference)
+<figure><img src=".gitbook/assets/Free Energy Principle.png" alt="" width="563"><figcaption><p>The Free Energy Principle (Simplified)</p></figcaption></figure>
 
 
 

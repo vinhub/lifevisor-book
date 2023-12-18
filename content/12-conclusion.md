@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/Conclusion.png" alt="" width="563"><figcaption><p>Evolution of the MSE Framework</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Conclusion.png" alt="" width="563"><figcaption><p>Executive summary of the MSE Framework</p></figcaption></figure>
 
 
 

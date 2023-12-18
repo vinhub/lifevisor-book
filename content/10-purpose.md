@@ -16,7 +16,7 @@ layout:
 
 
 
-![We do know what his purpose is, just like we do for every other part of the universe](broken-reference)
+<figure><img src=".gitbook/assets/penguin.jpg" alt="" width="405"><figcaption><p>Ultimately, penguins and us share the same purpose</p></figcaption></figure>
 
 
 

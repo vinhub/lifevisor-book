@@ -42,6 +42,9 @@ layout:
 ## Scientific Papers and Articles <a href="#_n5hjf7y9euts" id="_n5hjf7y9euts"></a>
 
 * [On the roles of function and selection in evolving systems](https://www.pnas.org/doi/epdf/10.1073/pnas.2310223120) by Michael L. Wong et al
+* [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/) by Natalie Wolchover
+* [First Support for a Physics Theory of Life](https://www.quantamagazine.org/first-support-for-a-physics-theory-of-life-20170726/) by Natalie Wolchover
+* [The free-energy principle: a unified brain theory?](https://doi.org/10.1038/nrn2787) by Karl Friston
 * [The entire quantum Universe exists inside a single atom](https://bigthink.com/starts-with-a-bang/entire-quantum-universe-inside-single-atom/) by Ethan Siegel
 * [The Science of Meaning in Life](https://www.annualreviews.org/doi/10.1146/annurev-psych-072420-122921) by Laura A. King and Joshua A. Hicks
 * [The Problem of Meaning: The Free Energy Principle and Artificial Agency](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9260223/) by Julian Kiverstein, Michael D. Kirchhoff and Tom Froese
