@@ -30,17 +30,15 @@ _“Make big plans; aim high in hope and work, remembering that a noble, logical
 
 ***
 
+Since I am an engineer, I like to draw diagrams / flowcharts to help me think and also to present my thinking to others. Here is a flowchart that captures how I have gone about deriving meaning, purpose and hope based on evidence and reason alone, starting from First Principles.
+
 
 
 <figure><img src=".gitbook/assets/MSE Framework Overview.jpg" alt="" width="563"><figcaption><p>Meaning-Seeking Entities (MSE) Framework - Overview</p></figcaption></figure>
 
 
 
-Since I am an engineer, I like to draw diagrams / flowcharts to help me think and also to present my thinking to others.&#x20;
-
-Here is a flowchart that captures how I have gone about deriving meaning, purpose and hope based on evidence and reason alone, starting from First Principles.
-
-First, we define our methodology, and then use it to build a framework for achieving our purpose.
+First, we define our methodology, and then use it to build a framework for achieving our purpose. I am calling it the Meaning-Seeking Entities (MSE) Framework. (The terms will be defined in the book.)
 
 The framework starts with a discussion of our Ultimate Reality, followed by Physical Reality and Life on one side, and Consciousness on the other. We discuss the relevant evidence and reasoning behind our observations.
 
