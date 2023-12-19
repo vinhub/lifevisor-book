@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# “An Engineer’s Search for Meaning” in One Flowchart
+# The Whole Book in One Flowchart
 
 
 
@@ -38,13 +38,13 @@ _“Make big plans; aim high in hope and work, remembering that a noble, logical
 
 Since I am an engineer, I like to draw diagrams / flowcharts to help me think and also to present my thinking to others.&#x20;
 
-Here is a flowchart that captures how I have gone about deriving meaning, purpose and hope based on evidence and reason alone, starting from First Principles. (All the terms mentioned in the diagram are defined the book.)
+Here is a flowchart that captures how I have gone about deriving meaning, purpose and hope based on evidence and reason alone, starting from First Principles.
 
-First, we define our methodology, and then build the MSE Framework using it.
+First, we define our methodology, and then use it to build a framework for achieving our purpose.
 
-The framework starts with a discussion of our Ultimate Reality, followed by Physical Reality and Life on one side, and Consciousness on the other.
+The framework starts with a discussion of our Ultimate Reality, followed by Physical Reality and Life on one side, and Consciousness on the other. We discuss the relevant evidence and reasoning behind our observations.
 
-Then we define what we mean by the "6CED" Tendencies of the universe and Meaning-Seeking Entities (MSE).
+Based on that, we then define what we mean by the "6CED" Tendencies of the universe and Meaning-Seeking Entities (MSE).
 
 Finally, this allows us to come up with rigorous, First-Principles-based definitions of meaning, purpose and hope that don't require you to take any leaps of faith or rely on someone's opinion.
 
