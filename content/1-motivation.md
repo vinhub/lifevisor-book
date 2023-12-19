@@ -120,9 +120,9 @@ I was never going to let this opportunity slip. In fact, I consider myself reall
 
 So it was time for me to get to work.
 
-What was the thread going through my whole life? What was its basis? Or anyone’s life? Or even capital-L Life?
+How do I make sense of my life? What is its purpose? Does my life matter in the larger scheme of things?
 
-What were the underlying principles, characters, motivations and rules behind Life, the Universe and Everything?
+What are the underlying principles, characters, motivations and rules behind Life, the Universe and Everything? Why does the universe do the things it does? Where is it going?
 
 In other words, what did it all mean and why did it mean that? Was there a purpose behind any of it?
 
@@ -130,9 +130,11 @@ Well, isn’t this exactly what we mean when we ask about the “meaning” and 
 
 Of course, questions of this sort have probably been asked millions of times by millions of humans over thousands of years. And over the same period of time, many people have come up with some pretty interesting answers. Some of them have gone on to become extremely popular, even to the point of turning into religions and philosophies.
 
-But in my case, while it would have been the easy and maybe even a great way out, I didn’t want to just mumble some well-worn phrases from ancient books, or throw out some memes floating around in the zeitgeist that sounded cool. Not because they might have been wrong, but I had no way of knowing if they were right in the first place.
+In the process, the even the meanings of the words "meaning" and "purpose" have changed. The words have taken on more theological or poetic or personal connotations, since their true meanings turned out to be too hard to discover.
 
-I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeking type person. I needed something more solid than that.
+But in my case, while that would have been the easy and maybe even a great way out, I didn’t want to just mumble some well-worn phrases from ancient books, or sing moving verses from some great poetry, or throw out some memes floating around in the zeitgeist that sounded cool. Not because they might have been wrong, but I had no way of knowing if they were right in the first place.
+
+I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeking type person. I needed something far more solid than that. Anything less seemed like selling myself short.
 
 I wanted to find honest, defensible answers to those questions, based on rigorous stepwise analysis, all the way from the ground up. No shortcuts, no leaps of faith, no hand waving, no opinions.
 
