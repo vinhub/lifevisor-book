@@ -12,11 +12,12 @@ layout:
     visible: true
 ---
 
-# “An Engineer’s Search for Meaning” in 5 Minutes
+# The Whole Book in 5 Minutes
 
 
 
-![Honeybee Photo by Alexas\_Fotos on Unsplash](.gitbook/assets/0.jpeg)
+![We can learn a lot about meaning, purpose and hope in life from honey bees .
+Photo by Alexas\_Fotos on Unsplash](.gitbook/assets/0.jpeg)
 
 
 
