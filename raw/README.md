@@ -22,5 +22,5 @@ _Beta release, ©Vinayak (Vin) Bhalerao, 2023_
 
 
 
-\[ This book is still under development, but very close to being ready. It is a part of a larger effort, known as [LifeVisor.AI](https://lifevisor.ai). ]
+\[ This book is still under development, but very close to being ready. It is a part of a larger effort, known as [LifeVisor.AI](https://lifevisor.ai). Comments? Suggestions? Send them to info \[at] RedmondLabs \[dot] com. ]
 

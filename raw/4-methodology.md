@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/engineer the sht.jpg" alt=""><figcaption><p>The Martian didn't "science" it, he "engineered" it!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/engineer the sht.jpg" alt=""><figcaption><p>The Martian didn't "science" sh*t, he "engineered" it!</p></figcaption></figure>
 
 
 

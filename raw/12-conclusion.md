@@ -137,6 +137,10 @@ Let us look at each of the 6CED Tendencies and come up with some initial ideas f
 
 And of course, in order to be respectful of nebulosity and unknowns in reality, we need to exercise mindful moderation and willingness to learn and improve the above list of actions accordingly.
 
+Not only that, but even a cursory look at the list will reveal that, at times, some of these tendencies or actions might be in conflict with each other. This is where mindfulness comes in again, in deciding how to prioritize and schedule actions accordingly.&#x20;
+
+Moreover, this time, because you know the reasoning behind how these tendencies and actions were arrived at, you can make far more informed decisions about the prioritization and scheduling as compared to pretty much any other method of meaning making or realization.
+
 As I mentioned earlier, this list is only a set of sample suggestions, just to clarify the definition of purpose. Feel free to build your own as it applies to your own life, experiment with it and see what works.
 
 
