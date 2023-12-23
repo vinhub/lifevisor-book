@@ -59,7 +59,7 @@ Now, if you go down to the street and ask a random person, they will very likely
 
 That may be so. Most of us do go through our daily lives without really thinking about these things. Maybe even for years at a stretch.
 
-But it is also true that many of us do ask such questions, either explicitly or implicitly, particularly when we run into profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or breaking up with someone and so on. When we face major life decisions, such as choosing a career path or a life partner or choosing to quite your job and go out on your own.
+But it is also true that many of us do ask such questions, either explicitly or implicitly, particularly when we run into profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or breaking up with someone and so on. Or when we face major life decisions, such as choosing a career path or a life partner or choosing to quit your job and go out on your own.
 
 And of course, during mid life crises.
 
