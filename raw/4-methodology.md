@@ -46,7 +46,7 @@ In this chapter, we are going to look at the methodology we will use to build th
 
 Let us start from the beginning. Your beginning.
 
-## A Journey of Discovery Begins… <a href="#_nfknd97nkljp" id="_nfknd97nkljp"></a>
+## A Journey of Discovery Begins… <a href="#nfknd97nkljp" id="nfknd97nkljp"></a>
 
 When we are born, we know very few things about our new reality.
 
@@ -100,7 +100,7 @@ Over time, we have formalized this natural tendency that we are all born with. W
 
 You guessed it, we are talking about evidence and reason. Let us take a deeper dive into them.
 
-## Evidence and Reason <a href="#_2vrof4378c7d" id="_2vrof4378c7d"></a>
+## Evidence and Reason <a href="#id-2vrof4378c7d" id="id-2vrof4378c7d"></a>
 
 Let us rewind back to the wonderful time when you had just opened your eyes for the first time and you knew very little about this totally new world you found yourself into.
 
@@ -136,7 +136,7 @@ Yes, ultimately it is still a belief since that is all we can truthfully say abo
 
 In order to understand this a little better, let us look at two aspects of knowledge: Types and Sources.
 
-## Epistemology: Types of Knowledge <a href="#_frvu2vz8w3m8" id="_frvu2vz8w3m8"></a>
+## Epistemology: Types of Knowledge <a href="#frvu2vz8w3m8" id="frvu2vz8w3m8"></a>
 
 The Stanford Encyclopedia of Philosophy states that there are 3 types of knowledge:
 
@@ -154,7 +154,7 @@ For the purposes of this book, we will ignore the third category, that of Knowin
 
 This way of thinking and learning is an important aspect of what is known as Thinking from First Principles. We will take a [deeper look at it further down in this chapter](4-methodology.md#deep-dive-first-principles-thinking).
 
-## Epistemology: Sources of Knowledge <a href="#_3sc0sp81ti11" id="_3sc0sp81ti11"></a>
+## Epistemology: Sources of Knowledge <a href="#id-3sc0sp81ti11" id="id-3sc0sp81ti11"></a>
 
 The Stanford Encyclopedia of Philosophy also states that there are 5 sources of knowledge:
 
@@ -190,7 +190,7 @@ This type of analysis is exactly what our insistence on rationality and Thinking
 
 Still, an honest application of rationality itself requires that we recognize its limits, and come up with rational ways of dealing with them.
 
-## Limits to Rationality <a href="#_wxq23tip4xsn" id="_wxq23tip4xsn"></a>
+## Limits to Rationality <a href="#wxq23tip4xsn" id="wxq23tip4xsn"></a>
 
 First off, as I have already acknowledged in the previous chapter, this endeavor of trying to find meaning, purpose and hope using rationality alone is incredibly audacious and we need to avoid any appearance of naiveté or hubris while tackling it.
 
@@ -224,7 +224,7 @@ In order to address all these limitations of using rationality to explain or dea
 
 We will do this in two ways, one of which is well known and the other one I something new that I am proposing.
 
-### A) Bounded Rationality <a href="#_oye3xuh5xzku" id="_oye3xuh5xzku"></a>
+### A) Bounded Rationality <a href="#oye3xuh5xzku" id="oye3xuh5xzku"></a>
 
 Reality is extremely cast and complex and our brains are relatively puny and simple in comparison. In spite of the great strides we have made, our knowledge of reality is quite limited. Our time and reach in this universe, even if you include all of humanity that has ever existed and all the technology and techniques we have ever built, are still minuscule as compared to the vastness of the universe.
 
@@ -240,7 +240,7 @@ This approach has come to the fore in recent decades after people realized that 
 
 Besides Bounded Rationality, we need to add one more idea to our toolbox.
 
-### B) Present-Moment Focus and Groundedness <a href="#_m7qvu1memfd7" id="_m7qvu1memfd7"></a>
+### B) Present-Moment Focus and Groundedness <a href="#m7qvu1memfd7" id="m7qvu1memfd7"></a>
 
 Often, we may have a very good understanding of our present situation and the forces at play, but our ability to predict things too far into the future (or even the past, for that matter) goes down rapidly as the timespan increases.&#x20;
 
@@ -270,13 +270,13 @@ For now, let us just use the word to qualify our methodology, combined with the 
 
 Let us take a deep dive into it.
 
-## Mindful Bounded Rationality <a href="#_kxhbwway0ih6" id="_kxhbwway0ih6"></a>
+## Mindful Bounded Rationality <a href="#kxhbwway0ih6" id="kxhbwway0ih6"></a>
 
 As the name suggests, Mindful Bounded Rationality combines elements of Bounded Rationality with Mindfulness, both of which are well known concepts, though, as far as I known, this particular combination appears to be new.
 
 Let us now formally define what we mean by Mindful Bounded Rationality by looking at its key characteristics:
 
-### **A) Reliance on Evidence and Reason:** <a href="#_bm74if65ohol" id="_bm74if65ohol"></a>
+### **A) Reliance on Evidence and Reason:** <a href="#bm74if65ohol" id="bm74if65ohol"></a>
 
 It should go without saying that we are still talking about a rational method of knowledge acquisition, with a few modifications. So it is still primarily about using evidence and reason.
 
@@ -284,7 +284,7 @@ As stated earlier, this means using the well known techniques of Thinking from F
 
 But since reality contains a lot of nebulosity, unpredictability as well as unknowns, we need to adjust our methodology to deal with that.
 
-### **B) Acknowledgement of the Complexity of Reality and Our Cognitive Limitations**: <a href="#_bm74if65ohol" id="_bm74if65ohol"></a>
+### **B) Acknowledgement of the Complexity of Reality and Our Cognitive Limitations**: <a href="#bm74if65ohol" id="bm74if65ohol"></a>
 
 We acknowledge that reality is extremely complex and our ability to deal with it is limited due to limits to our cognitive ability. Even when we discover patterns in reality, we may not be able to meaningfully extrapolate them to far beyond a certain point. We may be able to say a few high level things, but the details will be meaningless.
 
@@ -292,7 +292,7 @@ In many cases, we may also be constrained by time or resources.&#x20;
 
 Needless to say, we still need to create practical, realistic and rational explanations and decisions within this constraint. The three characteristics below address this constraints.
 
-### **C) Satisficing:** <a href="#_5e7jvow5dvnp" id="_5e7jvow5dvnp"></a>
+### **C) Satisficing:** <a href="#id-5e7jvow5dvnp" id="id-5e7jvow5dvnp"></a>
 
 Satisficing is a combination of satisfying and sufficing. This is a well known idea in real world problem solving, particularly in engineering.
 
@@ -302,7 +302,7 @@ This is basically what we do pretty much all the time in our real lives. We are 
 
 There is ample evidence that everything in nature itself follows this approach. No system in nature can afford to look for the perfect solution, settling instead for something that is good enough and incrementally moving forward.
 
-### **D) Present-Moment Focus:** <a href="#_7nksq2farkuz" id="_7nksq2farkuz"></a>
+### **D) Present-Moment Focus:** <a href="#id-7nksq2farkuz" id="id-7nksq2farkuz"></a>
 
 The idea behind Mindfulness is that focusing on what is occurring "here and now" or "clear and present" reduces our dependence on the (potentially flawed or incomplete) accounts of the past or inherently unpredictable extrapolations about the future.&#x20;
 
@@ -312,7 +312,7 @@ Primarily focusing our attention to our local vicinity along all these dimension
 
 And, again, by doing so, if we are able to create good enough explanations and solutions, then that works for our purposes.
 
-### E) Grounding in Reality (Rather than Abstractions): <a href="#_kd1e18l9okhr" id="_kd1e18l9okhr"></a>
+### E) Grounding in Reality (Rather than Abstractions): <a href="#kd1e18l9okhr" id="kd1e18l9okhr"></a>
 
 A major flaw in how rationality is applied by many ardent rationalists is that they focus too heavily on abstractions and somehow try to fit reality to them. In many cases, they continue to do this even when their flaws become known, because the abstractions are a lot easier to manage and intellectually appealing than the messiness of reality.
 
@@ -320,7 +320,7 @@ One of the best examples of this is the over-reliance by economists on the idea 
 
 What we will aim to do in our methodology is to never lose sight of reality and always try to fit our models to it to the best possible approximation rather than the other way round.
 
-### E) Non-Judgmental Observation: <a href="#_bwaomcjgnx4s" id="_bwaomcjgnx4s"></a>
+### E) Non-Judgmental Observation: <a href="#bwaomcjgnx4s" id="bwaomcjgnx4s"></a>
 
 Another aspect of Mindfulness that helps us here is non-judgmental observation of our thoughts, feelings, and emotions.
 
@@ -332,13 +332,13 @@ Once again, I don't believe that this connection between rationality and mindful
 
 With that, possibly rather longwinded philosophical introduction, it is now time for us to formally spell out the nitty-gritty details of our methodology.
 
-## MSE Framework Methodology <a href="#_d1nyaz14rwmi" id="_d1nyaz14rwmi"></a>
+## MSE Framework Methodology <a href="#d1nyaz14rwmi" id="d1nyaz14rwmi"></a>
 
 The MSE Framework methodology is basically the same as Mindful Bounded Rationality as explained above.&#x20;
 
 For completeness, we can state it explicitly by answering two main questions:
 
-### A) What methods of knowledge acquisition are we allowed to use to build the framework? <a href="#_s2yetuszjj50" id="_s2yetuszjj50"></a>
+### A) What methods of knowledge acquisition are we allowed to use to build the framework? <a href="#s2yetuszjj50" id="s2yetuszjj50"></a>
 
 * As already mentioned (too many times!), we want to build everything using **First Principles Thinking**.
 * We start with the simplest and smallest possible number of self-evident phenomena that have no other known explanations. These are known as **Axioms**. The axioms still need to satisfy the constraints of the epistemology as described above. Also, even our axioms can be challenged and replaced if something better or deeper is discovered.
@@ -349,7 +349,7 @@ For completeness, we can state it explicitly by answering two main questions:
 
 Given our honesty in accepting that we do not know everything, we need to address the next logical question:
 
-### B) What do we do when we aren’t able to know something about reality? <a href="#_qf057cdhbkw5" id="_qf057cdhbkw5"></a>
+### B) What do we do when we aren’t able to know something about reality? <a href="#qf057cdhbkw5" id="qf057cdhbkw5"></a>
 
 * Be comfortable with not knowing and avoid the temptation to take leaps of faith or relying on someone’s opinion. This is the most important aspect of any methodology based on rationality.
 * Treat the unknown phenomenon as a black box and study it. Create hypotheses or pedagogical devices to understand the unknown phenomena, but never confuse these constructs with the truth.
@@ -534,6 +534,8 @@ Let us look at a diagram to understand this process a bit more formally.&#x20;
 
 <figure><img src=".gitbook/assets/Baysian Inference.jpg" alt="" width="563"><figcaption><p>Bayesian Inferencing Process</p></figcaption></figure>
 
+
+
 * Step 1 (Initial Model): There is a model of reality inside your brain. One of the things that the model contains is the probability or likelihood of occurrence of some event.
   * For example, suppose you wake up on a beautiful summer morning and wonder if it is going to be sunny today. You know that it is the middle of summer so there is a high probability that the day is in fact going to be sunny. This is known as your “prior”.
 * Step 2 (Evidence): Each new signal that reaches your brain from any of your senses creates a new piece of evidence. Your brain receives and analyzes each such piece of evidence.
@@ -553,7 +555,11 @@ A lot of our learning is basically a result of repeated application of this proc
 
 ## **Deep Dive: The Scientific method**
 
-<figure><img src="broken-reference" alt="" width="390"><figcaption><p>The Scientific Method</p></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Scientific Method.jpg" alt="" width="390"><figcaption><p>The Scientific Method</p></figcaption></figure>
+
+
 
 As shown in the picture, the scientific method consists of making observations, creating a hypothesis based on those observations, and conducting experiments to see if the hypothesis proves to be correct or not.&#x20;
 
@@ -595,7 +601,7 @@ Of course, if an objective explanation for consciousness is found down the road,
 
 
 
-## Deep Dive: Gödel’s Incompleteness Theorem and Its Impact on the Scientific Process <a href="#_z2598opt491e" id="_z2598opt491e"></a>
+## Deep Dive: Gödel’s Incompleteness Theorem and Its Impact on the Scientific Process <a href="#z2598opt491e" id="z2598opt491e"></a>
 
 Gödel’s Incompleteness Theorem proves that no mathematical system can be complete as well as self-consistent.
 
@@ -612,4 +618,4 @@ Sometimes, the people who bring up Godel’s Theorem and limits of rationality i
 
 But, even if one admits all these limits to rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
 
-### &#x20;<a href="#_stc8a11th87s" id="_stc8a11th87s"></a>
+### &#x20;<a href="#stc8a11th87s" id="stc8a11th87s"></a>
