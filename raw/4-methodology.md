@@ -557,7 +557,7 @@ A lot of our learning is basically a result of repeated application of this proc
 
 
 
-<figure><img src="broken-reference" alt="" width="563"><figcaption><p>The Scientific Method</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Scientific Method.jpg" alt="" width="563"><figcaption><p>The Scientific Method</p></figcaption></figure>
 
 
 
