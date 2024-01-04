@@ -4,7 +4,7 @@
 * [Preface](0-0-preface.md)
 * [The Whole Book in 5 Minutes](0-1-in-5-min.md)
 * [The Whole Book in One Flowchart](0-2-in-1-flowchart.md)
-* [New Concepts Developed in This Book](0-3-new-concepts.md)
+* [Prominent Concepts Developed in This Book](0-3-concepts.md)
 * [1. Motivation: A (Midlife) Crisis is a Terrible Thing to Waste](1-motivation.md)
 * [2. Premise: Two Roads Diverged in a Yellow Wood...](2-premise.md)
 * [3. Bottomline: If Not Evidence and Reason, Then What?](3-bottomline.md)

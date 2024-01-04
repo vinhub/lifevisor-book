@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/Conclusion.png" alt="" width="563"><figcaption><p>Executive summary of the MSE Framework</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Conclusion.jpg" alt="" width="563"><figcaption><p>"Explain it to me like I am an executive."</p></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@ _"Yet what is more awesome: to believe that God created everything in six days, 
 
 **- Stuart Kauffman, in “Reinventing the Sacred”.**
 
-### &#x20;<a href="#_dtaep65r9h1s" id="_dtaep65r9h1s"></a>
+### &#x20;<a href="#dtaep65r9h1s" id="dtaep65r9h1s"></a>
 
 _“Science is not only compatible with spirituality; it is a profound source of spirituality.”_
 
@@ -46,7 +46,7 @@ Congratulations on your promotion to the C-suite! It is your magnificence and ge
 
 Here is your executive summary.
 
-## Executive Summary of the MSE Framework <a href="#_pa37trkepivc" id="_pa37trkepivc"></a>
+## Executive Summary of the MSE Framework <a href="#pa37trkepivc" id="pa37trkepivc"></a>
 
 * The **Meaning-Seeking Entities (MSE) Framework** provides a way to find meaning, purpose and hope in life based on known scientific facts and engineering practices alone. No leaps of faith or reliance on someone's opinion are necessary.
 * **Meaning-Seeking Entities** are defined as conscious living entities, such as ourselves, that have an innate desire to seek meaning, purpose and hope in their lives. (A more formal definition is included further down.)
