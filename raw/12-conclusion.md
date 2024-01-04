@@ -44,7 +44,9 @@ _“Science is not only compatible with spirituality; it is a profound source of
 
 Congratulations on your promotion to the C-suite! It is your magnificence and generosity that makes the world work. :smile:
 
-Here is your executive summary.
+(Sorry, I have to poke a little fun at executives if I am going to be taken seriously as an engineer, right?)
+
+Speaking of wanting to be taken seriously then, here is the serious summary of the book.
 
 ## Executive Summary of the MSE Framework <a href="#pa37trkepivc" id="pa37trkepivc"></a>
 
