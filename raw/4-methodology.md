@@ -228,7 +228,7 @@ We will do this in two ways, one of which is well known and the other one I some
 
 Reality is extremely cast and complex and our brains are relatively puny and simple in comparison. In spite of the great strides we have made, our knowledge of reality is quite limited. Our time and reach in this universe, even if you include all of humanity that has ever existed and all the technology and techniques we have ever built, are still minuscule as compared to the vastness of the universe.
 
-These constraints have been widely recognized by many rationalists and they have come up with an approach called Bounded Rationality to deal with them.
+These constraints have been widely recognized and studied by many rationalists for a long time. One of the most prominent voices among them was that of Herbert Simon, an American political scientist who has a rare distinction of winning both the Nobel and Turing awards. He formulated an approach known as Bounded Rationality to deal with these constraints.
 
 This approach recognizes the limits to our knowledge of reality, the cognitive constraints of our intellectual ability, and the complexity of the problem.
 
