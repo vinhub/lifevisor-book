@@ -76,7 +76,7 @@ This reminds me of another one of my favorite quotes:
 
 Here, Rumi is supposedly talking about love, which, in his opinion, is the Ultimate Reality.&#x20;
 
-\[ Scientists would probably agree with him on the "field" part - as in quantum fields of course. Sorry, I couldn't help myself from cracking another bad joke. :smile: I'm just trying to find some common ground right? ]
+\[ Scientists would probably agree with him on the "field" part - as in quantum fields of course. Sorry, I couldn't help myself from cracking another bad joke. I'm just trying to find some common ground right? ]
 
 Irrespective of whether we think of love or knowledge as being the Ultimate Reality, when we plumb its depths, we can sense that there is a field beyond the reach of not just numbers, but also words and even feelings or intuition.
 
