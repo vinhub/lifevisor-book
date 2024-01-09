@@ -94,7 +94,7 @@ In fact, we seem to cling to that magical feeling so much that sometimes we pref
 
 But luckily, for many of us, the world contains a never-ending supply of magical objects and phenomena, and the fun continues. The cycle of magic, learning, revelation and loss continues in many other directions and probably never ends.
 
-What’s interesting and truly magical here is the fact that we are naturally wired to be curious, to perform experiments and to analyze the world around us, looking to discover insights and find reliable [explanations](4-methodology.md#deep-dive-explanations).
+What’s interesting and truly magical here is the fact that we are naturally wired to be curious, to perform experiments and to analyze the world around us, looking to discover insights and find reliable [explanations](04-methodology.md#deep-dive-explanations).
 
 Over time, we have formalized this natural tendency that we are all born with. We have identified various concepts and processes involved in it and created formal definitions for them. They form the basis for the methodology we will use in this book.
 
@@ -110,7 +110,7 @@ You didn’t know it at that time, but what your brain was doing was collecting 
 
 With each piece of new evidence about some phenomena in the world, your brain updated this model, making it more in line with the world. The strength and direction of these updates depended upon how strong your prior beliefs about the phenomena were, how strong the new evidence was, whether it was corroborated by multiple senses and so on.
 
-You didn’t know it at that time, but you were performing Bayesian Inference, which we will take a [deeper look at later on in this chapter](4-methodology.md#deep-dive-bayesian-inference). In fact, one of the leading theories of how our brain works is called the Bayesian Brain Hypothesis. It is that fundamental to how we understand our reality.
+You didn’t know it at that time, but you were performing Bayesian Inference, which we will take a [deeper look at later on in this chapter](04-methodology.md#deep-dive-bayesian-inference). In fact, one of the leading theories of how our brain works is called the Bayesian Brain Hypothesis. It is that fundamental to how we understand our reality.
 
 Let us get back to the model of reality that your brain was building as you were growing up.
 
@@ -152,7 +152,7 @@ This is known as Tacit knowledge or Embodied knowledge. Things like learning to 
 
 For the purposes of this book, we will ignore the third category, that of Knowing Individuals, except yourself. The reason is that we want to build things from the ground up. We do not want to simply take someone else’s word for things, even if they claim to be authoritative. (Of course, for practical purposes, we may not always go out and perform the observations ourselves, but we need to always be sure that this can be done in principle.)
 
-This way of thinking and learning is an important aspect of what is known as Thinking from First Principles. We will take a [deeper look at it further down in this chapter](4-methodology.md#deep-dive-first-principles-thinking).
+This way of thinking and learning is an important aspect of what is known as Thinking from First Principles. We will take a [deeper look at it further down in this chapter](04-methodology.md#deep-dive-first-principles-thinking).
 
 ## Epistemology: Sources of Knowledge <a href="#id-3sc0sp81ti11" id="id-3sc0sp81ti11"></a>
 
@@ -164,7 +164,7 @@ The Stanford Encyclopedia of Philosophy also states that there are 5 sources of 
 4. Testimony, and
 5. Introspection.
 
-And once again, due to our insistence on thinking from First Principles, we will primarily focus on Perception, Reason, Memory and [Introspection](4-methodology.md#deep-dive-introspection) for building our framework, because we can do those things ourselves.
+And once again, due to our insistence on thinking from First Principles, we will primarily focus on Perception, Reason, Memory and [Introspection](04-methodology.md#deep-dive-introspection) for building our framework, because we can do those things ourselves.
 
 We will rely on Testimony only when we have confidence that we could acquire the same piece of knowledge from one of the other sources ourselves.
 
@@ -210,7 +210,7 @@ Ironically, other rationalists have analyzed this phenomenon, and come up with n
 
 We need to be careful to avoid these pitfalls of rational thinking. We know that reality is not always legible, formal, elegant or systematic.&#x20;
 
-At an even more fundamental level, some point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. I have included a [Deep Dive into this issue at the end of the chapter](4-methodology.md#\_z2598opt491e).
+At an even more fundamental level, some point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. I have included a [Deep Dive into this issue at the end of the chapter](04-methodology.md#\_z2598opt491e).
 
 We want to be mindful of all of these issues, but we don't  want to throw the baby out with the bathwater either, as the opponents of rationality often do.
 
@@ -280,7 +280,7 @@ Let us now formally define what we mean by Mindful Bounded Rationality by lookin
 
 It should go without saying that we are still talking about a rational method of knowledge acquisition, with a few modifications. So it is still primarily about using evidence and reason.
 
-As stated earlier, this means using the well known techniques of Thinking from First Principles, Bayesian Inference and [the Scientific Method](4-methodology.md#deep-dive-the-scientific-method).
+As stated earlier, this means using the well known techniques of Thinking from First Principles, Bayesian Inference and [the Scientific Method](04-methodology.md#deep-dive-the-scientific-method).
 
 But since reality contains a lot of nebulosity, unpredictability as well as unknowns, we need to adjust our methodology to deal with that.
 

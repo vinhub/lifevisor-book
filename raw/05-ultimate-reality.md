@@ -106,7 +106,7 @@ So, what do we know about the here and now?
 
 We know three things for sure:
 
-1. Something seems to exist, including us. That is pretty much all we know about the ultimate reality because, as far as we know, [we don’t have direct access to it](5-ultimate-reality.md#deep-dive-conscious-realism). All we have are our perceptions that we can sense using our nervous system. This brings us to the next point.
+1. Something seems to exist, including us. That is pretty much all we know about the ultimate reality because, as far as we know, [we don’t have direct access to it](05-ultimate-reality.md#deep-dive-conscious-realism). All we have are our perceptions that we can sense using our nervous system. This brings us to the next point.
 2. We seem to have a physical existence, in something we can call Physical Reality. We know this because we can perceive it, but we don’t really know how this physical reality emerges from the ultimate reality. But that's not all we have.
 3. We also seem to have a conscious existence. We are aware of our existence and our physical reality through our consciousness. We clearly have a sense that there is some presence inside of us. We don’t know how our consciousness emerges from the ultimate reality or whether it has any relation to physical reality either. (Yes, there are some speculations about that, but none of them are proven. We will look at some of them later.)
 
@@ -116,7 +116,7 @@ Unfortunately, even these simple statements of fact lead to raging debates.
 
 Most people take our physical reality as the primary reality, and consciousness as secondary. This is generally known as Physicalism or Naturalism.
 
-Other people object to that and say that true reality is ultimately non-physical, and consciousness is all that there is. For them, it is physical reality that is secondary or emergent or even imaginary. This idea is closely related to the philosophy known as Idealism in the west and [Brahman](5-ultimate-reality.md#\_i1bif85fn5x2) or Tao in the east.
+Other people object to that and say that true reality is ultimately non-physical, and consciousness is all that there is. For them, it is physical reality that is secondary or emergent or even imaginary. This idea is closely related to the philosophy known as Idealism in the west and [Brahman](05-ultimate-reality.md#\_i1bif85fn5x2) or Tao in the east.
 
 Unfortunately, we have no objective and incontrovertible proof of either of these two claims. This causes endless debates and confusion about which model is “real”.
 
@@ -146,7 +146,7 @@ We will start at the top of the diagram with the box that has a totally black ba
 
 In most religious or philosophical models of ultimate reality, The Great Unknown would be called God or Creator. Some religions think about the Great Unknown in a different manner, such as the concept of Brahman in Hinduism or Tao in Taoism.
 
-We also have some very interesting modern hypotheses for The Great Unknown, such as the [Simulation Hypothesis](5-ultimate-reality.md#\_379bk6crbsq) and various [mathematical](5-ultimate-reality.md#\_qnn2isahhubl) or [computational](5-ultimate-reality.md#deep-dive-the-wolfram-physics-hypothesis) models of ultimate reality.
+We also have some very interesting modern hypotheses for The Great Unknown, such as the [Simulation Hypothesis](05-ultimate-reality.md#\_379bk6crbsq) and various [mathematical](05-ultimate-reality.md#\_qnn2isahhubl) or [computational](05-ultimate-reality.md#deep-dive-the-wolfram-physics-hypothesis) models of ultimate reality.
 
 I have found many of these ideas fascinating and educational. As a result, I have included Deep Dives into some of these concepts at the end of this chapter. You may find them interesting, too.
 

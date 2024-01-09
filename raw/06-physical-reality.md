@@ -50,7 +50,7 @@ Physics has been immensely successful in explaining a huge part of physical real
 
 ## The Ultimate Equation of “Everyday” Physics <a href="#_a9wuzeafmx13" id="_a9wuzeafmx13"></a>
 
-Well known physicist and philosopher Sean Carroll says in his book [“The Big Picture”](6-physical-reality.md#\_5ekwov2yczt9) that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
+Well known physicist and philosopher Sean Carroll says in his book [“The Big Picture”](06-physical-reality.md#\_5ekwov2yczt9) that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
 
 This fits in with our methodology of Mindful Bounded Rationality, where we focus primarily on the here and now, not on distant phenomena long long ago or in the far future or, indeed, in some galaxy, far far away.
 
@@ -216,7 +216,7 @@ Also note that I am stopping short of calling these tendencies as “laws”. Th
 
 In fact, and rather disappointingly, we do have a well known "law" for the other universal tendency, Entropy. I am talking about the Law of Entropy of course, and it is considered to be one of the most iron clad laws of reality.
 
-But lately, many scientists have been working on defining a new "law" that formalizes some of these universal tendencies that work in the opposite direction to entropy. I look forward to such efforts leading to a new law that is as powerful as the law of entropy. I have included a [Deep Dive into one such effort](6-physical-reality.md#deep-dive-a-missing-law-of-nature) below.
+But lately, many scientists have been working on defining a new "law" that formalizes some of these universal tendencies that work in the opposite direction to entropy. I look forward to such efforts leading to a new law that is as powerful as the law of entropy. I have included a [Deep Dive into one such effort](06-physical-reality.md#deep-dive-a-missing-law-of-nature) below.
 
 Note that I am not including Entropy in the list of universal tendencies that we are building. Needless to say that it is one of the most well known tendencies of the universe, but this tendency goes in the opposite direction of our ultimate objective of defining meaning, purpose and hope in a rigorous manner. The list we are building isn't intended to be a definitive list of all universal tendencies, it is going to contain just the ones that we need for our purposes.
 

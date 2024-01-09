@@ -356,7 +356,7 @@ Unfortunately, this means that we can never be sure of anything being anywhere a
 
 Which raises the question: How can an observer such as ourselves, who is embedded in such a quantum universe “make sense” of anything?
 
-Wolfram has a hypothesis about what might be going on, based on his own framework of Physics. ([See the Deep Dive on it](5-ultimate-reality.md#deep-dive-the-wolfram-physics-hypothesis).)
+Wolfram has a hypothesis about what might be going on, based on his own framework of Physics. ([See the Deep Dive on it](05-ultimate-reality.md#deep-dive-the-wolfram-physics-hypothesis).)
 
 According to him, the only way for an entity such as ourselves which is embedded in the quantum field of the universe to make sense of anything is to make the field “collapse” into concrete physical particles.
 
