@@ -618,4 +618,3 @@ Sometimes, the people who bring up Godel’s Theorem and limits of rationality i
 
 But, even if one admits all these limits to rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
 
-### &#x20;<a href="#stc8a11th87s" id="stc8a11th87s"></a>
