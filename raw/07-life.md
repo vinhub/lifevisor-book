@@ -44,7 +44,7 @@ _“An agent does not 'have' a model of its world - it 'is' a model. In other wo
 
 
 
-## The Mystery of Life <a href="#_umgx71dde5zp" id="_umgx71dde5zp"></a>
+## The Mystery of Life <a href="#umgx71dde5zp" id="umgx71dde5zp"></a>
 
 Human beings have been on a quest to explain the mysteries of life for a long time.
 
@@ -70,7 +70,7 @@ We will look at a few of these principles and processes in this chapter, along w
 
 Note that since we are looking at life through the lens of science and engineering, we will use the more general term “Living Entities” to refer to it. This not only avoids the potential baggage that comes with the heavily loaded word "life", but also generalizes it to other potential forms of life besides biological life, such as organized groups of living organisms or alien lifeforms or even artificial or virtual lifeforms.
 
-## Coherence, Entropy and Complexity, Again <a href="#_lf562wdhrvj4" id="_lf562wdhrvj4"></a>
+## Coherence, Entropy and Complexity, Again <a href="#lf562wdhrvj4" id="lf562wdhrvj4"></a>
 
 Let us start with where we left off in the last chapter, discussing the concepts of coherence, entropy and complexity.
 
@@ -92,7 +92,7 @@ We have discovered some processes associated with the phenomena of life that are
 
 One of them is American physicist Jeremy England’s theory of Dissipation-Driven Adaptation, which could be described as a “Physics Theory of Life”. Let us take a quick look at it.
 
-## A Physics Theory of Life <a href="#_q26ojeg978ls" id="_q26ojeg978ls"></a>
+## A Physics Theory of Life <a href="#q26ojeg978ls" id="q26ojeg978ls"></a>
 
 Let us continue with the “ink drop in water” thought experiment that we went over in the last chapter.
 
@@ -138,7 +138,7 @@ But wait, there’s more!
 
 Karl Friston, a British neuroscientist has an even more interesting theory of life, based on statistical physics.
 
-## Friston’s Genius Formulation of the Phenomena of Life <a href="#_uorz3e94oiwl" id="_uorz3e94oiwl"></a>
+## Friston’s Genius Formulation of the Phenomena of Life <a href="#uorz3e94oiwl" id="uorz3e94oiwl"></a>
 
 As mentioned above, Karl Friston is a neuroscientist. So his original goal was to come up with a fundamental mathematical model of how brains work.
 
@@ -172,7 +172,7 @@ Let us go over various parts of the diagram above to understand what is going on
 
 Each of the sections below correspond to one of the terms in the diagram above.
 
-## Internal States <a href="#_hdbgzhl5h0fw" id="_hdbgzhl5h0fw"></a>
+## Internal States <a href="#hdbgzhl5h0fw" id="hdbgzhl5h0fw"></a>
 
 The first thing to realize is that, any living entity can only survive in a limited range of states. These are the states that are conducive to its continued existence. If the system goes outside this range, it is in danger.
 
@@ -182,7 +182,7 @@ These states are called “Internal States”, i.e. states internal to the Livin
 
 So basically what we are saying is that, in order for a Living Entity to sustain itself, it needs to maintain its Internal States within a limited range of values that are conducive to its survival.
 
-## Hidden States <a href="#_yu7aqt9u8mbx" id="_yu7aqt9u8mbx"></a>
+## Hidden States <a href="#yu7aqt9u8mbx" id="yu7aqt9u8mbx"></a>
 
 Analogously, the environment also has a large number of states.
 
@@ -190,7 +190,7 @@ For a simple system like an amoeba swimming in water, the environmental states m
 
 And since these states are external to the Living Entity and thus unknown to it, we call them “Hidden States”.
 
-## Perception and Action <a href="#_3xsckac5wzz9" id="_3xsckac5wzz9"></a>
+## Perception and Action <a href="#id-3xsckac5wzz9" id="id-3xsckac5wzz9"></a>
 
 Now, the environment keeps changing constantly, which is to say that the Hidden States keep changing constantly.
 
@@ -222,9 +222,9 @@ Luckily for you, you have experienced this before. Your internal model has learn
 
 So you stop yourself from clicking on that item. Instead, your internal model tells you to switch to the far more rewarding activity of reading books about engineers finding meaning in their lives.
 
-Good for you! You have proved that you are an excellent Living Entity with a great future. :smile:
+\[ Good for you! You have proved that you are an excellent Living Entity with a great future! ]
 
-## Generative Model and Active Inference <a href="#_7w8g94qd782c" id="_7w8g94qd782c"></a>
+## Generative Model and Active Inference <a href="#id-7w8g94qd782c" id="id-7w8g94qd782c"></a>
 
 As we have mentioned above, when a change in an environmental Hidden State is perceived by a Living Entity, it relies upon an Internal Model to decide how to respond to it.
 
@@ -263,7 +263,7 @@ Typically organizations such as the WHO would come up with realistic scenarios, 
 
 The ultimate aim of this exercise is to ensure that if another pandemic were to break out in reality, even if it is of a different character, it will not be a surprise to the global health system, and it will be able to respond immediately and effectively.
 
-## Minimizing Surprise <a href="#_355x2jb2kxbu" id="_355x2jb2kxbu"></a>
+## Minimizing Surprise <a href="#id-355x2jb2kxbu" id="id-355x2jb2kxbu"></a>
 
 As mentioned earlier, the Free Energy Principle involves a lot of complicated math. The end result of that math is a formula that calculates the amount of surprise that a Living Entity might experience when its environment changes in some way. The formula further states that this surprise needs to be minimized in order for the Living Entity to continue to exist.
 
@@ -317,7 +317,7 @@ So it looks like we have discovered another natural tendency that the universe s
 
 Having looked at the two main ideas connecting life and physics that have been developed fairly recently, let us now turn our attention to another important aspect of life, namely intelligence.
 
-## Intelligence <a href="#_l0ehhgnbjcl1" id="_l0ehhgnbjcl1"></a>
+## Intelligence <a href="#l0ehhgnbjcl1" id="l0ehhgnbjcl1"></a>
 
 It is interesting to note that Friston wasn't looking for a principle that governs living entities. He was looking for the way a brain functions. In other words, he ended up discovering a fundamental principle of life while looking for a fundamental principle of intelligence.
 
@@ -351,7 +351,7 @@ Now, you might think that I am about to add another item to our growing list of 
 
 But no worries, this universe we have ended up with is so awesome, we still have a few more tendencies to discover and appreciate.
 
-## Evolution <a href="#_mmp36hxg2n4k" id="_mmp36hxg2n4k"></a>
+## Evolution <a href="#mmp36hxg2n4k" id="mmp36hxg2n4k"></a>
 
 As quickly mentioned earlier, not every behavior learned by the Internal Model of a Living Entity is learned within its own lifetime. A lot of it gets passed down from generation to generation.
 
@@ -367,7 +367,7 @@ But, based on the analogy above, one can think of even evolution by natural sele
 
 But wait, there is even more.
 
-## Organized Groups and the Biosphere <a href="#_wqasrqigkrdy" id="_wqasrqigkrdy"></a>
+## Organized Groups and the Biosphere <a href="#wqasrqigkrdy" id="wqasrqigkrdy"></a>
 
 This process of complex adaptation through Active Inference doesn’t stop at the individual level. It continues to expand wherever possible by making individual Living Entities self-organize into groups and interconnected webs of such groups forming ecosystems and eventually the entire biosphere.
 
@@ -391,9 +391,9 @@ With that, as you might have guessed, we can add another item to our list of Uni
 
 <mark style="color:orange;">**The universe appears to have a natural tendency to create complex entities and processes that evolve towards more complex and sustainable forms through a process of natural selection.**</mark>
 
-### &#x20;<a href="#_598mcfns8dry" id="_598mcfns8dry"></a>
+### &#x20;<a href="#id-598mcfns8dry" id="id-598mcfns8dry"></a>
 
-## The Need for a New Law of Nature <a href="#_598mcfns8dry" id="_598mcfns8dry"></a>
+## The Need for a New Law of Nature <a href="#id-598mcfns8dry" id="id-598mcfns8dry"></a>
 
 Needless to say that many scientists have noted the prevalence of these Universal Tendencies we have been collecting: Coherence, Complexity, Continuity of identity or Existence and Evolution.
 
@@ -411,7 +411,7 @@ Following is an excerpt from one such paper that hints at all the Universal Tend
 
 
 
-## Curiosity and Creativity <a href="#_eaxki9q0arnm" id="_eaxki9q0arnm"></a>
+## Curiosity and Creativity <a href="#eaxki9q0arnm" id="eaxki9q0arnm"></a>
 
 Throughout this entire discussion of the Free Energy Principle and Active Inference, as well as Intelligence and Evolution, you may have noticed that all Living Entities inherently demonstrate two behaviors that we typically associate with human intelligence, though at levels appropriate to their context.&#x20;
 
@@ -443,9 +443,9 @@ With that we can now add these two to our list of universal tendencies.
 
 <mark style="color:orange;">**The universe appears to have a natural tendency for creating entities and processes that exhibit creativity.**</mark>
 
-## &#x20;<a href="#_3nqvumri8h82" id="_3nqvumri8h82"></a>
+## &#x20;<a href="#id-3nqvumri8h82" id="id-3nqvumri8h82"></a>
 
-## Diversity <a href="#_3nqvumri8h82" id="_3nqvumri8h82"></a>
+## Diversity <a href="#id-3nqvumri8h82" id="id-3nqvumri8h82"></a>
 
 As of now, the Standard Model of Physics recognizes seventeen distinct elementary particles—twelve fermions and five bosons. And that doesn’t even account for the flavor and color combinations and their antimatter counterparts. If we do that, we end up with a total of 61 particles.
 
@@ -477,9 +477,9 @@ As a result, we can add one more item to our list: Diversity.
 
 <mark style="color:orange;">**The universe appears to have a natural tendency for creating a large amount of diversity of various types.**</mark>
 
-### &#x20;<a href="#_9kmi94xlzegz" id="_9kmi94xlzegz"></a>
+### &#x20;<a href="#id-9kmi94xlzegz" id="id-9kmi94xlzegz"></a>
 
-## Mindfulness <a href="#_9kmi94xlzegz" id="_9kmi94xlzegz"></a>
+## Mindfulness <a href="#id-9kmi94xlzegz" id="id-9kmi94xlzegz"></a>
 
 This brings us back to one of the most central concepts in this book.
 

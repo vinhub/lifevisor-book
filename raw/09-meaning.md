@@ -35,13 +35,13 @@ _“Human being is meaning making. For the human, what evolving amounts to is th
 
 ***
 
-## &#x20;<a href="#_okcdz6jppf9i" id="_okcdz6jppf9i"></a>
+## &#x20;<a href="#okcdz6jppf9i" id="okcdz6jppf9i"></a>
 
 
 
 
 
-## The Importance of Meaning <a href="#_okcdz6jppf9i" id="_okcdz6jppf9i"></a>
+## The Importance of Meaning <a href="#okcdz6jppf9i" id="okcdz6jppf9i"></a>
 
 Let us start with a quick introduction to Viktor Frankl and his seminal book, “Man’s Search for Meaning”. It was this book that brought wide awareness to the idea that meaning is important for human beings.
 
@@ -69,7 +69,7 @@ As stated earlier, my goal here is to take a rigorous, first principles based ap
 
 In order to do so, we have to first define what exactly we mean by "meaning".
 
-## The Meaning of “Meaning” <a href="#_8y1bdia2nk1o" id="_8y1bdia2nk1o"></a>
+## The Meaning of “Meaning” <a href="#id-8y1bdia2nk1o" id="id-8y1bdia2nk1o"></a>
 
 Right off the bat, we should note that most people, including many scientists themselves, believe that the concept of meaning, used in this context, is beyond the reach of science or reason.
 
@@ -115,7 +115,7 @@ To start with, let us note that a lot of academic literature uses the phrase “
 
 With that introduction, let us dive in and take a deeper look at what the scientific literature says we mean by the phrase “meaning in life”.
 
-## “Meaning in Life” Based on Psychological Analysis <a href="#_ofnt9m7t1383" id="_ofnt9m7t1383"></a>
+## “Meaning in Life” Based on Psychological Analysis <a href="#ofnt9m7t1383" id="ofnt9m7t1383"></a>
 
 Luckily for us, this topic has already been studied quite extensively by psychologists. And based on various studies and surveys, they have converged on 3 primary components that comprise the notion of “meaning in life”:
 
@@ -129,7 +129,7 @@ C) Having a sense that one’s life matters or has existential significance.
 
 Let us take a look at each of these categories in a little more detail.
 
-### A) Meaning as Having Coherence or Comprehensibility in Life <a href="#_ugvgmjq468z" id="_ugvgmjq468z"></a>
+### A) Meaning as Having Coherence or Comprehensibility in Life <a href="#ugvgmjq468z" id="ugvgmjq468z"></a>
 
 If you see structure and inter-relatedness between your life’s experiences and recognize understandable patterns in them, then you have Meaning as "having coherence or comprehensibility" in your life.
 
@@ -143,7 +143,7 @@ One of the popular bumper stickers from the 80’s was “One who dies with the 
 
 Needless to say that I like that phrase a lot personally. You may recall that this was exactly how I got started on this journey: My desire to make sense of my life and tell a coherent and meaningful story, starting from first principles.
 
-### B) Meaning as Having a Sense of Purpose in Life <a href="#_yctae3ibz5se" id="_yctae3ibz5se"></a>
+### B) Meaning as Having a Sense of Purpose in Life <a href="#yctae3ibz5se" id="yctae3ibz5se"></a>
 
 Meaning as "having a sense of purpose in life" refers to the expectation that you are aware of your aims or core goals and direction in life and you adhere to them to the best of your ability.
 
@@ -163,7 +163,7 @@ Here is a famous quote along these lines:
 
 In my case, researching and writing this book has provided me with a strong sense of purpose day in and day out while I have been at it. Due to this, by the time I publish it and before anyone has read it, it would already have provided immense value to me! (As an aside, I would highly recommend writing a book about a subject you really care about. It is incredibly rewarding even if no one ever reads it.)
 
-### C) Meaning as Existential Mattering or Significance <a href="#_z5m76omsz3m" id="_z5m76omsz3m"></a>
+### C) Meaning as Existential Mattering or Significance <a href="#z5m76omsz3m" id="z5m76omsz3m"></a>
 
 A common refrain you might hear when talking to people about meaning in life is that they feel they need to contribute to something “much larger than themselves” or “make a difference” in the world somehow.
 
@@ -179,7 +179,7 @@ The "intense conscious experiences" that we talked about in the chapter on Consc
 
 As you might have noticed, there is some overlap among all three components of meaning mentioned above, but there is also something unique in each. Also, most peoples’ definition of meaning in life will probably contain some amount of each of these components.
 
-## Meaning from First Principles <a href="#_xigtjvg4u5h1" id="_xigtjvg4u5h1"></a>
+## Meaning from First Principles <a href="#xigtjvg4u5h1" id="xigtjvg4u5h1"></a>
 
 Normally, the definitions of meaning provided above would be adequate for our purposes, but one may still have some discomfort over the fact that they are derived from surveys rather than from the ground up.
 
@@ -209,7 +209,7 @@ Thus, we can say that the emergence of the 3 components of meaning that we ident
 
 But it gets even better!
 
-## Deeper Dive into Meaning-Seeking <a href="#_nuljvc9lcsr1" id="_nuljvc9lcsr1"></a>
+## Deeper Dive into Meaning-Seeking <a href="#nuljvc9lcsr1" id="nuljvc9lcsr1"></a>
 
 Let us take a look at the hypotheses we have put together about consciousness in the last chapter:
 
@@ -229,13 +229,13 @@ Agreed, that this idea is mostly speculation on my part, but I think it is a ric
 
 Getting back to our main thread after that bit of diversion, let us we revisit the list of Universal Tendencies that we have been putting together over the last few chapters, and see what interesting insights may emerge out of that.
 
-## List of Universal Tendencies <a href="#_833x9i5lxo9d" id="_833x9i5lxo9d"></a>
+## List of Universal Tendencies <a href="#id-833x9i5lxo9d" id="id-833x9i5lxo9d"></a>
 
 As we already saw in the previous chapters, the universe appears to exhibit some well defined features, and follows some well defined laws and processes. We observed that these features, laws and processes, taken together and observed over time, give the appearance that the universe has some inherent tendencies, a set of directions it appears to "want" to go in.&#x20;
 
 These tendencies are strong, ubiquitous and ever present. All of them can be seen to exist right here, right now. Here is the list:
 
-### 1) Universal Tendency #1: Coherence <a href="#_wyo6e531gf99" id="_wyo6e531gf99"></a>
+### 1) Universal Tendency #1: Coherence <a href="#wyo6e531gf99" id="wyo6e531gf99"></a>
 
 The universe appears to have a natural tendency to create definite or coherent things out of uncertain or foggy things.
 
@@ -246,7 +246,7 @@ For example:
 * Chaotic chemical soup => Living cells,
 * Subconscious thoughts => Conscious thoughts.
 
-### 2) Universal Tendency #2: Complexity <a href="#_hjtw3pbjhwjm" id="_hjtw3pbjhwjm"></a>
+### 2) Universal Tendency #2: Complexity <a href="#hjtw3pbjhwjm" id="hjtw3pbjhwjm"></a>
 
 The universe appears to have a related but slightly different natural tendency to form more complex structures out of simpler ones.
 
@@ -261,7 +261,7 @@ For example:
 * Living organisms => Societies of living organisms and ecosystems,
 * Simple thoughts => Complex thoughts.
 
-### 3) Universal Tendency #3: Continuity (of Existence or Identity) <a href="#_8xw1tac2glly" id="_8xw1tac2glly"></a>
+### 3) Universal Tendency #3: Continuity (of Existence or Identity) <a href="#id-8xw1tac2glly" id="id-8xw1tac2glly"></a>
 
 The universe appears to have a natural tendency to create “Living Entities” that try to continue to exist or maintain their identity over time.
 
@@ -273,7 +273,7 @@ In addition, we have a lot of other evidence, based on the ubiquity of planets w
 
 Suffices to say that Continuity of existence or identity appears to be another inherent tendency of the universe.
 
-### 4) Universal Tendency #4: Evolution <a href="#_4q2alu5snyud" id="_4q2alu5snyud"></a>
+### 4) Universal Tendency #4: Evolution <a href="#id-4q2alu5snyud" id="id-4q2alu5snyud"></a>
 
 The universe appears to have a natural tendency to create complex entities that evolve towards more complex and sustainable forms through a process of natural selection.
 
@@ -281,7 +281,7 @@ This tendency can be observed in living organisms, but also in other entities su
 
 Beyond that, there are theories that proclaim that other processes such as the emergence of concrete particles out of quantum wave functions can also be interpreted as evolution by natural selection at the quantum level.
 
-### 5) Universal Tendency #5: Curiosity <a href="#_4d6jpm8p7k7z" id="_4d6jpm8p7k7z"></a>
+### 5) Universal Tendency #5: Curiosity <a href="#id-4d6jpm8p7k7z" id="id-4d6jpm8p7k7z"></a>
 
 The universe appears to have a natural tendency for creating Living Entities that are inherently wired for curiosity.
 
@@ -289,7 +289,7 @@ Curiosity involves going out and seeking new information or experiences. The “
 
 In other words, all Living Entities are inherently curious at least to some extent within their own sphere of influence. This may take the form of simple activities like looking for resources to sustain oneself, all the way to advanced activities like trying to understand the nature of reality and our place in it.
 
-### 6) Universal Tendency #6: Creativity <a href="#_w3eao5mosg5d" id="_w3eao5mosg5d"></a>
+### 6) Universal Tendency #6: Creativity <a href="#w3eao5mosg5d" id="w3eao5mosg5d"></a>
 
 The universe also appears to have a related natural tendency for creating Living Entities that, in turn, exhibit creativity of their own.
 
@@ -301,7 +301,7 @@ Every Living Entity creates things, starting with making copies of itself. In ad
 
 Even our ability to create completely imaginary concepts, in the form of poetry or fiction can be seen as our consciousness imagining counterfactual worlds in the hopes of discovering evidence of their existence someday. This may be why we appreciate poetry or art so much and we keep trying to bring them to life!
 
-### 7) Universal Tendency #7: Diversity <a href="#_y4qcc1ri85ds" id="_y4qcc1ri85ds"></a>
+### 7) Universal Tendency #7: Diversity <a href="#y4qcc1ri85ds" id="y4qcc1ri85ds"></a>
 
 The universe appears to have a natural tendency for creating a large amount of diversity of various types.
 
@@ -309,7 +309,7 @@ As we have noted, the universe contains a tremendous amount of diversity of all 
 
 Also, all of these things combine and interact with each other in complex ways, creating a combinatorial explosion of diversity.
 
-### 8) Universal Tendency #8: Consciousness <a href="#_i8giscrstih5" id="_i8giscrstih5"></a>
+### 8) Universal Tendency #8: Consciousness <a href="#i8giscrstih5" id="i8giscrstih5"></a>
 
 The universe appears to have a natural tendency for creating advanced Living Entities that are capable of phenomenal experience, or consciousness, to various degrees.
 
@@ -329,13 +329,13 @@ Also, having them spelled out this way makes it easier to identify them in the v
 
 But before we get there, as good engineers, our next step is to come up with a memorable name for this list so it is easy to remember and talk about!
 
-## The Ingredients for Our Ultimate Success <a href="#_ttqz0krero0t" id="_ttqz0krero0t"></a>
+## The Ingredients for Our Ultimate Success <a href="#ttqz0krero0t" id="ttqz0krero0t"></a>
 
 Given that we have 6 of these tendencies starting with “C”, one starting with “E” and one with “D”, how about calling them the “6CED” Tendencies?&#x20;
 
-Has a nice ring to it, doesn’t it? It almost looks like the universe has, embedded in its behavior, thw word "Succeed!" Who would've thought? :smile:
+\[ Has a nice ring to it, doesn’t it? It almost looks like the universe has, embedded in its behavior, the word "Succeed!" Who would've thought? ]
 
-This calls for another quote from the Matrix series:
+I feel like this  calls for another obligatory quote from the Matrix series:
 
 
 
@@ -373,7 +373,7 @@ Doesn't that feel great?
 
 We aren’t quite done yet, though. We need to define one more concept and coin one more term before we can finally put everything together into something even more meaningful.
 
-## “Meaning-Seeking” Entities <a href="#_hiw2x79anp94" id="_hiw2x79anp94"></a>
+## “Meaning-Seeking” Entities <a href="#hiw2x79anp94" id="hiw2x79anp94"></a>
 
 Finally, we get to talk about the concept that gives meaning to the “Meaning-Seeking” part of the MSE Framework. Let us start by defining the concept.
 
@@ -394,7 +394,7 @@ Everything that follows in the book takes these terms as their basis to get to o
 
 The following diagram gives a visual representation of what we mean by the "6CED" Tendencies and how they give rise to Meaning-Seeking Entities.
 
-## Meaning-Seeking Entities (MSE) - Overview <a href="#_37z5brcocb2v" id="_37z5brcocb2v"></a>
+## Meaning-Seeking Entities (MSE) - Overview <a href="#id-37z5brcocb2v" id="id-37z5brcocb2v"></a>
 
 
 
@@ -426,13 +426,13 @@ Now, if we can show how these inherent tendencies of the universe can satisfy al
 
 So let us do that.
 
-## The Connection between Meaning and the “6CED” Tendencies <a href="#_egmsoe9fgpuq" id="_egmsoe9fgpuq"></a>
+## The Connection between Meaning and the “6CED” Tendencies <a href="#egmsoe9fgpuq" id="egmsoe9fgpuq"></a>
 
 What I want to demonstrate is that the “6CED” universal tendencies can satisfy all the components of Meaning we have come up with. Or, in other words, these tendencies are inherently “meaning-satisfying”.
 
 Let us look at each of the components of meaning mentioned earlier and see this connection.
 
-### A) Meaning as Having Coherence or Comprehensibility in Life: <a href="#_h3kxzcjhhflo" id="_h3kxzcjhhflo"></a>
+### A) Meaning as Having Coherence or Comprehensibility in Life: <a href="#h3kxzcjhhflo" id="h3kxzcjhhflo"></a>
 
 Right off the bat, let us make the observation that Coherence is already a member of the list of the universal tendencies.
 
@@ -458,7 +458,7 @@ They want to go deeper and trying to understand things from first principles. Th
 
 For such people, becoming aware of the 6CED Tendencies and how they affect everything around them as well as within themselves, helps them achieve this deeper level of coherence, and through that, a deeper meaning in their lives.
 
-### B) Meaning as Having a Purpose in Life: <a href="#_up04tl5ivmsv" id="_up04tl5ivmsv"></a>
+### B) Meaning as Having a Purpose in Life: <a href="#up04tl5ivmsv" id="up04tl5ivmsv"></a>
 
 The fact that the universe relentlessly exhibits all these natural tendencies at all times and everywhere gives us ample evidence that it appears to be working towards something. In other words, it appears to have an inherent purpose.
 
@@ -478,7 +478,7 @@ Moreover, if we simply realize the existence of these tendencies, and align ours
 
 In short, we have succeeded in showing how the 6CED Tendencies can help us define our greater purpose, and through that, meaning in our lives.
 
-### C) Meaning as Existential Mattering or Significance: <a href="#_ozi2mohlwp4p" id="_ozi2mohlwp4p"></a>
+### C) Meaning as Existential Mattering or Significance: <a href="#ozi2mohlwp4p" id="ozi2mohlwp4p"></a>
 
 What can be more existentially mattering or significant than aligning oneself with the ubiquitous and ever-present natural tendencies that appear to be embedded in the structure and laws of the universe?
 
@@ -494,7 +494,7 @@ In conclusion, based on the above discussion, we can conclusively state that the
 
 We will formalize this discussion with a diagram showing our definition of Meaning in Life.
 
-## Defining “Meaning in Life” Using the MSE Framework <a href="#_j004nffc3vg8" id="_j004nffc3vg8"></a>
+## Defining “Meaning in Life” Using the MSE Framework <a href="#j004nffc3vg8" id="j004nffc3vg8"></a>
 
 The following picture depicts what we have described so far.
 
@@ -520,7 +520,7 @@ We can't just leave things at the theorerical level. We have to see if any probl
 
 So let us do that.
 
-## Practical Considerations and Solutions <a href="#_3iay2ivsrrrs" id="_3iay2ivsrrrs"></a>
+## Practical Considerations and Solutions <a href="#id-3iay2ivsrrrs" id="id-3iay2ivsrrrs"></a>
 
 ### A) Misaligned Desires
 
@@ -582,7 +582,7 @@ This is the whole point of this book.
 
 Finally, while we are on a roll talking about religious ideas, let us take a quick look at another one.
 
-## Meaning is Built into the Universe <a href="#_b4601umqf6z8" id="_b4601umqf6z8"></a>
+## Meaning is Built into the Universe <a href="#b4601umqf6z8" id="b4601umqf6z8"></a>
 
 Note that now we can make another seemingly religious statement, but based on rigorous analysis:&#x20;
 
@@ -606,7 +606,7 @@ There is no need to project them into the far future or work backwards to some e
 
 We are simply stating known facts and using logic to reach a purely scientific / engineering conclusion.
 
-## Looking at the Stars <a href="#_i0oyizvhq5wo" id="_i0oyizvhq5wo"></a>
+## Looking at the Stars <a href="#i0oyizvhq5wo" id="i0oyizvhq5wo"></a>
 
 Allow me to finally conclude the chapter with an interesting but slightly weird quote.
 
@@ -636,7 +636,7 @@ We have done the hard part of the work now. Things get easier from here. In the 
 
 
 
-## Deep Dive: The "Science of Meaning" <a href="#_almkltkkt13" id="_almkltkkt13"></a>
+## Deep Dive: The "Science of Meaning" <a href="#almkltkkt13" id="almkltkkt13"></a>
 
 Here are some excerpts from a recent review of the current thinking in the field of the science of meaning (The Science of Meaning in Life, Annual Review of Psychology 2021, Laura A. King and Joshua A. Hicks, https://www.annualreviews.org/doi/10.1146/annurev-psych-072420-122921).
 

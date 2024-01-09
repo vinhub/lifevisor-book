@@ -42,9 +42,9 @@ _“Science is not only compatible with spirituality; it is a profound source of
 
 
 
-Congratulations on your promotion to the C-suite! It is your magnificence and generosity that makes the world work. :smile:
+Congratulations on your promotion to the C-suite! It is your magnificence and generosity that makes the world work.
 
-(Sorry, I have to poke a little fun at executives if I am going to be taken seriously as an engineer, right?)
+\[ Sorry, I have to poke a little fun at executives if I am going to be taken seriously as an engineer, right? No offense intended of course. ]
 
 Speaking of wanting to be taken seriously then, here is the serious summary of the book.
 
