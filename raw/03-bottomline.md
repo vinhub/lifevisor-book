@@ -44,7 +44,7 @@ _"Anything that gives us new knowledge gives us an opportunity to be more ration
 
 
 
-## Is it Really Possible to Find Meaning, Purpose and Hope in Life using Evidence and Reason Alone? <a href="#_4crrrccqfvg6" id="_4crrrccqfvg6"></a>
+## Is it Really Possible to Find Meaning, Purpose and Hope in Life using Evidence and Reason Alone? <a href="#id-4crrrccqfvg6" id="id-4crrrccqfvg6"></a>
 
 We are lucky to be living in an era when we know so much about our world, discovered through a process that relied upon evidence and reason alone.
 
@@ -66,7 +66,7 @@ But before we go there, let us go over some disclaimers and potential sources of
 
 (Note: You will see me using the words “evidence and reason”, “rationality”, “science and engineering”, or just “facts and logic” somewhat interchangeably in this book. I am aware of the philosophical nuances that make them slightly different from each other, and we will talk about that when needed.)
 
-## First, Some Disclaimers <a href="#_actvkcm8j51" id="_actvkcm8j51"></a>
+## First, Some Disclaimers <a href="#actvkcm8j51" id="actvkcm8j51"></a>
 
 I want to emphasize that I am not against any religion or philosophy. This book is not trying to stir up a controversy on that topic like so many other books that talk about science or rationality.
 
@@ -98,11 +98,11 @@ I am painfully aware of such objections. I accept the fact that this project is 
 
 So let me try to address some of these suspicions and objections in advance.
 
-## The Audacity of Finding Hope (and Meaning and Purpose) Using Evidence and Reason Alone <a href="#_sw2e5p5xnb2o" id="_sw2e5p5xnb2o"></a>
+## The Audacity of Finding Hope (and Meaning and Purpose) Using Evidence and Reason Alone <a href="#sw2e5p5xnb2o" id="sw2e5p5xnb2o"></a>
 
 No kidding! Certainly this endeavor is rather audacious, if I may say so myself. So allow me to offer the following arguments in my defense:
 
-### A) We Already Use Science and Engineering to Answer Life’s Other Important Questions <a href="#_3vvvsyekrttz" id="_3vvvsyekrttz"></a>
+### A) We Already Use Science and Engineering to Answer Life’s Other Important Questions <a href="#id-3vvvsyekrttz" id="id-3vvvsyekrttz"></a>
 
 In the old days, it was customary for people to go to religious leaders when they were facing important life decisions such as what career path to choose or whom to marry or how to get rid of some ailment they may have been suffering from, and so on.
 
@@ -142,7 +142,7 @@ Even if you could make only partial progress using this approach, wouldn’t tha
 
 Which brings us to my next defense.
 
-### B) This is the Need of the Hour <a href="#_w9nusm2d1uzf" id="_w9nusm2d1uzf"></a>
+### B) This is the Need of the Hour <a href="#w9nusm2d1uzf" id="w9nusm2d1uzf"></a>
 
 The "meaning void" and "meaning crisis" that I mentioned in the last chapter are real.
 
@@ -158,7 +158,7 @@ We badly need a rigorous framework that is based on our updated body of knowledg
 
 The cost of not doing so can be high, which brings me to the next point.
 
-### C) Meaning Traps <a href="#_a05znn2bsneu" id="_a05znn2bsneu"></a>
+### C) Meaning Traps <a href="#a05znn2bsneu" id="a05znn2bsneu"></a>
 
 We supposedly live in the “Postmodern Era”, which arose as a reaction to the excesses of the “Modern Era” that preceded it.&#x20;
 
@@ -180,7 +180,7 @@ What I am trying to do is to offer a way to move forward instead of going back. 
 
 This brings us to probably the most important question of all.
 
-### D) If Not Evidence and Reason, Then What? <a href="#_31kklmb70at6" id="_31kklmb70at6"></a>
+### D) If Not Evidence and Reason, Then What? <a href="#id-31kklmb70at6" id="id-31kklmb70at6"></a>
 
 If some real phenomena can not be explained by evidence and reason, or rationality, then what would you suggest we use?
 
@@ -202,7 +202,7 @@ So we will that here and see where it takes us.
 
 Ok, if even that argument didn't convince you, maybe I can try some other arguments that are commonly used when undertaking other audacious projects.
 
-### E) Think of This as Another “Moonshot” Project <a href="#_9azoo32hijp9" id="_9azoo32hijp9"></a>
+### E) Think of This as Another “Moonshot” Project <a href="#id-9azoo32hijp9" id="id-9azoo32hijp9"></a>
 
 We live in a world where “moonshot” projects are highly celebrated.
 
@@ -216,7 +216,7 @@ I can promise you, there is no chance this endeavor will lead to any massive exp
 
 Ok, after having addressed the optimists among us, let me say a few words to the traditionalists among us.
 
-### F) Well Established Precedent <a href="#_ifc9jophkpk3" id="_ifc9jophkpk3"></a>
+### F) Well Established Precedent <a href="#ifc9jophkpk3" id="ifc9jophkpk3"></a>
 
 This point is mentioned briefly in the Preface, but it deserves being repeated here.
 
@@ -232,7 +232,7 @@ Today, no one objects to the scientific explanations of those phenomena. And I b
 
 Finally, allow me to make a democratic argument.
 
-### G) Another Voice in the Conversation <a href="#_po87uwid0rss" id="_po87uwid0rss"></a>
+### G) Another Voice in the Conversation <a href="#po87uwid0rss" id="po87uwid0rss"></a>
 
 As the title of the book suggests, this is an account of one man’s search for meaning. I am not at all claiming that what I am proposing here will necessarily work for everyone.
 
@@ -256,7 +256,7 @@ Anyway, those are all the arguments I have come up with so far. As I discover mo
 
 I hope that the arguments satisfy most critics, so without further ado, let us dive in.
 
-## Time to Pull Up Our Sleeves <a href="#_cs5mrr47sbiz" id="_cs5mrr47sbiz"></a>
+## Time to Pull Up Our Sleeves <a href="#cs5mrr47sbiz" id="cs5mrr47sbiz"></a>
 
 This reminds me of the motto of Blue Origin, Amazon founder Jeff Bezos’ space company. I think it is quite pertinent here.
 
@@ -282,7 +282,7 @@ To start with, let us give the framework a name and then quickly go over its par
 
 I am calling this framework the “Meaning-Seeking Entities” (MSE) Framework. We will soon get to see why it is named this way.
 
-## The “Meaning-Seeking Entities” (MSE) Framework <a href="#_de0kat1vg8xd" id="_de0kat1vg8xd"></a>
+## The “Meaning-Seeking Entities” (MSE) Framework <a href="#de0kat1vg8xd" id="de0kat1vg8xd"></a>
 
 Right off the bat, let us observe that “Meaning-Seeking Entities” sounds like a scientific or engineering term. This is very much intentional.
 
@@ -294,13 +294,13 @@ Thus, this is a framework that defines, from the ground up, layer by layer, what
 
 Each of the concepts below maps directly to a layer in the framework and there is a chapter dedicated to each of them.
 
-### **A) Methodology:** <a href="#_546es3oz83l0" id="_546es3oz83l0"></a>
+### **A) Methodology:** <a href="#id-546es3oz83l0" id="id-546es3oz83l0"></a>
 
 The most fundamental aspect of defining a framework from First Principles is establishing what constitutes genuine knowledge according to the framework and what methodology is used to acquire it. Another word for this is Epistemology.
 
 This is also where we will address the most important objection to what we are undertaking: limits to rationality and how we plan to deal with them. Our solution to this problem is to define a modified version of rationality, which I have termed Mindful Bounded Rationality. We will go over what it means and why it makes sense.
 
-### **B) Ultimate Reality:** <a href="#_z6fhw8hc2h9p" id="_z6fhw8hc2h9p"></a>
+### **B) Ultimate Reality:** <a href="#z6fhw8hc2h9p" id="z6fhw8hc2h9p"></a>
 
 The next step is defining our model of ultimate reality, which is basically all that exists.
 
@@ -308,7 +308,7 @@ Needless to say that the knowledge of ultimate reality itself must be acquired u
 
 Of course, we won't go into all aspects of ultimate reality - that will take volumes. We will look at only the parts that we need for our framework.
 
-### **C) Physical Reality:** <a href="#_ge8sknwwqwq4" id="_ge8sknwwqwq4"></a>
+### **C) Physical Reality:** <a href="#ge8sknwwqwq4" id="ge8sknwwqwq4"></a>
 
 We take it for granted that we live in a physical reality, but we also need to acknowledge that it may not be the ultimate reality. We do not really know how physical reality emerges from ultimate reality, but its existence is evident to us because we can perceive it using our senses.
 
@@ -318,7 +318,7 @@ But we also know that some things in physical reality are too nebulous to be cap
 
 Here again, we will go over the parts of physical reality that matter for our framework.
 
-### **D) Life:** <a href="#_bp3ukziqogez" id="_bp3ukziqogez"></a>
+### **D) Life:** <a href="#bp3ukziqogez" id="bp3ukziqogez"></a>
 
 Normally, one would include Chemistry and Biology as the two layers immediately above Physics, but we don’t need to make that distinction for this framework. For our purposes, clubbing them together into one layer called “Life” is sufficient.
 
@@ -326,7 +326,7 @@ Also, we will often use the term “Living Entities” rather than just “Life�
 
 Also, normally we would consider Intelligence to be a layer above this, but again, for the purposes of this framework, we will include it along with Life. As you will see in the chapter on Life, it makes a lot of sense to treat intelligence as an inherent property of living entities.
 
-### **E) Consciousness:** <a href="#_nabhb2sxyllz" id="_nabhb2sxyllz"></a>
+### **E) Consciousness:** <a href="#nabhb2sxyllz" id="nabhb2sxyllz"></a>
 
 Consciousness means different things to different people.&#x20;
 
@@ -340,7 +340,7 @@ But in typical engineering fashion, we will not let its enigmatic nature hinder 
 
 As an aside, this is a critical difference between the engineering approach and the scientific or philosophical approach to problems, and why I feel so much more confident in using this approach where the scientific or philosophical approaches have problems.
 
-### F) Meaning: <a href="#_z96vg2t7vx6t" id="_z96vg2t7vx6t"></a>
+### F) Meaning: <a href="#z96vg2t7vx6t" id="z96vg2t7vx6t"></a>
 
 The topic of “meaning” has been so muddied that we need to start by defining what the word even means. We need to figure out how to define it scientifically, what its essential attributes are and then figure out how all of this fits in the framework.
 
@@ -348,11 +348,11 @@ We will start by crisply defining what we mean by “Meaning-Seeking Entities”
 
 After we have done all this hard work, tackling purpose and hope become rather easy.
 
-### **G) Purpose:** <a href="#_azmxhujnbm2z" id="_azmxhujnbm2z"></a>
+### **G) Purpose:** <a href="#azmxhujnbm2z" id="azmxhujnbm2z"></a>
 
 Here again we start by defining the term “greater purpose”. And then we will figure out how to define it using the framework.
 
-### H) Hope: <a href="#_yy79gfo6hrjf" id="_yy79gfo6hrjf"></a>
+### H) Hope: <a href="#yy79gfo6hrjf" id="yy79gfo6hrjf"></a>
 
 It goes without saying that any framework that purports to explain life, the universe, and everything should be expected to provide a strong foundation for hope, otherwise it will lose its appeal to most people.
 
@@ -372,24 +372,74 @@ Finally, it will be time to do some "rude" Q\&A. Given that this is a rather dif
 
 ## The Meaning-Seeking Entities (MSE) Framework - Chapters and Agenda
 
-I like to prepare visual aids or cheat sheets to facilitate my own learning, so here is a table that I have put together that summarizes all the main concepts we will talk about.
-
-The table also lists the relevant questions we will answer in each chapter. The questions will give you some great hints about how the framework will be constructed.
+Here is the list of the main concepts we will talk about (with a chapter dedicated to each concept) and the questions we will address in each. This should give you some hints about how the framework will be constructed.
 
 
 
-| Main Concept      | Key Questions                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Methodology       | <ul><li>What types and sources of knowledge are we allowed to use to build the MSE Framework?</li><li>What principles and methodology do we use to build the MSE Framework?</li><li>What do we do when we don’t know something?</li><li>What are the limits to rationality and how does the framework deal with them?</li><li>What is Mindful Bounded Rationality?</li></ul>                                                |
-| Ultimate Reality  | <ul><li>What is the true nature of reality? What exists?</li><li>What is the MSE Framework model of ultimate reality?</li><li>What aspects of ultimate reality do we need to worry about for our framework?</li></ul>                                                                                                                                                                                                       |
-| Physical Reality  | <ul><li>How well do we understand physical reality?</li><li>What features and laws of physical reality are pertinent to defining meaning, purpose and hope?</li><li>What are patterns and nebulosity?</li><li>What is entropy and why does it matter to us?</li><li>What is coherence and why does it matter to us?</li><li>What is complexity and why does it matter to us? What is its relationship to entropy?</li></ul> |
-| Life              | <ul><li>What are the essential characteristics of life as far as the framework is concerned?</li><li>How does life emerge from physical reality and what purpose might it serve?</li><li>What is the Physics Theory of Life?</li><li>What are the Free Energy Principle and Active Inference?</li><li>How does intelligence emerge in living organisms and what purpose does it serve?</li></ul>                            |
-| Consciousness     | <ul><li>How do we define consciousness in the MSE Framework? What are its features and behaviors?</li><li>What is its relationship to ultimate reality and physical reality?</li><li>What does consciousness have to do with meaning, purpose and hope?</li></ul>                                                                                                                                                           |
-| Meaning           | <ul><li>What does “meaning” even mean? Is there a way to define it scientifically?</li><li>What are the “6CED” Tendencies of the universe?</li><li>What are Meaning-Seeking Entities?</li><li>How do we define “meaning” using the MSE Framework?</li></ul>                                                                                                                                                                 |
-| Purpose           | <ul><li>What do we mean by “purpose”?</li><li>Where might purpose come from?</li><li>How do we define “purpose” in the MSE Framework?</li></ul>                                                                                                                                                                                                                                                                             |
-| Hope              | <ul><li>What do we mean by “hope”?</li><li>How does the MSE Framework help us find hope that isn’t just wishful thinking?</li></ul>                                                                                                                                                                                                                                                                                         |
-| Executive Summary | <ul><li>What is the executive summary of the MSE Framework?</li><li>What are some ideas for converting ideas from the book into actions?</li></ul>                                                                                                                                                                                                                                                                          |
-| Rude Q\&A         | <ul><li>What are some of the potential objections to the framework and how can we address them?</li></ul>                                                                                                                                                                                                                                                                                                                   |
+**Methodology:**
+
+* What types and sources of knowledge are we allowed to use to build the MSE Framework?
+* What principles and methodology do we use to build the MSE Framework?
+* What do we do when we don’t know something?
+* What are the limits to rationality and how does the framework deal with them?
+* What is Mindful Bounded Rationality?
+
+**Ultimate Reality:**
+
+* What is the true nature of reality? What exists?
+* What is the MSE Framework model of ultimate reality?
+* What aspects of ultimate reality do we need to worry about for our framework?
+
+**Physical Reality:**
+
+* How well do we understand physical reality?
+* What features and laws of physical reality are pertinent to defining meaning, purpose and hope?
+* What are patterns and nebulosity?
+* What is entropy and why does it matter to us?
+* What is coherence and why does it matter to us?
+* What is complexity and why does it matter to us? What is its relationship to entropy?
+
+**Life:**
+
+* What are the essential characteristics of life as far as the framework is concerned?
+* How does life emerge from physical reality and what purpose might it serve?
+* What is the Physics Theory of Life?
+* What are the Free Energy Principle and Active Inference?
+* How does intelligence emerge in living organisms and what purpose does it serve?
+
+**Consciousness:**
+
+* How do we define consciousness in the MSE Framework? What are its features and behaviors?
+* What is its relationship to ultimate reality and physical reality?
+* What does consciousness have to do with meaning, purpose and hope?
+
+**Meaning:**
+
+* What does “meaning” even mean? Is there a way to define it scientifically?
+* What are the “6CED” Tendencies of the universe?
+* What are Meaning-Seeking Entities?
+* How do we define “meaning” using the MSE Framework?
+
+**Purpose:**
+
+* What do we mean by “purpose”?
+* Where might purpose come from?
+* How do we define “purpose” in the MSE Framework?
+
+**Hope:**
+
+* What do we mean by “hope”?
+* How does the MSE Framework help us find hope that isn’t just wishful thinking?
+
+**Executive Summary:**
+
+* What is the executive summary of the MSE Framework?
+* What are some ideas for converting ideas from the book into actions?
+
+**Rude Q\&A:**
+
+* What are the most frequently asked questions about what has been presented in the book?
+* What are some of the potential objections to the framework and how can we address them?
 
 
 
