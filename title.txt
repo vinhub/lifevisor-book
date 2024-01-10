@@ -1,19 +1,13 @@
 ---
 title: An Engineer's Search for Meaning
-subtitle: Discovering the Meaning of Life, Starting from First Principles
+subtitle: Building a Framework for Finding Meaning, Purpose and Hope in Our Lives, Based on Evidence and Reason Alone
 author: Vinayak (Vin) Bhalerao (@deepestturtle on Twitter)
-subject: "philosophy, self-help, science, life, meaning"
+subject: "life, meaning, engineering, science, philosophy, self-help"
 keywords: [books,philosophy,self-help]
 rights:  Creative Commons Non-Commercial Share Alike 3.0
 language: en-US
-cover-image: .gitbook/assets/0.jpeg
 lof: true
 lof-own-page: true
 toc-own-page: true
-titlepage: false
-titlepage-background: .gitbook/assets/0.jpeg
-titlepage-text-color: "333333"
-titlepage-rule-color: "00737C"
-papersize: letter
 colorlinks: true
 ---
