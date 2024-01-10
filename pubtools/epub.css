@@ -25,7 +25,7 @@ div.column{ display: inline-block; vertical-align: top; width: 50%; }
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 
 body {
-    font-family: "DejaVu Serif", serif;
+    font-family: "Arial Unicode MS", serif;
     margin: 5% 5% 20% 5%;
     text-align: justify;
     font-size: 0.75em;
@@ -51,25 +51,6 @@ h1.title {
 
 p.author {
     text-align: center;
-}
-
-code {
-    font-family: "DejaVu Sans Mono", monospace;
-    background-color: #ebebeb;
-    font-size: 100%;
-    line-height: inherit;
-    white-space: pre-wrap;
-}
-
-pre {
-    font-family: "DejaVu Sans Mono", monospace;
-    padding: 1em;
-    overflow: auto;
-    font-size: 100%;
-    line-height: inherit;
-    border-radius: 0.25em;
-    background-color: #ebebeb;
-    white-space: pre-wrap;
 }
 
 table {
