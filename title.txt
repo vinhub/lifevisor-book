@@ -1,7 +1,7 @@
 ---
 title: An Engineer's Search for Meaning
 subtitle: Building a Framework for Finding Meaning, Purpose and Hope in Our Lives, Based on Evidence and Reason Alone
-author: Vinayak (Vin) Bhalerao (@deepestturtle on Twitter)
+author: by Vinayak (Vin) Bhalerao (@deepestturtle on Twitter)
 subject: "life, meaning, engineering, science, philosophy, self-help"
 keywords: [books,philosophy,self-help]
 rights: © 2023 Vinayak (Vin) Bhalerao, CC BY-NC

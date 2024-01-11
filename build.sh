@@ -14,10 +14,10 @@ perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcapt
 lastUpdated=$( git log -1 --format="%ci" -- $fullpath | cut -f 1 -d ' ' )
 creationDate=$( git log --format="%ai" -- $fullpath | tail -1 | cut -f 1 -d ' ' )
 
-# issues: epub toc is broken, links not working, styling
+# issues: links not working
 
 # Convert Markdown to PDF with custom styling
-pandoc -o book.pdf title.txt *.md \
+pandoc -o an-engineers-search-for-meaning.pdf title.txt *.md \
   --toc \
   --pdf-engine=xelatex \
   -V geometry:margin=1.01in \
@@ -28,7 +28,7 @@ pandoc -o book.pdf title.txt *.md \
   --listings
 
 # Convert Markdown to ePub with custom styling
-pandoc -o book.epub title.txt *.md \
+pandoc -o an-engineers-search-for-meaning.epub title.txt *.md \
   --toc --toc-depth=1 \
   -V geometry:margin=1in \
   --top-level-division=chapter \
@@ -36,3 +36,8 @@ pandoc -o book.epub title.txt *.md \
   --variable=creationDate:$creationDate \
   --epub-cover-image=.GitBook/assets/cover.png \
   --css ../pubtools/epub.css
+
+cd ..
+mkdir -p pub
+cp _working/an-engineers-search-for-meaning.pdf pub
+cp _working/an-engineers-search-for-meaning.epub pub
