@@ -20,6 +20,7 @@ creationDate=$( git log --format="%ai" -- $fullpath | tail -1 | cut -f 1 -d ' ' 
 pandoc -o an-engineers-search-for-meaning.pdf title.txt *.md \
   --toc \
   --pdf-engine=xelatex \
+  --template=../pubtools/pdftemplate.latex \
   -V geometry:margin=1.01in \
   --top-level-division=chapter \
   --variable=lastUpdated:$lastUpdated \

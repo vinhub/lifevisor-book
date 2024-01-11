@@ -35,14 +35,17 @@ body {
 h1 {
     text-align: left;
     font-size: 2em;
+    color: #900000;
 }
 
 h2 {
     text-align: left;
+    color: #1c5e90;
 }
 
 h3 {
     text-align: left;
+    color: #69901d;
 }
 
 h1.title {
