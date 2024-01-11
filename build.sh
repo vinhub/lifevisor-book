@@ -29,7 +29,7 @@ pandoc -o book.pdf title.txt *.md \
 
 # Convert Markdown to ePub with custom styling
 pandoc -o book.epub title.txt *.md \
-  --toc \
+  --toc --toc-depth=1 \
   -V geometry:margin=1in \
   --top-level-division=chapter \
   --variable=lastUpdated:$lastUpdated \
