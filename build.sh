@@ -10,6 +10,9 @@ cd _working
 # convert images specified as <figure> tags to normal markdown images
 perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcaption><p>([^<]*)<\/p><\/figcaption><\/figure>/!\[\2\](\<\1\>)/mg' *.md
 
+# remove file names from links because they will all merge into on file
+perl -i -0pe 's/\[([^\[]+)\]\(([^\.]*.md)#[\\_]*(.*)\)/\[\1\]\(#\3\)/mg' *.md
+
 # Use git to get creation and modification date
 lastUpdated=$( git log -1 --format="%ci" -- $fullpath | cut -f 1 -d ' ' )
 creationDate=$( git log --format="%ai" -- $fullpath | tail -1 | cut -f 1 -d ' ' )
