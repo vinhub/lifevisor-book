@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/road less traveled.jpg" alt="" width="393"><figcaption><p>Well, not quite a yellow wood, but we'll make do with this for now</p></figcaption></figure>
+<figure><img src=".gitbook/assets/road less traveled.jpg" alt="" width="262"><figcaption><p>Well, not quite a yellow wood, but we'll make do with this for now</p></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ _"If you are in a shipwreck and all the boats are gone, a piano top buoyant enou
 
 
 
-## Man’s (Incomplete) Search for Meaning <a href="#_vk8r31ig4h4" id="_vk8r31ig4h4"></a>
+## Man’s (Incomplete) Search for Meaning <a href="#vk8r31ig4h4" id="vk8r31ig4h4"></a>
 
 As I mentioned in the previous chapter, I really wanted to find honest, defensible answers to the questions of meaning, purpose and hope, based on rigorous stepwise analysis, all the way from the ground up. No shortcuts, no leaps of faith, no hand waving, no opinions.
 
@@ -89,7 +89,7 @@ I had to make a choice. As Robert Frost’s famous poem goes, “Two roads diver
 
 Let us first look at the well travled road and why it didn't work for me.
 
-## The Well Traveled Road: Following a Religion or a Philosophy or Dedicating Yourself to a Cause or Even an Institution <a href="#_492acanjzme9" id="_492acanjzme9"></a>
+## The Well Traveled Road: Following a Religion or a Philosophy or Dedicating Yourself to a Cause or Even an Institution <a href="#id-492acanjzme9" id="id-492acanjzme9"></a>
 
 The largest body of such thinking, with the widest and deepest range of answers, is found in religion and some of the popular philosophies. (I am combining these two categories together because when I say religion in this context, I am really referring to the philosophical underpinnings of various world religions, not their ritual and cultural aspects.)
 
@@ -123,7 +123,7 @@ But this list is cherry picked from a whole grab bag of concepts that make up th
 
 So, even if I could agree with the list above, I could not be satisfied with the whole body of knowledge they were a part of. And I had some issues even with the list above.&#x20;
 
-## My Problems with the Well Traveled Path <a href="#_k0df9p7ebjbt" id="_k0df9p7ebjbt"></a>
+## My Problems with the Well Traveled Path <a href="#k0df9p7ebjbt" id="k0df9p7ebjbt"></a>
 
 While many ideas from world religions or popular philosophies or causes are emotionally, and sometimes even intellectually appealing, I couldn’t always find rigorous justifications for them.&#x20;
 
@@ -163,7 +163,7 @@ For a science and engineering nerd like me, who is used to having everything cle
 
 As a result, I found myself repeatedly coming back to science and engineering. This was the body of knowledge that met my requirements when it came to many other questions. This was my comfort zone, the path I trusted the most to take me where I wanted to go.
 
-## The Path Less Traveled: Evidence and Reason or Rationality <a href="#_seglnwvjb1ke" id="_seglnwvjb1ke"></a>
+## The Path Less Traveled: Evidence and Reason or Rationality <a href="#seglnwvjb1ke" id="seglnwvjb1ke"></a>
 
 One could say that science and engineering, which are the result of our dogged pursuit of evidence and reason, or using rationality to explain reality, have spoiled people like me.
 
@@ -181,7 +181,7 @@ Once you get a taste of this, it is hard to settle for anything else!
 
 So it became clear to me that this was going to be the only way for me to get what I wanted.
 
-## Meaning Void, Meaning Contortions and Meaning Crisis <a href="#_12zytc1mvnw3" id="_12zytc1mvnw3"></a>
+## Meaning Void, Meaning Contortions and Meaning Crisis <a href="#id-12zytc1mvnw3" id="id-12zytc1mvnw3"></a>
 
 Now, I can sense the most likely objections to this way of thinking.
 
@@ -214,7 +214,7 @@ Using this framework, I have come up with definitions of meaning, purpose and ho
 
 I know, this may sound like a little too much "tech-bro" hubris. But to my own surprise, I am not the first one. (Well, not the "tech-bro" part, but the part about taking something like this on!)
 
-## It’s Not Just Me Saying This! <a href="#_lida4x8046ic" id="_lida4x8046ic"></a>
+## It’s Not Just Me Saying This! <a href="#lida4x8046ic" id="lida4x8046ic"></a>
 
 Here is a (partial) list of people who have done great work in this area. All of them have far better credentials than me and have been working in this area for much longer than me. I am very much standing on the shoulders of some of these giants, as well as many other well known scientists and thinkers.
 
@@ -279,7 +279,7 @@ In the next chapter, we will get into a lot more details about the promise that 
 
 
 
-## Deep Dives <a href="#_ylf3432pkbhi" id="_ylf3432pkbhi"></a>
+## Deep Dives <a href="#ylf3432pkbhi" id="ylf3432pkbhi"></a>
 
 Throughout the book, I have included some “Deeper Dives” that provide high-level descriptions of some of the important ideas that are mentioned here, but aren’t central to the framework we are trying to build. I highly recommend that you take at least a quick look at them, and if you find them interesting, go deeper.
 

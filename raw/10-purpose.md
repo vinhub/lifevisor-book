@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/penguin.jpg" alt="" width="405"><figcaption><p>Ultimately, penguins and us share the same purpose</p></figcaption></figure>
+<figure><img src=".gitbook/assets/penguin.jpg" alt="" width="270"><figcaption><p>Ultimately, penguins and us share the same purpose</p></figcaption></figure>
 
 
 
@@ -48,7 +48,7 @@ Having done the hard work of defining Meaning-Seeking Entities and Meaning itsel
 
 But first, as usual, we need to talk about what we even mean by purpose.
 
-## What is “Purpose”? <a href="#_apvgxumfzfaq" id="_apvgxumfzfaq"></a>
+## What is “Purpose”? <a href="#apvgxumfzfaq" id="apvgxumfzfaq"></a>
 
 The second Matrix movie (“The Matrix Reloaded”) contains a perfect speech on purpose, delivered by none other than Agent Smith:
 
@@ -112,7 +112,7 @@ Moreover, as we saw in the last chapter, having a sense of purpose leads to peop
 
 Needless to say, purpose is a critical concept for human beings, or Meaning-Seeking Entities in general.
 
-## Where Does Purpose Come From? <a href="#_p3pua9y5aka3" id="_p3pua9y5aka3"></a>
+## Where Does Purpose Come From? <a href="#p3pua9y5aka3" id="p3pua9y5aka3"></a>
 
 For a long time, most of humanity has believed that purpose is a mysterious concept with a supernatural origin.
 
@@ -124,7 +124,7 @@ Luckily, as followers of the Mindful Bounded Rationality methodology, we have a 
 
 And the good news is that there are many clues to be found in the evidence we have already managed to collect about reality, and those clues can absolutely reveal our greater purpose.
 
-## Deriving “Greater Purpose” from First Principles <a href="#_beichu99kllh" id="_beichu99kllh"></a>
+## Deriving “Greater Purpose” from First Principles <a href="#beichu99kllh" id="beichu99kllh"></a>
 
 As we saw in the previous chapter, the universe exhibits certain natural tendencies, that we have termed the “6CED” Tendencies. These are: Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.
 
@@ -205,15 +205,15 @@ As I mentioned earlier, this list is only a set of sample suggestions, just to c
 
 Finally, to recap everything we have said in this chapter, let us look at a diagram that summarizes how we have arrived at a rigorous definition of Purpose using the MSE Framework.
 
-## Derivation of Greater Purpose using the MSE Framework <a href="#_pxi78zyaomp3" id="_pxi78zyaomp3"></a>
+## Derivation of Greater Purpose using the MSE Framework <a href="#pxi78zyaomp3" id="pxi78zyaomp3"></a>
 
 
 
 <figure><img src=".gitbook/assets/Purpose Diagram.jpg" alt="" width="563"><figcaption><p>Defining Our "Greater Purpose" Using the MSE Framework</p></figcaption></figure>
 
-### &#x20;<a href="#_idq894vy53cs" id="_idq894vy53cs"></a>
+### &#x20;<a href="#idq894vy53cs" id="idq894vy53cs"></a>
 
-## Description of the Diagram <a href="#_idq894vy53cs" id="_idq894vy53cs"></a>
+## Description of the Diagram <a href="#idq894vy53cs" id="idq894vy53cs"></a>
 
 As shown in the diagram, Meaning-Seeking Entities are conscious living systems such as ourselves, that seek meaning in their lives. They came about due to the 6CED Tendencies of the universe, and they continue to exhibit those tendencies themselves.
 
@@ -227,7 +227,7 @@ So it makes sense to simply define our Greater Purpose as mindfully realizing an
 
 In addition, given the existence of nebulosity and unknowns in the universe, we need to avoid being dogmatic and always be humble and willing to learn and improve our definition of purpose accordingly.
 
-## What Happens if Someone Doesn’t Agree with this Definition of Purpose? <a href="#_qeb1yjhvnx3l" id="_qeb1yjhvnx3l"></a>
+## What Happens if Someone Doesn’t Agree with this Definition of Purpose? <a href="#qeb1yjhvnx3l" id="qeb1yjhvnx3l"></a>
 
 Note that there is no supernatural power or authority that is forcing us to accept this definition of our purpose, or threatening to punish us if we don’t.
 

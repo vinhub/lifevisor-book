@@ -18,7 +18,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/unknowns.png" alt="" width="563"><figcaption><p>Ultimate Reality: Known Unknowns and Unknown Unknowns</p></figcaption></figure>
+<figure><img src=".gitbook/assets/unknowns.png" alt="" width="375"><figcaption><p>Ultimate Reality: Known Unknowns and Unknown Unknowns</p></figcaption></figure>
 
 ***
 
@@ -50,7 +50,7 @@ _Morpheus: “What is real? How do you define 'real'? If you're talking about wh
 
 
 
-## The Rumsfeld Matrix of Ultimate Reality! <a href="#_ocdzkeg9vmw3" id="_ocdzkeg9vmw3"></a>
+## The Rumsfeld Matrix of Ultimate Reality! <a href="#ocdzkeg9vmw3" id="ocdzkeg9vmw3"></a>
 
 Ultimate Reality is the name we give to the most fundamental reality that exists. Sometimes we use other words for it, like “existence” or “the fabric of reality” or even “the ultimate truth”.
 
@@ -86,7 +86,7 @@ What I am claiming in this book is that we do not need to find ultimate answers 
 
 Yes, once again, we are talking about our methodology of Mindful Bounded Rationality.
 
-## Mindful Bounded Rationality to the Rescue <a href="#_iewv3c7kww2e" id="_iewv3c7kww2e"></a>
+## Mindful Bounded Rationality to the Rescue <a href="#iewv3c7kww2e" id="iewv3c7kww2e"></a>
 
 As we have already mentioned in the chapter on Methodology, we do not need to start from “why does anything exist at all and where did it come from” etc., and having to rely on some supernatural power to rescue us from that conundrum.
 
@@ -112,7 +112,7 @@ We know three things for sure:
 
 Unfortunately, even these simple statements of fact lead to raging debates.
 
-## Philosophical Debates <a href="#_lqje0ud63ya8" id="_lqje0ud63ya8"></a>
+## Philosophical Debates <a href="#lqje0ud63ya8" id="lqje0ud63ya8"></a>
 
 Most people take our physical reality as the primary reality, and consciousness as secondary. This is generally known as Physicalism or Naturalism.
 
@@ -134,7 +134,7 @@ With that lengthy introduction, let us finally get down to the business of looki
 
 
 
-## The MSE Framework - Model of Ultimate Reality <a href="#_6n28awyp4dkg" id="_6n28awyp4dkg"></a>
+## The MSE Framework - Model of Ultimate Reality <a href="#id-6n28awyp4dkg" id="id-6n28awyp4dkg"></a>
 
 
 
@@ -160,7 +160,7 @@ As a result, for the purposes of the MSE Framework, we will simply take The Grea
 
 Coming back to the diagram, we see two arrows emerging from The Great Unknown. Let us look at each one of them in turn.
 
-## Physical Reality <a href="#_9bc26oynxoit" id="_9bc26oynxoit"></a>
+## Physical Reality <a href="#id-9bc26oynxoit" id="id-9bc26oynxoit"></a>
 
 Physical reality, as the name suggests, is the part of ultimate reality that we can either experience physically, using our senses or prove the existence of, using instruments we have created, or using the laws of physics we have discovered.
 
@@ -168,7 +168,7 @@ While we know a lot about physical reality, and can even write formulas that can
 
 We will look at what these unknowns are in the next chapter, but for now, we have indicated this partly clear and partly murky knowledge by using a gradient for the background color of the Physical Reality box.
 
-## Consciousness <a href="#_bi6j4easngw7" id="_bi6j4easngw7"></a>
+## Consciousness <a href="#bi6j4easngw7" id="bi6j4easngw7"></a>
 
 Just like we can all agree that we live in something like a physical reality, we can also agree that there is something inside us that we call “me”, i.e. Consciousness.
 
@@ -186,7 +186,7 @@ Just for completeness, let us note that at the bottom of the diagram, the Consci
 
 There is only one little item remaining in the diagram, the dotted line from Physical Reality to Consciousness.
 
-## Does Consciousness Emerge from Physical Reality? <a href="#_ez49qagr9pv1" id="_ez49qagr9pv1"></a>
+## Does Consciousness Emerge from Physical Reality? <a href="#ez49qagr9pv1" id="ez49qagr9pv1"></a>
 
 What is interesting is that we do not know how Physical Reality and Consciousness interact with each other, but do have clear, widely corroborated evidence that they, in fact, do.
 
@@ -232,7 +232,7 @@ This means that it is impossible for us to truly understand ultimate reality giv
 
 
 
-## Deep Dive: The Simulation Hypothesis <a href="#_379bk6crbsq" id="_379bk6crbsq"></a>
+## Deep Dive: The Simulation Hypothesis <a href="#id-379bk6crbsq" id="id-379bk6crbsq"></a>
 
 The Simulation Hypothesis as a hypothetical model of what ultimate reality may be like.&#x20;
 
@@ -252,7 +252,7 @@ Many science fiction books and movies have explored this theme to various extent
 
 
 
-## Deep Dive: The Computational Universe Hypothesis <a href="#_qnn2isahhubl" id="_qnn2isahhubl"></a>
+## Deep Dive: The Computational Universe Hypothesis <a href="#qnn2isahhubl" id="qnn2isahhubl"></a>
 
 Max Tegmark, a Swedish-American physicist at MIT,  proposed that the physical universe is not merely described by mathematics, but it actually is a mathematical / computational structure.
 
@@ -295,7 +295,7 @@ As you can see, this theory is a very rich vein of its own, capable of helping u
 
 
 
-## Deep Dive: The Vedic Universe Hypothesis <a href="#_i1bif85fn5x2" id="_i1bif85fn5x2"></a>
+## Deep Dive: The Vedic Universe Hypothesis <a href="#i1bif85fn5x2" id="i1bif85fn5x2"></a>
 
 Vedantic Philosophy states that there is just one universal unified consciousness that is the true ultimate reality. It is known as Brahman. Our physical reality, on the other hand, is only an illusion, known as Maya.
 
