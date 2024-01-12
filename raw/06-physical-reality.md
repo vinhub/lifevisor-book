@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/Universe History.png" alt=""><figcaption><p>Our physical reality (Courtesy: NASA)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Universe History.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -48,7 +48,7 @@ As noted in the previous chapter, Physical Reality is one of the axioms that the
 
 Physics has been immensely successful in explaining a huge part of physical reality. In fact, Physics is the most successful science of all in terms of its reliability, accuracy and scope, and, as a result, we rely on it heavily to build the MSE Framework.
 
-## The Ultimate Equation of “Everyday” Physics <a href="#_a9wuzeafmx13" id="_a9wuzeafmx13"></a>
+## The Ultimate Equation of “Everyday” Physics <a href="#a9wuzeafmx13" id="a9wuzeafmx13"></a>
 
 Well known physicist and philosopher Sean Carroll says in his book [“The Big Picture”](06-physical-reality.md#\_5ekwov2yczt9) that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
 
@@ -82,7 +82,7 @@ In any case, we do not need to know everything to define the MSE Framework. Apar
 
 (This is a general practice in this book, we will quickly get an overview of each topic, but then talk in greater detail only about the concepts that matter to the MSE Framework.)
 
-## Pattern, Nebulosity and Emergence <a href="#_kfcb361akbcf" id="_kfcb361akbcf"></a>
+## Pattern, Nebulosity and Emergence <a href="#kfcb361akbcf" id="kfcb361akbcf"></a>
 
 As noted earlier, physical reality contains both many discernible patterns as well as a lot of nebulosity.
 
@@ -102,7 +102,7 @@ For many of the parts of physical reality that are patterned, we have been able 
 
 Science deals with the patterned aspects of physical reality and, in order to deal with the nebulous aspects, we can add engineering into the mix. As we have noted already both of these are parts of the methodology of Mindful Bounded Rationality.
 
-## Coherence, Matter, Energy and Forces <a href="#_ukkzmbsp4v7f" id="_ukkzmbsp4v7f"></a>
+## Coherence, Matter, Energy and Forces <a href="#ukkzmbsp4v7f" id="ukkzmbsp4v7f"></a>
 
 As a result of amazing feats of intellectual ability and effort, human beings have been able to discover that, at the lowest level of physical reality, we have what appear to be a set of quantum fields that permeate all of space.
 
@@ -148,7 +148,7 @@ Finally, you may have noticed above that I have given a number to this tendency:
 
 Unfortunately, while the universe does give us this wonderfully beneficial tendency of coherence, it also gives us our most formidable enemy, entropy.
 
-## Entropy <a href="#_1bh3c7lb7ktu" id="_1bh3c7lb7ktu"></a>
+## Entropy <a href="#id-1bh3c7lb7ktu" id="id-1bh3c7lb7ktu"></a>
 
 Informally, entropy is considered to be a measure of disorder in a system.&#x20;
 
@@ -184,7 +184,7 @@ For example, while we do have the worrying universal tendency towards increasing
 
 Let us take a look at that next.
 
-## Complexity <a href="#_k2f1wifmucf4" id="_k2f1wifmucf4"></a>
+## Complexity <a href="#k2f1wifmucf4" id="k2f1wifmucf4"></a>
 
 Complexity is a measure of how hard it is to describe the set of properties of a system. Simple systems are easier to describe, or require less information to describe, than complex ones.
 
@@ -224,7 +224,7 @@ Coming back to Complexity then, let us note that the phenomena of entropy and co
 
 This dance turns out to be one of the most meaningful things in the universe as we will soon see.
 
-## The Cosmic Dance Between Entropy and Complexity <a href="#_cjpvr2xgvs9z" id="_cjpvr2xgvs9z"></a>
+## The Cosmic Dance Between Entropy and Complexity <a href="#cjpvr2xgvs9z" id="cjpvr2xgvs9z"></a>
 
 As a first approximation, let us note that, informally, things that are less chaotic have low entropy and those that are more chaotic have higher entropy. But this is also true of complexity: things that are less chaotic look less complex and those that are more chaotic look more complex.
 
@@ -272,7 +272,7 @@ Keep this picture of ink mixing into water in mind. We will encounter it again i
 
 
 
-## Deep Dive: Poetic Naturalism (Sean Carroll) <a href="#_5ekwov2yczt9" id="_5ekwov2yczt9"></a>
+## Deep Dive: Poetic Naturalism (Sean Carroll) <a href="#id-5ekwov2yczt9" id="id-5ekwov2yczt9"></a>
 
 Sean Carroll is a well known physicist, philosopher and podcaster. He has written a book called The Big Picture, which talks about his model of ultimate reality, which he calls Poetic Naturalism.
 
