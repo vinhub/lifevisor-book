@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/Universe History.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Universe History.png" alt="" width="563"><figcaption><p>Our physical reality (Courtesy: NASA)</p></figcaption></figure>
 
 
 
