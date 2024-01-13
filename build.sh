@@ -20,7 +20,7 @@ creationDate=$( git log --format="%ai" -- $fullpath | tail -1 | cut -f 1 -d ' ' 
 # issues: links not working
 
 # Convert Markdown to PDF with custom styling
-pandoc -o an-engineers-search-for-meaning.pdf title.txt *.md \
+pandoc -o book.pdf title.txt *.md \
   --toc \
   --pdf-engine=xelatex \
   --template=../pubtools/pdftemplate.latex \
@@ -32,7 +32,7 @@ pandoc -o an-engineers-search-for-meaning.pdf title.txt *.md \
   --listings
 
 # Convert Markdown to ePub with custom styling
-pandoc -o an-engineers-search-for-meaning.epub title.txt *.md \
+pandoc -o book.epub title.txt *.md \
   --toc --toc-depth=1 \
   -V geometry:margin=1in \
   --top-level-division=chapter \
@@ -43,5 +43,5 @@ pandoc -o an-engineers-search-for-meaning.epub title.txt *.md \
 
 cd ..
 mkdir -p pub
-cp _working/'An Engineer\'s Search for Meaning'.pdf pub
-cp _working/'An Engineer\'s Search for Meaning'.epub pub
+cp _working/book.pdf pub/"An Engineer's Search for Meaning".pdf
+cp _working/book.epub pub/"An Engineer's Search for Meaning".epub
