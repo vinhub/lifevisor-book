@@ -146,7 +146,7 @@ We will start at the top of the diagram with the box that has a totally black ba
 
 In most religious or philosophical models of ultimate reality, The Great Unknown would be called God or Creator. Some religions think about the Great Unknown in a different manner, such as the concept of Brahman in Hinduism or Tao in Taoism.
 
-We also have some very interesting modern hypotheses for The Great Unknown, such as the [Simulation Hypothesis](05-ultimate-reality.md#\_379bk6crbsq) and various [mathematical](05-ultimate-reality.md#\_qnn2isahhubl) or [computational](05-ultimate-reality.md#deep-dive-the-wolfram-physics-hypothesis) models of ultimate reality.
+We also have some very interesting modern hypotheses for The Great Unknown, such as the [Simulation Hypothesis](05-ultimate-reality.md#deep-dive-the-simulation-hypothesis), [The Computational Universe Hypothesis](05-ultimate-reality.md#deep-dive-the-computational-universe-hypothesis) and the [Wolfram Physics Hypothesis](05-ultimate-reality.md#deep-dive-the-wolfram-physics-hypothesis).
 
 I have found many of these ideas fascinating and educational. As a result, I have included Deep Dives into some of these concepts at the end of this chapter. You may find them interesting, too.
 
@@ -232,7 +232,7 @@ This means that it is impossible for us to truly understand ultimate reality giv
 
 
 
-## Deep Dive: The Simulation Hypothesis <a href="#id-379bk6crbsq" id="id-379bk6crbsq"></a>
+## Deep Dive: The Simulation Hypothesis
 
 The Simulation Hypothesis as a hypothetical model of what ultimate reality may be like.&#x20;
 
@@ -252,7 +252,7 @@ Many science fiction books and movies have explored this theme to various extent
 
 
 
-## Deep Dive: The Computational Universe Hypothesis <a href="#qnn2isahhubl" id="qnn2isahhubl"></a>
+## Deep Dive: The Computational Universe Hypothesis
 
 Max Tegmark, a Swedish-American physicist at MIT,  proposed that the physical universe is not merely described by mathematics, but it actually is a mathematical / computational structure.
 
@@ -295,7 +295,7 @@ As you can see, this theory is a very rich vein of its own, capable of helping u
 
 
 
-## Deep Dive: The Vedic Universe Hypothesis <a href="#i1bif85fn5x2" id="i1bif85fn5x2"></a>
+## Deep Dive: The Vedic Universe Hypothesis
 
 Vedantic Philosophy states that there is just one universal unified consciousness that is the true ultimate reality. It is known as Brahman. Our physical reality, on the other hand, is only an illusion, known as Maya.
 
