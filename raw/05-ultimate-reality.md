@@ -116,7 +116,7 @@ Unfortunately, even these simple statements of fact lead to raging debates.
 
 Most people take our physical reality as the primary reality, and consciousness as secondary. This is generally known as Physicalism or Naturalism.
 
-Other people object to that and say that true reality is ultimately non-physical, and consciousness is all that there is. For them, it is physical reality that is secondary or emergent or even imaginary. This idea is closely related to the philosophy known as Idealism in the west and [Brahman](05-ultimate-reality.md#\_i1bif85fn5x2) or Tao in the east.
+Other people object to that and say that true reality is ultimately non-physical, and consciousness is all that there is. For them, it is physical reality that is secondary or emergent or even imaginary. This idea is closely related to the philosophy known as Idealism in the west and Brahman or Tao in the east.
 
 Unfortunately, we have no objective and incontrovertible proof of either of these two claims. This causes endless debates and confusion about which model is “real”.
 
