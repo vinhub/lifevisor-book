@@ -43,5 +43,5 @@ pandoc -o an-engineers-search-for-meaning.epub title.txt *.md \
 
 cd ..
 mkdir -p pub
-cp _working/an-engineers-search-for-meaning.pdf pub
-cp _working/an-engineers-search-for-meaning.epub pub
+cp _working/'An Engineer\'s Search for Meaning'.pdf pub
+cp _working/'An Engineer\'s Search for Meaning'.epub pub
