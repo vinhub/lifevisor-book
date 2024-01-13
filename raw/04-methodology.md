@@ -210,7 +210,7 @@ Ironically, other rationalists have analyzed this phenomenon, and come up with n
 
 We need to be careful to avoid these pitfalls of rational thinking. We know that reality is not always legible, formal, elegant or systematic.&#x20;
 
-At an even more fundamental level, some point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. I have included a [Deep Dive into this issue](04-methodology.md#deep-dive-goedels-incompleteness-theorem) at the end of the chapter.
+At an even more fundamental level, some point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. I have included a Deep Dive into this issue at the end of the chapter.
 
 We want to be mindful of all of these issues, but we don't  want to throw the baby out with the bathwater either, as the opponents of rationality often do.
 
