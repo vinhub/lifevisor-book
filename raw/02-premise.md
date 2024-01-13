@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/road less traveled.jpg" alt="" width="262"><figcaption><p>Well, not quite a yellow wood, but we'll make do with this for now</p></figcaption></figure>
+<figure><img src=".gitbook/assets/road less traveled.jpg" alt="" width="393"><figcaption><p>Well, not quite a yellow wood, but we'll make do with this for now</p></figcaption></figure>
 
 
 

@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/astronaut meme.jpg" alt="" width="563"><figcaption><p>You don't have to go to the ends of the earth to find out!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/astronaut meme.jpg" alt="" width="563"><figcaption><p>You don't have to go to the ends of the earth to find that out! It's all right here, right now.</p></figcaption></figure>
 
 
 

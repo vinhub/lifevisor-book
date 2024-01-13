@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/calculating.jpg" alt=""><figcaption><p>If not evidence and reason, then what?</p></figcaption></figure>
+<figure><img src=".gitbook/assets/calculating.jpg" alt="" width="467"><figcaption><p>If not evidence and reason, then what?</p></figcaption></figure>
 
 
 

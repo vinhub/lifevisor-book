@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/hope.jpg" alt="" width="438"><figcaption><p>This is a scientifically provable statement</p></figcaption></figure>
+<figure><img src=".gitbook/assets/hope.jpg" alt="" width="438"><figcaption><p>This statement can be scientifically proven to be true.</p></figcaption></figure>
 
 
 
@@ -36,13 +36,13 @@ _"the greatest white pill of all is that local minima are rare in high dimension
 
 ***
 
-## &#x20;<a href="#_afg7uq9nn2z0" id="_afg7uq9nn2z0"></a>
+## &#x20;<a href="#afg7uq9nn2z0" id="afg7uq9nn2z0"></a>
 
 
 
 
 
-## What is “Hope”? <a href="#_afg7uq9nn2z0" id="_afg7uq9nn2z0"></a>
+## What is “Hope”? <a href="#afg7uq9nn2z0" id="afg7uq9nn2z0"></a>
 
 Once again, let us start with a crisp definition of what we are talking about, so we can analyze it scientifically.
 
@@ -76,7 +76,7 @@ Pretty much all our planning and predictions, not just financial, but also thing
 
 With that in mind, let us look at the past performance of life, the universe and everything.
 
-## The Best Track Record Ever! <a href="#_gttqvmfvnxyg" id="_gttqvmfvnxyg"></a>
+## The Best Track Record Ever! <a href="#gttqvmfvnxyg" id="gttqvmfvnxyg"></a>
 
 Imagine you are an investor deciding whether to invest in this company called The Universe Corp.
 
@@ -108,7 +108,7 @@ Well, isn’t this exactly what we mean by hope? Reasonable expectation of an ex
 
 Still, let us take a closer look at it to make absolutely sure.
 
-## How “Meaning” Enters the Picture <a href="#_yf8utx96wgda" id="_yf8utx96wgda"></a>
+## How “Meaning” Enters the Picture <a href="#yf8utx96wgda" id="yf8utx96wgda"></a>
 
 When we talk about hope in the context of our lives, we typically associate it not with any expectation, but specifically with a positive expectation. We hope that our lives will be better, at least in some way, in the future.
 
@@ -132,7 +132,7 @@ As usual, let us elucidate this with a diagram that explains all of the above th
 
 
 
-## Derivation of Hope using the MSE Framework <a href="#_ke850hxfnupl" id="_ke850hxfnupl"></a>
+## Derivation of Hope using the MSE Framework <a href="#ke850hxfnupl" id="ke850hxfnupl"></a>
 
 
 
@@ -140,7 +140,7 @@ As usual, let us elucidate this with a diagram that explains all of the above th
 
 
 
-## Description of the Diagram <a href="#_sd7bvd92u4os" id="_sd7bvd92u4os"></a>
+## Description of the Diagram <a href="#sd7bvd92u4os" id="sd7bvd92u4os"></a>
 
 As you can see in the above diagram, the desire for Hope arises in Meaning-Seeking Entities due to them possessing Consciousness. As we have already seen, this could be explained as consciousness itself performing Active Inference in order to continue to exist.
 
@@ -152,7 +152,7 @@ Thus, mindfully realizing and improving our alignment with our 6CED Tendencies e
 
 And of course, like we always do, we need to caveat the above with the fact that reality consists of nebulosity and unknowns, so we need to be open to learn more as we move forward and adjust our thinking and actions accordingly.
 
-## The Human Tendency for Hope <a href="#_yfkipc1bzgqg" id="_yfkipc1bzgqg"></a>
+## The Human Tendency for Hope <a href="#yfkipc1bzgqg" id="yfkipc1bzgqg"></a>
 
 Before we go on, I would like to tell you a very interesting story about hope.
 
@@ -208,7 +208,7 @@ This could be thought of as another case of “past performance is a great indic
 
 We can look at this episode in human history as another example of the incredible track record of hope for the 6CED Tendencies of the universe in general as well as specifically of the human race itself.
 
-## Awe and Gratitude <a href="#_iosh223199v6" id="_iosh223199v6"></a>
+## Awe and Gratitude <a href="#iosh223199v6" id="iosh223199v6"></a>
 
 Having come up with such a strong definition of hope based on evidence and reason alone, I am myself now overwhelmed by hopefulness and so want to go one step further.
 
