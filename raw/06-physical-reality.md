@@ -50,7 +50,7 @@ Physics has been immensely successful in explaining a huge part of physical real
 
 ## The Ultimate Equation of “Everyday” Physics <a href="#a9wuzeafmx13" id="a9wuzeafmx13"></a>
 
-Well known physicist and philosopher Sean Carroll says in his book [“The Big Picture”](06-physical-reality.md#\_5ekwov2yczt9) that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
+Well known physicist and philosopher Sean Carroll says in his book “[The Big Picture](06-physical-reality.md#deep-dive-poetic-naturalism-sean-carroll)” that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
 
 This fits in with our methodology of Mindful Bounded Rationality, where we focus primarily on the here and now, not on distant phenomena long long ago or in the far future or, indeed, in some galaxy, far far away.
 
@@ -270,9 +270,7 @@ Keep this picture of ink mixing into water in mind. We will encounter it again i
 
 ***
 
-
-
-## Deep Dive: Poetic Naturalism (Sean Carroll) <a href="#id-5ekwov2yczt9" id="id-5ekwov2yczt9"></a>
+## Deep Dive: Poetic Naturalism (Sean Carroll)
 
 Sean Carroll is a well known physicist, philosopher and podcaster. He has written a book called The Big Picture, which talks about his model of ultimate reality, which he calls Poetic Naturalism.
 
