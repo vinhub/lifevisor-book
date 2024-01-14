@@ -20,11 +20,11 @@ _Beta release, ©Vinayak (Vin) Bhalerao, 2023_
 
 
 
-You can read this book for free in 3 ways:
+You can read this book (for free) in 3 ways:
 
-* Read it online by clicking the "Next" / "Previous" links at the bottom of each page
-* [Download an ePub file](https://lifevisor.ai/pub/An%20Engineer's%20Search%20for%20Meaning.epub) that can be opened in most eBook readers
-* [Download a PDF file](https://lifevisor.ai/pub/An%20Engineer's%20Search%20for%20Meaning.pdf)
+* Read it right here on this website (Scroll down and click on the "Next" / "Previous" links at the bottom of each page)
+* [Download it as an eBook (ePub format)](https://drive.google.com/file/d/1HV3QvZgMBM9HmrFB0IWZP4AGXe\_eE0Gw/view?usp=sharing)
+* [Download it as a PDF file](https://drive.google.com/file/d/1GDVPe2PZpKHdvXJed1AlyhbHypmvJgN-/view?usp=sharing)
 
 \[ This book is still under development, but very close to being ready. It is a part of a larger effort, known as [LifeVisor.AI](https://lifevisor.ai). Comments? Suggestions? Send them to info \[at] RedmondLabs \[dot] com. ]
 
