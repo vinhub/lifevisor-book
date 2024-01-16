@@ -38,21 +38,29 @@ _Would you capture it or just let it slip?”_
 
 ***
 
-## &#x20;<a href="#_w8hg0mcetofw" id="_w8hg0mcetofw"></a>
+## &#x20;<a href="#w8hg0mcetofw" id="w8hg0mcetofw"></a>
 
-## &#x20;<a href="#_w8hg0mcetofw" id="_w8hg0mcetofw"></a>
+## &#x20;<a href="#w8hg0mcetofw" id="w8hg0mcetofw"></a>
 
-## What Would You Do if You Had Only 5 Years to Live? <a href="#_w8hg0mcetofw" id="_w8hg0mcetofw"></a>
+## What Would You Do if You Had Only 5 Years to Live? <a href="#w8hg0mcetofw" id="w8hg0mcetofw"></a>
 
 A few years ago, I asked myself the above question.
 
-No, I wasn’t suffering from some terminal disease. Thankfully, it was just my midlife crisis.
+No, I wasn’t suffering from some terminal disease. Thankfully, it was just my midlife crisis. Yet, at least in my case, it proved to be quite serious and life changing.
 
-It is a common belief that people have one big bad crisis sometime in their 40’s, and then, depending upon their circumstances, they either get a new car or a new career or maybe just get seriously drunk. Sometimes, they go crazy and end up buying a whole vineyard or something. Soon enough though, the crisis gets replaced by buyer’s remorse or just a plain old hangover, which most people are far more familiar with handling, having experienced it multiple times in their life.
+But I'm getting ahead of myself. Let us step back a little and start from the beginning once again.
 
-Crisis solved, and life gets back to normal.
+There are many misconceptions about midlife crises. One of the most common is the idea that you have one big bad crisis sometime in your 40’s, and then, depending upon your circumstances, you either get a new car or a new career or a new low-carb lifestyle. Some people go totally crazy and buy a whole vineyard or something. And others just get seriously drunk.
 
-But in my case, things didn’t work out like that.
+Soon enough though, the big bad crisis gets replaced by a smaller one. Depending upon which remedy you followed, you end up with either buyer’s remorse or some mild disappointment or some unexpected weight gain, or possibly just a plain old hangover.&#x20;
+
+Luckily, most of us are far more familiar with handling these types of minor crises, having experienced them multiple times in our lives by then.
+
+Crisis solved, and life slowly gets back to normal.
+
+
+
+Unfortunately (or fortunately) for me, things didn’t quite work out like that.
 
 My crisis came in the form of a series of bouts over a few years, each time getting a little worse. Fortunately, this provided me with the side benefit that I got better at dealing with it each time around.
 
@@ -84,7 +92,7 @@ Plus, the question is also far more realistic. Unless someone is already sufferi
 
 But, with a 5 year time horizon, you need to dig deep and see what it is that you really want to do in life or would regret not doing. With 5 years at your disposal, maybe you can still do it!
 
-## Is Panicking a Good Way to Start? <a href="#_moji7o31moi3" id="_moji7o31moi3"></a>
+## Is Panicking a Good Way to Start? <a href="#moji7o31moi3" id="moji7o31moi3"></a>
 
 In my case, the answer came to me one day in the shower. Just popped right out of thin air, stood there in front of me and almost made me panic. The scenario that materialized in my mind was so scary, I had to gasp for breath!
 
@@ -116,7 +124,7 @@ I guess I could say that it was at this point in my life that I became an Eminem
 
 I was never going to let this opportunity slip. In fact, I consider myself really privileged to have stumbled on to these thoughts and been able to work on answering them.
 
-## Meaning and Purpose <a href="#_jzbc6mlsgvu1" id="_jzbc6mlsgvu1"></a>
+## Meaning and Purpose <a href="#jzbc6mlsgvu1" id="jzbc6mlsgvu1"></a>
 
 So it was time for me to get to work.
 
@@ -144,7 +152,7 @@ It was important for me to feel that I didn't just have the correct answers, but
 
 A tall order, to be sure. Scary even. But once it popped into my head, it became an obsession.
 
-## Answers, Entropy and Growth <a href="#_wd89lyl62the" id="_wd89lyl62the"></a>
+## Answers, Entropy and Growth <a href="#wd89lyl62the" id="wd89lyl62the"></a>
 
 It took quite a while to find and compile answers to these questions that could meet my criteria.
 
