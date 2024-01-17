@@ -24,6 +24,12 @@ layout:
 
 
 
+_"All the interests of my reason, speculative as well as practical, combine in the three following questions: 1. What can I know? 2. What ought I to do? 3. What may I hope?"_
+
+**― Immanuel Kant, German philosopher, in "Critique of Pure Reason"**
+
+
+
 _"If you are in a shipwreck and all the boats are gone, a piano top buoyant enough to keep you afloat that comes along makes a fortuitous life preserver. But this is not to say that the best way to design a life preserver is in the form of a piano top. I think that we are clinging to a great many piano tops in accepting yesterday’s fortuitous contrivings as constituting the only means for solving a given problem.”_&#x20;
 
 **― Buckminster Fuller, American architect and systems theorist, in "Operating Manual for Spaceship Earth"**

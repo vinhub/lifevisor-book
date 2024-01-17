@@ -46,11 +46,21 @@ _Would you capture it or just let it slip?”_
 
 A few years ago, I asked myself the above question.
 
-No, I wasn’t suffering from some terminal disease. Thankfully, it was just my midlife crisis. Yet, at least in my case, it proved to be quite serious and life changing.
+No, I wasn’t suffering from some terminal disease. Luckily what I had was something far more mundane and commonplace: a midlife crisis.
 
-But I'm getting ahead of myself. Let us step back a little and start from the beginning once again.
+Lots of people go through it, of course. It's almost a rite of passage.&#x20;
 
-There are many misconceptions about midlife crises. One of the most common is the idea that you have one big bad crisis sometime in your 40’s, and then, depending upon your circumstances, you either get a new car or a new career or a new low-carb lifestyle. Some people go totally crazy and buy a whole vineyard or something. And others just get seriously drunk.
+Some people might suffer for a while, but most manage to make a complete recovery and move on as if nothing happened.
+
+Except, in my case, things happened. Big things. Evidently so big that I ended up writing a book about deep things like meaning, purpose and hope in life, no less!
+
+The kind of book that philosophers and poets and those who have actually gone through serious suffering in life are supposed to write. Not some guy who has writes code all day!
+
+How does something like this happen?
+
+Well, let me tell you about it, starting with some general observations about this supposedly innocuous condition known as midlife crisis.
+
+Now, it turns out that there are many misconceptions about this condition. One of the most common is the idea that you have one big bad crisis sometime in your 40’s, and then, depending upon your circumstances, you either get a new car or a new career or a new low-carb lifestyle. Some people go totally crazy and buy a whole vineyard or something. And others just get seriously drunk.
 
 Soon enough though, the big bad crisis gets replaced by a smaller one. Depending upon which remedy you followed, you end up with either buyer’s remorse or some mild disappointment or some unexpected weight gain, or possibly just a plain old hangover.&#x20;
 
