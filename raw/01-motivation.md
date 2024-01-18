@@ -114,27 +114,35 @@ Of course, the extended time horizon comes with its own burden: You need to dig 
 
 ## Is Panicking a Good Way to Start? <a href="#moji7o31moi3" id="moji7o31moi3"></a>
 
-In my case, the answer came to me one day in the shower. Just popped right out of thin air, stood there in front of me and almost made me panic. The scenario that materialized in my mind was so scary, I had to gasp for breath!
+In my case, the answer came to me one day in the shower. Just popped right out of thin (well, more like thick, to be frank, given I was in the shower) air, stood there in front of me and almost made me panic.&#x20;
 
-Imagine you binge on a really great TV show all weekend. Then, when you see your coworkers on Monday, you start raving about it. You talk in great detail about all the wonderful characters and events and scenes, but, no matter how hard you try, you are simply unable to put it all together into a coherent story or plot or even a theme! Suddenly your rambling description of the show looks like just a grab-bag of stuff with no rhyme or reason to it.
+The scenario that materialized in my mind was so scary, I had to gasp for breath!
 
-That would make you feel like an idiot! What a waste of a whole weekend!
+Imagine you binge on a really great TV show all weekend. Then, when you see your coworkers on Monday, you start raving about it. You talk in great detail about all the wonderful characters and events and scenes, but, no matter how hard you try, you are simply unable to put it all together into a coherent story or plot or even a theme! Suddenly your excited recap of the show starts looking like just a grab-bag of unrelated stuff with no rhyme or reason to it.
 
-Now, what if your binge had lasted for decades, not just a weekend? Thousands of episodes, hundreds of characters, millions of scenes, many of them highly memorable and poignant, some happy, some sad, and so on.
+That would make you feel like an idiot. What a waste of a whole weekend!
 
-Not being able to tell any sort of a coherent and in depth story about such an epic show wouldn’t just make you feel silly, it would be downright scary! Like you had suffered from a serious brain disorder or something. For decades!
+Now, imagine if this show had lasted for decades, not just a weekend. Hundreds of characters, thousands of episodes, millions of scenes, uncountable ups and downs, twists and turns, cliffhangers and dead ends. Many of them highly memorable and poignant, and yet, you are totally unable to string them all together into a meaningful whole.
+
+Not being able to tell any sort of a comprehensive, coherent and in depth story about such an epic show wouldn’t just make you feel silly, it would be downright scary! Like you had suffered from a serious brain disorder or something. For decades!
 
 Now imagine that this decades-long epic show was your actual life!
 
-After having lived a life that lasted for many decades, if you were unable to describe what the whole thing was all about, that would make your whole life feel like a colossal waste of time! Not just to my bewildered coworkers but even more for me.
+After having lived a life that lasted for many decades, if you were unable to describe what the whole thing was all about, that would make your whole life feel like a colossal waste of time! Not just to your bewildered coworkers but, even more seriously, for you yourself.
 
 And I don’t mean just being able to tell a good and interesting story about your life, though that would be really important, too.
 
-But you also want to be able to tell the story behind the story. You want to be able to say not just who were the characters and their personalities and motivations, but why those characters had those characteristics, personalities and motivations. You don’t just want to describe the scenes and the events, but how those scenes may have come about and why those events may have occurred. You want to get into great depth and explain everything that happened in a coherent, comprehensive and logical way.
+I mean not just the story, but the story behind the story. Not just the what, but the how and even the why.
 
-When it comes to something as important as your own life, you want to be like a historian, an anthropologist, a biologist and maybe even a physicist describing your whole life all the way from the ground up, with every step along the way explained in the most vivid detail. And you don't just want to do that for your own life, but to this whole amazing thing called life, the universe and everything.
+You want to be able to say not just who were the characters and their personalities and motivations, but why they had those characteristics, personalities and motivations. You don’t just want to describe the scenes and the events, but how those scenes may have come about and why those events may have occurred.&#x20;
 
-This way of thinking is known as Thinking from First Principles. It forms a core principle of this book, and we will get deeper into what we mean by it and how we use it to formulate the ideas here.
+You want to get into great depth and explain everything that happened in a coherent, comprehensive and logical manner.
+
+When it comes to something as important as your own life, you want to be like a historian, an anthropologist, a biologist and maybe even a physicist describing your whole life all the way from the ground up, with every step along the way explained in the most vivid detail possible.&#x20;
+
+And ideally, you don't just want to do that for your own life, but to this whole amazing thing called life, the universe and everything.
+
+As an aside, let me say that this way of thinking is known as Thinking from First Principles - when you try to explain things all the way from the most basic fundamentals. This concept forms a core principle of this book, and we will get deeper into what we mean by it and how we use it to formulate the ideas here in subsequent chapters.
 
 Long story short, being able to tell the story of my life from First Principles became an obsession for me.&#x20;
 
@@ -142,7 +150,7 @@ This sort of a thing becomes even more urgent when you realize that this may be 
 
 I guess I could say that it was at this point in my life that I became an Eminem fan! Not only did his lyrics (included at the top of the chapter) suddenly make sense to me, but I could feel his sense of urgency and intensity.
 
-I was never going to let this opportunity slip. In fact, I consider myself really privileged to have stumbled on to these thoughts and been able to work on answering them.
+I had been given this one shot, one opportunity, to seize everything I ever wanted. I wasn't going to let it slip. In fact, I consider myself really privileged to have been given this opportunity and stumbled on to these thoughts . It almost looked like it was my duty to seize it.
 
 ## Meaning and Purpose <a href="#jzbc6mlsgvu1" id="jzbc6mlsgvu1"></a>
 
