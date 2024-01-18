@@ -26,6 +26,12 @@ layout:
 
 
 
+_"Here comes 40. I'm feeling my age and I've ordered the Ferrari. I'm going to get the whole mid-life crisis package."_
+
+**― Keanu Reeves, Canadian actor**
+
+
+
 _“Look, if you had one shot or one opportunity_
 
 _To seize everything you ever wanted in one moment_
@@ -54,21 +60,23 @@ Some people might suffer for a while, but most manage to make a complete recover
 
 Except, in my case, things happened. Big things. Evidently so big that I ended up writing a book about deep things like meaning, purpose and hope in life, no less!
 
-The kind of book that philosophers and poets and those who have actually gone through serious suffering in life are supposed to write. Not some guy who has writes code all day!
+The kind of book that philosophers and poets and those who have actually gone through serious suffering in life are supposed to write. Not some guy who writes code all day!
 
 How does something like this happen?
 
-Well, let me tell you about it, starting with some general observations about this supposedly innocuous condition known as midlife crisis.
+Well, I'm going to tell you about it. That's what this chapter it all about.
+
+But let me start with some general observations about this supposedly innocuous little condition known as midlife crisis.
 
 
 
 It is commonly believed that you have one big bad crisis sometime in your 40’s, which makes you question everything you have done until then and whether thats' all there is.
 
-And then, depending upon your circumstances, you either get a new car or a new career or a new carefree attitude towards life. Some people go totally crazy and buy a whole vineyard or something. And others just get seriously drunk.
+And then, depending upon your circumstances, you either get a new car or a new career or a new carefree attitude towards life. Or maybe just a car-free lifestyle. Some people go totally crazy and buy a whole vineyard or something. And others just get seriously drunk.
 
-This typically results in your big bad crisis getting replaced by a smaller one.&#x20;
+These activities typically result in your big bad crisis getting replaced by a smaller one.&#x20;
 
-Depending upon which remedy you followed, you either end up with buyer’s remorse or "grass looked greener" type disappointment or just a plain old hangover.&#x20;
+Depending upon which remedy you followed, you either end up with buyer’s remorse or a new boss that's no better than your old boss or "grass looked greener" type disappointment. Or maybe just high Uber bills. Or bad wine. Or just a plain old hangover.&#x20;
 
 Luckily, most of us are far more familiar with handling these types of minor crises, having experienced them multiple times in our lives by then.
 
@@ -80,27 +88,29 @@ Unfortunately (or fortunately) for me, things didn’t quite work out like that.
 
 In my case, instead of one big bad crisis, I had a series of bouts over a few years.&#x20;
 
-This had the unexpected benefit that I got better and better at dealing with them each time around.
+This had the unexpected benefit that I was able to apply my learning from previous bouts to the subsequent ones. What doesn't kill you makes you stronger, right?
 
-For example, I had already learned in previous bouts that buying a (slightly) speedier new car doesn’t quite work because cops take special delight in catching midlife crisis sufferers. Having spent a few nights in karaoke bars meant that I had already learned that singing, as a career, was just not on the cards for me. I was actually quite happy with my career as an engineer - I have always been a math / science nerd who liked to tinker with stuff.&#x20;
+For example, I had already learned in previous bouts that buying a speedier new car doesn’t quite work because cops take special delight in giving speeding tickets to such midlife crisis sufferers.&#x20;
 
-Also, I had spent enough time driving through wine country to know that owning a vineyard was back (and bank) breaking work.
+I have always been a math / science nerd who liked to tinker with stuff, so I had never really had any doubts about my career as an engineer. Moreover, spending a few nights in karaoke bars had already taught me that becoming an entertainer was just not in the cards for me.
 
-In earlier bouts, I had also flipped through enough self help books in bookstores (remember those?) to know that the rational way of dealing with things like midlife crises was to clarify one's priorities in life by asking the hard question: What would I do if I had only 6 months to live? Whatever bubbled to the top of that list would be the things to focus on.
+In earlier bouts, I had spent enough time driving through wine country to know that owning a vineyard was back (and bank) breaking work.
 
-But once I had gotten over the dread and anxiety of having to ponder my own mortality, I had quickly realized that six months is such a short time that the answer turns out to actually be rather easy and commonplace.
+I had flipped through enough self help books in bookstores (remember those?) to learn that the rational way of dealing with things like midlife crises was to clarify one's priorities in life by asking the hard question: What would I do if I had only 6 months to live? Whatever bubbled to the top of that list would be the things to focus on for your second innings.
 
-For most people, their 6-month bucket list would consist of things like getting their financial affairs in order, spending quality time with family and friends, smelling some roses, drinking some champagne, and generally giving up. (Er, I mean, “acceptance”.)
+But once I had gotten over the dread and anxiety of having to ponder my own mortality, I had quickly realized that six months was such a short time that the answer turned out to actually be rather easy and, frankly, even banal.
+
+For most people, their 6-month bucket list would consist of things like getting their affairs (I mean financial of course) in order, spending quality time with family and friends, smelling some roses, drinking some champagne, and generally giving up. (Er, I mean, “acceptance”.)
 
 I had already tried all of those answers out.
 
-Unfortunately, it had had the undesirable effect that my financial planner had raised his fees, my family and friends had started getting annoyed at me for calling them at odd times, my neighbor (whose roses I was smelling) had started looking at me funny and my doctor had told me to cut down on the champagne!
+Unfortunately, it had had the undesirable effect that my financial planner had raised his fees, my family and friends had started getting annoyed at me for calling them at odd times, my neighbor (whose roses I was smelling) had started looking at me funny and my doctor had told me to cut down on the champagne.
 
-\[ Ok, I know this book is supposed to be all about facts and logic, but please allow me a little liberty to be a tad overdramatic in the first chapter, just for fun. I promise, after this chapter is over, it is all going to be facts and logic until you start screaming for more drama! ]
+\[ Ok, I know this book is supposed to be all about facts and logic, but please allow me a little liberty to be a tad dramatic in the first chapter, just for fun. I promise, after this chapter is over, it is all going to be facts and logic until you start screaming for more drama! ]
 
 Clearly the “6 months to live” question wasn’t working for me, though it made so much sense at first.
 
-Still, there was clearly some truth to it. It did force one to seriously think and prioritize, but maybe it needed to be modified somehow before it became truly useful.
+Still, I felt like there was definitely some truth to it. It did force me to seriously think about my life and prioritize things, but maybe it needed something more before it became truly interesting and useful.
 
 That’s when it occurred to me - I needed to extend the time frame! Instead of 6 months, I needed to ask: What would I do if I had 5 years to live?
 
@@ -108,9 +118,13 @@ Now that’s a far more interesting and useful question! Not to mention far less
 
 Extending the time frame to 5 years makes the question a lot more meaningful and actually harder to answer because the longer timeframe means there would be enough time to actually get some substantial and significant stuff done. A lot can be accomplished in 5 years.
 
-Plus, the question is also far more realistic. Unless someone is already suffering from something serious, they can probably count on having at least 5 more years to live, right? Not to mention that medical miracles are making this possible even for many of those who may be suffering from serious ailments.
+Plus, the timeframe is also far more realistic. Unless someone is already suffering from something serious, they can probably count on having at least 5 more years to live, right? Not to mention that medical miracles are making this possible even for many of those who may be suffering from serious ailments.
 
-Of course, the extended time horizon comes with its own burden: You need to dig deep and see what it is that you really want to do in life or would regret not doing. With 5 years at your disposal, maybe you can still do it!
+Medical experts tell us that many of us will see the number 100 on our birthday greeting cards. It's almost like getting a whole another life to live!
+
+A hundred may be too hard for many of us to imagine, so let us get back to just the next 5.
+
+Of course, thinking about what seriously meaningful things you could do in the next 5 years brings with it its own set of problems. You need to dig deep and see what it is that you really want to do in life or would regret not doing. With 5 years at your disposal, maybe you can still do it!
 
 ## Is Panicking a Good Way to Start? <a href="#moji7o31moi3" id="moji7o31moi3"></a>
 
