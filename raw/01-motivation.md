@@ -120,59 +120,63 @@ Extending the time frame to 5 years makes the question a lot more meaningful and
 
 Plus, the timeframe is also far more realistic. Unless someone is already suffering from something serious, they can probably count on having at least 5 more years to live, right? Not to mention that medical miracles are making this possible even for many of those who may be suffering from serious ailments.
 
-Medical experts tell us that many of us will see the number 100 on our birthday greeting cards. It's almost like getting a whole another life to live!
-
-A hundred may be too hard for many of us to imagine, so let us get back to just the next 5.
-
-Of course, thinking about what seriously meaningful things you could do in the next 5 years brings with it its own set of problems. You need to dig deep and see what it is that you really want to do in life or would regret not doing. With 5 years at your disposal, maybe you can still do it!
+The "5 years to live" question forces you to dig deep and see what it is that you really want to do in life or would regret not doing. With 5 years at your disposal, maybe you can still do it!
 
 ## Is Panicking a Good Way to Start? <a href="#moji7o31moi3" id="moji7o31moi3"></a>
 
-In my case, the answer came to me one day in the shower. Just popped right out of thin (well, more like thick, to be frank, given I was in the shower) air, stood there in front of me and almost made me panic.&#x20;
+In my case, the answer came to me one day in the shower. Just popped right out of thin (well, more like thick and humid, to be frank, given I was in the shower) air, stood there in front of me and almost made me panic.&#x20;
 
 The scenario that materialized in my mind was so scary, I had to gasp for breath!
 
-Imagine you binge on a really great TV show all weekend. Then, when you see your coworkers on Monday, you start raving about it. You talk in great detail about all the wonderful characters and events and scenes, but, no matter how hard you try, you are simply unable to put it all together into a coherent story or plot or even a theme! Suddenly your excited recap of the show starts looking like just a grab-bag of unrelated stuff with no rhyme or reason to it.
+Let me put it this way.
 
-That would make you feel like an idiot. What a waste of a whole weekend!
+Imagine you binge on a really great TV show all weekend. Then, when you see your coworkers on Monday, you start raving about it.&#x20;
 
-Now, imagine if this show had lasted for decades, not just a weekend. Hundreds of characters, thousands of episodes, millions of scenes, uncountable ups and downs, twists and turns, cliffhangers and dead ends. Many of them highly memorable and poignant, and yet, you are totally unable to string them all together into a meaningful whole.
+You talk in great detail about all the wonderful characters and events and scenes. But, for some unexplainable reason, no matter how hard you try, you are simply unable to string the whole series together into a coherent story or plot! You aren't even able to describe the theme of the series!
 
-Not being able to tell any sort of a comprehensive, coherent and in depth story about such an epic show wouldn’t just make you feel silly, it would be downright scary! Like you had suffered from a serious brain disorder or something. For decades!
+Suddenly all your excitement about the show looks completely overblown and your entire binge just a meaningless waste of time. It would make you feel like an idiot.
+
+Now, imagine if this binge hadn't lasted for just a weekend, but for decades. Maybe it was one of those long running epic dramas with hundreds of characters, thousands of episodes and millions scenes, with uncountable ups and downs, twists and turns, cliffhangers and dead ends. Many of them of highly memorable and poignant if taken individually.
+
+And yet, you are totally unable to thread them all together into a meaningful whole.
+
+Not being able to tell any sort of a comprehensive, coherent and in depth story about such an epic show wouldn’t just make you feel awkward, it would be downright scary. It would make you question your own sanity. Like you had suffered from a serious brain disorder or something. For decades!
 
 Now imagine that this decades-long epic show was your actual life!
 
-After having lived a life that lasted for many decades, if you were unable to describe what the whole thing was all about, that would make your whole life feel like a colossal waste of time! Not just to your bewildered coworkers but, even more seriously, for you yourself.
+After having lived a decades-long life, that contained hundreds of characters, thousands of episodes and millions of scenes, if you were unable to describe what the whole thing was all about, that would make your whole life feel like a colossal waste of time!
 
-And I don’t mean just being able to tell a good and interesting story about your life, though that would be really important, too.
+Not just to your bewildered coworkers but, even more seriously, for yourself.
 
-I mean not just the story, but the story behind the story. Not just the what, but the how and even the why.
+And I don’t mean just being able to tell an interesting story about your life, though that would be really important, too.
 
-You want to be able to say not just who were the characters and their personalities and motivations, but why they had those characteristics, personalities and motivations. You don’t just want to describe the scenes and the events, but how those scenes may have come about and why those events may have occurred.&#x20;
+I mean the story behind the story.
 
-You want to get into great depth and explain everything that happened in a coherent, comprehensive and logical manner.
+You want to be able to say not just who were the characters and what were their personalities and motivations, but why they had those personalities and motivations. You don’t just want to describe the scenes and the events, but how those scenes may have come about and why those events may have occurred. Not just the "what" of the story, but the "how" and even the "why".
 
-When it comes to something as important as your own life, you want to be like a historian, an anthropologist, a biologist and maybe even a physicist describing your whole life all the way from the ground up, with every step along the way explained in the most vivid detail possible.&#x20;
+You want to get into great depth and explain everything that happened in a coherent, comprehensive and logical manner. Of course, you may add some poetry and drama on top to make it more interesting, but that poetry and drama wouldn't be vacuous. It would have a strong and meaningful framework to stand on.
 
-And ideally, you don't just want to do that for your own life, but to this whole amazing thing called life, the universe and everything.
+When it comes to something as important as your own life, you don't want to just be a great storyteller, but you also want to be like a historian, an anthropologist, a biologist and maybe even a physicist describing your whole life all the way from the ground up, with every step along the way explained in the most vivid detail possible.&#x20;
 
-As an aside, let me say that this way of thinking is known as Thinking from First Principles - when you try to explain things all the way from the most basic fundamentals. This concept forms a core principle of this book, and we will get deeper into what we mean by it and how we use it to formulate the ideas here in subsequent chapters.
+And ideally, you don't just want to do that for your own life, but to this whole amazing thing called life, the universe and everything. Doing so would provide the rich context within which the story of your life unfolds.
 
-Long story short, being able to tell the story of my life from First Principles became an obsession for me.&#x20;
+\[ As an aside, let me say that this way of thinking is known as Thinking from First Principles - when you try to explain things all the way from the most basic fundamentals. This concept forms a core principle of this book, and we will get deeper into what we mean by it and how we use it to formulate the ideas here in subsequent chapters. ]
+
+Long story short, being able to tell the story of my life, as well as Life in general, from First Principles, became an obsession for me.&#x20;
 
 This sort of a thing becomes even more urgent when you realize that this may be your only chance! YOLO, right?
 
-I guess I could say that it was at this point in my life that I became an Eminem fan! Not only did his lyrics (included at the top of the chapter) suddenly make sense to me, but I could feel his sense of urgency and intensity.
+I guess I could say that it was at this point in my life that I became an Eminem fan. Not only did his lyrics (included at the top of the chapter) suddenly make sense to me, but I could feel his sense of urgency and intensity.
 
-I had been given this one shot, one opportunity, to seize everything I ever wanted. I wasn't going to let it slip.&#x20;
+I had been given this one shot, one opportunity, to seize everything I ever wanted. How was I ever going to let it slip?
 
-In fact, I considered myself really privileged to have been given this opportunity. To me, it almost looked like it was my duty to seize it. How many people get this chance?
+In fact, I considered myself really privileged to have been given this opportunity. To me, it almost looked like it was my duty to seize it. It had to be done.
 
 ## Meaning and Purpose <a href="#jzbc6mlsgvu1" id="jzbc6mlsgvu1"></a>
 
 So it was time for me to get to work.
 
-How do I make sense of my life all the way from the ground up? Did it have a purpose? Did my life matter in the larger scheme of things? What are the underlying principles, characters, motivations and rules behind Life, the Universe and Everything? Why does the universe do the things it does, i.e., does it have a purpose? And where is it going?
+How do I make sense of my life all the way from the ground up? Did my life matter in the larger scheme of things? What are the underlying principles, characters, motivations and rules behind Life, the Universe and Everything? Does my life have a purpose? Does the universe have a purpose? And where is it going?
 
 In other words, what does this all mean and why does it mean that?
 
@@ -180,15 +184,19 @@ Well, isn’t this exactly what we mean when we ask about the “meaning” and 
 
 Of course, questions of this sort have been asked millions of times by millions of humans over thousands of years. And over the same period of time, many people have come up with some pretty interesting answers. Some of them have withstood the test of time and gone on to become extremely popular, even to the point of turning into religions and philosophies.
 
-In the process, even the meanings of the words "meaning" and "purpose" themselves have changed. The words have taken on more theological or poetic or personal connotations. Their true meanings turned out to be too hard to discover and the new meanings offered by religions and philosophies turned out to be far more interesting.
+In the process, even the meanings of the words "meaning" and "purpose" themselves have changed. The words have taken on more theological or philosophical or even poetic connotations. Their true meanings turned out to be too hard to discover and the new meanings offered by religions and philosophies and poets turned out to be far more interesting.
 
-But in my case, while that would have been the easy, and maybe even a great way out, I didn’t want to just mumble some well-worn phrases from ancient books, or sing moving verses from some great poems, or throw out some popular memes floating around in the zeitgeist that sounded cool. Not because they might have been wrong, but because I had no way of knowing if they were right in the first place.
+But in my case, while that would have been the easy, and maybe even a great way out, I didn’t want to just mumble some well-worn phrases from ancient books, or sing moving verses from some great poems, or throw out some popular memes floating around in the zeitgeist that sounded cool. Not because they might have been wrong, but because there really was no way of knowing if they were right or wrong in the first place.
+
+Most of the religious or philosophical or poetic ideas were based on some pretty big assumptions. And they hadn't followed any sort of rigorous process to get to their conclusions. Most of them appeared to rely on just intuitions or emotions.
 
 I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeker. As a scientist and engineer, I have been trained for it and I practice it every day. So I needed something far more solid than what was already available.
 
 I wanted to find honest, defensible answers to those questions, based on rigorous, stepwise analysis, all the way from the ground up. No shortcuts, no leaps of faith, no hand waving, no opinions, no popularity contests.
 
-And if such a thing wasn't possible, I wanted to know that too. If there were limitations to what we can know, I wanted to understand them. If there were some areas where we could say definite things but some others where we couldn't, I wanted to understand the boundaries and the difference. I saw no point in just feeling warm and fuzzy by lying to myself. In my book, it is perfectly fine to not know things, as long as you admit it to yourself and know why that was the case.
+And if such a thing wasn't possible, I wanted to know that too. If there were limitations to what we can really know about reality, I wanted to understand them. If there were some domains where we could say definite things but some others where we couldn't, I wanted to understand the boundaries between them and the differences. I saw no point in just feeling warm and fuzzy by lying to myself.&#x20;
+
+In my book, it is perfectly fine to not know things, as long as you admit it to yourself and know why that was the case.
 
 It was important for me to feel that I didn't just have the correct answers, but then go on to explain why those were the correct answers. Anything less seemed like selling myself short.
 
@@ -210,11 +218,11 @@ This exercise didn’t just give me answers to my questions, but pointed towards
 
 Some of the popular quotes and parables that I had previously been taking for granted suddenly started making sense, while others lost their power over me.
 
-Being an engineer, maybe I could describe the feeling as the entropy in my head subsiding and a new life-like growth taking its place. (Keep that image in your mind. We will be talking about entropy and life a lot in this book.)
+Being an engineer, maybe I could describe the feeling as the entropy in my head subsiding and a new life-like growth taking its place. \[ Keep that image in your mind. We will be talking about entropy and life a lot in this book. ]
 
 The feeling was so nice that I felt I had to write it down and share it.
 
 Long story short, the end result is this book, "An Engineer’s Search for Meaning".
 
-As the meme at the beginning of the chapter says, I just had to write this book. I would have wanted to write it, even if only for my own satisfaction. But by putting it out there, I am hoping it might appeal to others who think like me.
+As the meme at the beginning of the chapter says, I just had to write this book. I would have written it even if only for my own satisfaction. But by putting it out there, I am hoping it might appeal to others who think like me.
 
