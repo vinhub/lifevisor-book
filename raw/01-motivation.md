@@ -150,33 +150,33 @@ This sort of a thing becomes even more urgent when you realize that this may be 
 
 I guess I could say that it was at this point in my life that I became an Eminem fan! Not only did his lyrics (included at the top of the chapter) suddenly make sense to me, but I could feel his sense of urgency and intensity.
 
-I had been given this one shot, one opportunity, to seize everything I ever wanted. I wasn't going to let it slip. In fact, I consider myself really privileged to have been given this opportunity and stumbled on to these thoughts . It almost looked like it was my duty to seize it.
+I had been given this one shot, one opportunity, to seize everything I ever wanted. I wasn't going to let it slip.&#x20;
+
+In fact, I considered myself really privileged to have been given this opportunity. To me, it almost looked like it was my duty to seize it. How many people get this chance?
 
 ## Meaning and Purpose <a href="#jzbc6mlsgvu1" id="jzbc6mlsgvu1"></a>
 
 So it was time for me to get to work.
 
-How do I make sense of my life? What is its purpose? Does my life matter in the larger scheme of things?
+How do I make sense of my life all the way from the ground up? Did it have a purpose? Did my life matter in the larger scheme of things? What are the underlying principles, characters, motivations and rules behind Life, the Universe and Everything? Why does the universe do the things it does, i.e., does it have a purpose? And where is it going?
 
-What are the underlying principles, characters, motivations and rules behind Life, the Universe and Everything? Why does the universe do the things it does? Where is it going?
-
-In other words, what did it all mean and why did it mean that? Was there a purpose behind any of it?
+In other words, what does this all mean and why does it mean that?
 
 Well, isn’t this exactly what we mean when we ask about the “meaning” and “purpose” of one’s life or Life in general? What does it all mean and why does it mean that?
 
-Of course, questions of this sort have probably been asked millions of times by millions of humans over thousands of years. And over the same period of time, many people have come up with some pretty interesting answers. Some of them have gone on to become extremely popular, even to the point of turning into religions and philosophies.
+Of course, questions of this sort have been asked millions of times by millions of humans over thousands of years. And over the same period of time, many people have come up with some pretty interesting answers. Some of them have withstood the test of time and gone on to become extremely popular, even to the point of turning into religions and philosophies.
 
-In the process, the even the meanings of the words "meaning" and "purpose" have changed. The words have taken on more theological or poetic or personal connotations, since their true meanings turned out to be too hard to discover.
+In the process, even the meanings of the words "meaning" and "purpose" themselves have changed. The words have taken on more theological or poetic or personal connotations. Their true meanings turned out to be too hard to discover and the new meanings offered by religions and philosophies turned out to be far more interesting.
 
-But in my case, while that would have been the easy and maybe even a great way out, I didn’t want to just mumble some well-worn phrases from ancient books, or sing moving verses from some great poetry, or throw out some memes floating around in the zeitgeist that sounded cool. Not because they might have been wrong, but I had no way of knowing if they were right in the first place.
+But in my case, while that would have been the easy, and maybe even a great way out, I didn’t want to just mumble some well-worn phrases from ancient books, or sing moving verses from some great poems, or throw out some popular memes floating around in the zeitgeist that sounded cool. Not because they might have been wrong, but because I had no way of knowing if they were right in the first place.
 
-I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeking type person. I needed something far more solid than that. Anything less seemed like selling myself short.
+I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeker. As a scientist and engineer, I have been trained for it and I practice it every day. So I needed something far more solid than what was already available.
 
-I wanted to find honest, defensible answers to those questions, based on rigorous stepwise analysis, all the way from the ground up. No shortcuts, no leaps of faith, no hand waving, no opinions.
+I wanted to find honest, defensible answers to those questions, based on rigorous, stepwise analysis, all the way from the ground up. No shortcuts, no leaps of faith, no hand waving, no opinions, no popularity contests.
 
-And if such a thing wasn't possible, I wanted to know that too. If there were limitations, I wanted to understand them. If there were some areas where we could say things for sure but some others where we couldn't, I wanted to know that too. I saw no point in just feeling warm and fuzzy by lying to myself. In my book, it is perfectly fine to not know things, as long as you admit it to yourself and know why that was the case.
+And if such a thing wasn't possible, I wanted to know that too. If there were limitations to what we can know, I wanted to understand them. If there were some areas where we could say definite things but some others where we couldn't, I wanted to understand the boundaries and the difference. I saw no point in just feeling warm and fuzzy by lying to myself. In my book, it is perfectly fine to not know things, as long as you admit it to yourself and know why that was the case.
 
-It was important for me to feel that I didn't just have the correct answers, but I would be able to say why those were the correct answers.
+It was important for me to feel that I didn't just have the correct answers, but then go on to explain why those were the correct answers. Anything less seemed like selling myself short.
 
 A tall order, to be sure. Scary even. But once it popped into my head, it became an obsession.
 
@@ -184,23 +184,23 @@ A tall order, to be sure. Scary even. But once it popped into my head, it became
 
 It took quite a while to find and compile answers to these questions that could meet my criteria.
 
-Still, I was surprised to find pretty much everything I wanted. Most of the answers already existed in some form. I had to add only a couple of things that were missing, organize everything systematically and apply what I would call the “engineering sensibility” to the collection to make  everything fit nicely together and make sense together.
+What surprised me was that pretty much everything I wanted already existed. Some of it was even widely known, while some things were somewhat obscure or too new. I had to add only a couple of pieces that were missing, organize everything systematically and apply what I would call the “engineering sensibility” to the whole collection to make everything fit nicely together and make sense together.
 
-As I got deeper into it, I kept discovering even deeper insights. Things that were fuzzy earlier became clearer and new avenues kept opening up, which led to further clarity as well as richness. I even discovered that I knew things I didn’t know I knew!
+As I got deeper into it, I kept discovering even deeper insights. Things that previously looked fuzzy started to become clearer. New avenues kept opening up, which led to further clarity as well as further richness of understanding. I even discovered that I knew things I didn’t know I knew!
 
 Towards the end of this exercise I found myself becoming more and more peaceful. Like a storm inside my head had started subsiding, the sun had started to peek out of the clouds, and the birds had started chirping again.
 
-Not only that, but there was a bonus.
+Not only that, but there was an unexpected bonus.
 
-This exercise didn’t just give me answers to my questions, but pointed towards a better, more authentic way of life.&#x20;
+This exercise didn’t just give me answers to my questions, but pointed towards a better, more authentic way of life.
 
-Some of the popular quotes and parables that I had been taking for granted previously suddenly started making sense, while others lost their power over me.
+Some of the popular quotes and parables that I had previously been taking for granted suddenly started making sense, while others lost their power over me.
 
 Being an engineer, maybe I could describe the feeling as the entropy in my head subsiding and a new life-like growth taking its place. (Keep that image in your mind. We will be talking about entropy and life a lot in this book.)
 
-The feeling was so nice that I felt I had to share it.
+The feeling was so nice that I felt I had to write it down and share it.
 
-Long story short, the end result is this book, An Engineer’s Search for Meaning.
+Long story short, the end result is this book, "An Engineer’s Search for Meaning".
 
-As the meme at the beginning of the chapter says, I just had to write this book, even if only for myself. By putting it out there, I am hoping it might appeal to someone else too.
+As the meme at the beginning of the chapter says, I just had to write this book. I would have wanted to write it, even if only for my own satisfaction. But by putting it out there, I am hoping it might appeal to others who think like me.
 
