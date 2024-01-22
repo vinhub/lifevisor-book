@@ -82,7 +82,7 @@ Speaking of wanting to be taken seriously then, here is the serious summary of t
   * Have the desire for Meaning, Purpose, Hope in their life, and&#x20;
   * Can experience them, too.
 * It can be shown that the practice of **Mindfulness** is a logical outcome of MSE's trying to perform and improve their Active Inference process, which they need to do in order to survive. Improving the Active Inference process entails improving perception, the internal model and effectiveness of actions in the world, which is exactly what Mindfulness also involves.
-* Also, as per the definition of MSE's above, all MSE's possess some level of consciousness appropriate to their level of complexity. On the basis of widely corroborated reports of introspection, it can bee seen that the **desire for meaning, purpose and hope ultimately arises in consciousness**. We can postulate that this may be a result of **consciousness itself trying to perform Active Inference**, creating counterfactuals and then motivating us to go seek evidence for them. (Note that Active Inference is substrate-independent.) We can further postulate that this is because consciousness is really a new “virtual” life form that arises in complex living organisms.
+* Also, as per the definition of MSE's above, all MSE's possess some level of consciousness appropriate to their level of complexity. On the basis of widely corroborated reports of introspection, it can be seen that the **desire for meaning, purpose and hope ultimately arises in consciousness**. We can postulate that this may be a result of **consciousness itself trying to perform Active Inference**, creating counterfactuals and then motivating us to go seek evidence for them. (Note that Active Inference is substrate-independent.) We can further postulate that this is because consciousness is really a new “virtual” life form that arises in complex living organisms.
 * The current thinking among psychologists is that the concept of **Meaning in Life** has 3 components: Having a sense of&#x20;
   * **Coherence or Comprehensibility**,&#x20;
   * **Purpose**, and&#x20;
@@ -94,7 +94,7 @@ Speaking of wanting to be taken seriously then, here is the serious summary of t
 * Since we are Meaning-Seeking Entities ourselves, we can’t help but exhibit the 6CED Tendencies ourselves. Unfortunately, our consciousness generates many **desires that aren’t aligned** with these tendencies and our efforts to try to satisfy them lead to frustration. This is where the realization and mindful alignment with the 6CED Tendencies becomes critical.
 * To summarize, the MSE Framework shows that all MSE's such as ourselves (as well as any organized groups we belong to) can find **meaning, purpose and hope by mindfully realizing, acting on and enhancing their 6CED Tendencies.**
 * The MBR methodology also requires that we always keep in mind that reality contains a lot of complexity, nebulosity and many unknowns. As a result, **these guidelines themselves are subject to moderation and should always remain amenable to revision as we learn more.**
-* Many of the ideas mentioned here can be seen in various religions and philosophies also. So one can say that the MSE Framework is not particularly against religious or philosophical ideas. Except here,&#x20;
+* Many of the ideas mentioned here can be seen in various religions and philosophies also. So, one can say that the MSE Framework is not particularly against religious or philosophical ideas. Except here,&#x20;
   * We have a **far crisper definition** of these ideas,&#x20;
   * A **far stronger basis** for explaining them from First Principles,&#x20;
   * A **far better chance of developing strategies** for accomplishing them,&#x20;
@@ -122,7 +122,7 @@ But for particularly busy executives, here is an even shorter version:
 
 
 
-Of course, no executive summary can be concluded before providing a call to action. So here it is. This is essentially the same list that is included in the chapter on Purpose, for turning our greater purpose, as defined in the MSE Framework, into actions.
+Of course, no executive summary can be concluded before providing a call to action. So, here it is. This is essentially the same list that is included in the chapter on Purpose, for turning our greater purpose, as defined in the MSE Framework, into actions.
 
 ## Call to Action
 
@@ -151,5 +151,5 @@ That concludes the discussion of the MSE Framework and our quest to find meaning
 
 This has been quite a journey, starting from absolute scratch to reaching our goal. Taking the "path less traveled" has certainly meant challenging some long held notions, opening my mind to new ideas and painstakingly working through various scientific results.&#x20;
 
-I wouldn't be surprised if what I have presented here has raised many questions and doubts in your mind. So allow me to address them next.
+I wouldn't be surprised if what I have presented here has raised many questions and doubts in your mind. Allow me to address them next.
 

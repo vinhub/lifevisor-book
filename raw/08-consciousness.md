@@ -38,17 +38,17 @@ _“The universe contains infinitely more beauty than humans can ever appreciate
 
 ***
 
-### &#x20;<a href="#_1wsinubt5s2g" id="_1wsinubt5s2g"></a>
+### &#x20;<a href="#id-1wsinubt5s2g" id="id-1wsinubt5s2g"></a>
 
-### &#x20;<a href="#_eb3xkkrwt4wx" id="_eb3xkkrwt4wx"></a>
+### &#x20;<a href="#eb3xkkrwt4wx" id="eb3xkkrwt4wx"></a>
 
 
 
-## What is Consciousness? <a href="#_wtra0eb9micv" id="_wtra0eb9micv"></a>
+## What is Consciousness? <a href="#wtra0eb9micv" id="wtra0eb9micv"></a>
 
 There is something _it is like_ to be you.
 
-We say “my body”. Or even “my mind”. So the next question that arises is, “who is this 'me' that is not my body or my mind but seems to think it owns both of them?"
+We say “my body”. Or even “my mind”. So, the next question that arises is, “who is this 'me' that is not my body or my mind but seems to think it owns both of them?"
 
 And we have given this “me” a name, “Consciousness”.
 
@@ -62,11 +62,11 @@ Having all these meanings makes any debates about consciousness highly problemat
 
 For the purposes of this book, where we are trying to establish the "stack" of concepts that lead us to meaning, purpose and hope, there seem to be at least 3 meanings that could be interesting. Let us take a quick look at them:
 
-### A) Phenomenal Experience or “Hard” Consciousness <a href="#_tlr7k0613hdp" id="_tlr7k0613hdp"></a>
+### A) Phenomenal Experience or “Hard” Consciousness <a href="#tlr7k0613hdp" id="tlr7k0613hdp"></a>
 
 This is the “me” or "what it is like to be you" mentioned at the beginning of the chapter.
 
-This type of consciousness is self-evident to all of us but we can not prove its existence to anyone but ourselves because it is purely subjective.&#x20;
+This type of consciousness is self-evident to all of us but we cannot prove its existence to anyone but ourselves because it is purely subjective.&#x20;
 
 This makes it really hard to study this phenomena scientifically. That’s why we call it “hard”.
 
@@ -86,7 +86,7 @@ In other words, if I am capable of walking, talking, thinking and being consciou
 
 As a result of this, though, we can say that the Hard version of consciousness, though it is only a subjective experience, can be allowed into the MSE Framework because it is very widely corroborated. One does not need to be an expert meditator or anything like that to experience this version of consciousness.
 
-### B) Neural Correlates of Consciousness or “Easy” Consciousness <a href="#_d5nyec9cwlta" id="_d5nyec9cwlta"></a>
+### B) Neural Correlates of Consciousness or “Easy” Consciousness <a href="#d5nyec9cwlta" id="d5nyec9cwlta"></a>
 
 The easy version of consciousness refers to the structures and processes inside our nervous system that appear to be related to consciousness.
 
@@ -94,7 +94,7 @@ We usually associate various cognitive functions with consciousness, such as per
 
 This version is considered to be "easy" because we assume we can study these neural correlates objectively and independently of any account of subjective experiences, and thus gain scientific insight into them. And while we haven't completely solved this problem, we have made tremendous progress in doing so, using various brain imaging techniques.
 
-### C) “Universal” Consciousness <a href="#_8vt5w9azh7fi" id="_8vt5w9azh7fi"></a>
+### C) “Universal” Consciousness <a href="#id-8vt5w9azh7fi" id="id-8vt5w9azh7fi"></a>
 
 This is the idea that the entire universe is a single unified entity and, just like we have a consciousness, it also has, or is a consciousness. Not only that, but the consciousness we feel inside ourselves is really just this universal consciousness, but aren't always aware of this.
 
@@ -104,7 +104,7 @@ Unfortunately, here again, we have no evidence that such a thing exists or that 
 
 For the purpose of the MSE Framework, when we talk about consciousness, we are primarily talking about the Hard version, and occasionally about the Easy version. We will make the distinction clear when needed.
 
-## Consciousness as an Axiom <a href="#_r6xwpenu2xr3" id="_r6xwpenu2xr3"></a>
+## Consciousness as an Axiom <a href="#r6xwpenu2xr3" id="r6xwpenu2xr3"></a>
 
 A significant roadblock to scientifically studying Hard Consciousness is that it is subjective, whereas science deals with objective evidence. The most powerful tool of science, the scientific method, requires objective evidence.
 
@@ -130,13 +130,13 @@ We can talk about elementary particles and forces and quantum fields and so on, 
 
 This is no different from what we said about consciousness earlier. We all agree it exists but there appears to be no deeper frame of reference to base it on.
 
-So it makes sense to treat both, physical reality as well as consciousness on the same footing - as axioms.
+So, it makes sense to treat both physical reality as well as consciousness on the same footing - as axioms.
 
 This allows us to completely bypass all the philosophical debates that try to create a dividing line among people who believe in one or the other and hinder progress towards finding solutions to real issues.
 
 And this brings us to my next point.
 
-## Mindful Bounded Rationality to the Rescue Again <a href="#_tm2rtykgmwl1" id="_tm2rtykgmwl1"></a>
+## Mindful Bounded Rationality to the Rescue Again <a href="#tm2rtykgmwl1" id="tm2rtykgmwl1"></a>
 
 A lot of scientists have the temptation to treat physical reality as privileged and consciousness as something that needs to be explained using physical reality as the basis.
 
@@ -146,23 +146,23 @@ On the other hand, there are philosophers who argue that one could take consciou
 
 Interestingly, if you take this to be true, then consciousness becomes easy and explaining how physical reality emerges from it becomes the “Hard Problem", i.e., "the Hard Problem of Physical Reality”!
 
-Many scientists and philosophers alike get stuck on one or the other of these problems. Because they believe that unless we can resolve this, we can not have a complete understanding of reality.
+Many scientists and philosophers alike get stuck on one or the other of these problems. Because they believe that unless we can resolve this, we cannot have a complete understanding of reality.
 
-But we do not need to go there. Our focus is on solving a real world problem, that of defining meaning, purpose and hope. Due to our adoption of Mindful Bounded Rationality as our methodology, we are fine with not having complete knowledge. We can use what we know and see if we can create a useful solution, which we can always improve later on as we learn more.
+But we do not need to go there. Our focus is on solving a real-world problem, that of defining meaning, purpose and hope. Due to our adoption of Mindful Bounded Rationality as our methodology, we are fine with not having complete knowledge. We can use what we know and see if we can create a useful solution, which we can always improve later on as we learn more.
 
-So we'll go ahead with treating consciousness as an axiom, and both it and physical realty as having an equal footing in our model.
+So, we'll go ahead with treating consciousness as an axiom, and both it and physical realty as having an equal footing in our model.
 
-## Consciousness as a Universal Tendency <a href="#_81ykxwl1tu3j" id="_81ykxwl1tu3j"></a>
+## Consciousness as a Universal Tendency <a href="#id-81ykxwl1tu3j" id="id-81ykxwl1tu3j"></a>
 
 As we have already stated, we have no good theory for how consciousness originates. But what we do know for sure is that it does originate, and we can feel its presence here and now.
 
 Moreover, many other mammals (apes, elephants, whales etc.), birds (crows, parrots etc.) and sea creatures (octopuses etc.) exhibit some aspects of consciousness at least to some degree. Beyond that, even some complex organized groups of Living Entities or some abstract ideas also can be seen to exhibit certain aspects of consciousness. There is even speculation that AI could develop consciousness down the road.
 
-There are theories, like the Integrated Information Theory that try to generalize this notion to all systems that have a complex organization, irrespective of their substrate - biological or otherwise. (There is a Deep Dive into this theory below.)
+There are theories, like the Integrated Information Theory that try to generalize this notion to all systems that have a complex organization, irrespective of their substrate, biological or otherwise. (There is a Deep Dive into this theory below.)
 
 The point I am trying to make is that, irrespective of our inability to identify its origins, consciousness has emerged in the universe, and we have good evidence to support the idea that it may be more general than just a feature of human beings.
 
-You have probably guessed what I am going to say next: Yes, we can absolutely think of consciousness as another universal tendency. So let us add it to our list.
+You have probably guessed what I am going to say next: Yes, we can absolutely think of consciousness as another universal tendency. So, let us add it to our list.
 
 
 
@@ -174,7 +174,7 @@ You have probably guessed what I am going to say next: Yes, we can absolutely th
 
 Also, let us note that consciousness itself demonstrates all of the other universal tendencies that we have identified, namely Coherence, Complexity, Continuity, Curiosity, Creativity and possibly even Evolution. Let us just keep that in mind for now, we will use it later on.
 
-## The Desire for Meaning, Purpose and Hope <a href="#_kxyj171c0xud" id="_kxyj171c0xud"></a>
+## The Desire for Meaning, Purpose and Hope <a href="#kxyj171c0xud" id="kxyj171c0xud"></a>
 
 Most of us have probably experienced what are called states of "heightened awareness" or "intense consciousness".
 
@@ -196,13 +196,13 @@ We have seen that our physical desires, such as those for nutrition, comfort, sa
 
 But while these desires arise from our physiology (i.e. Physical Reality in our framework diagram),  some other desires, such as those for meaning, purpose and hope in one’s life, appear to be arising out of the other side of the diagram, i.e. our Consciousness.
 
-One reason for saying that they arise out of consciousness is that the sense of meaning, purpose and hope have no counterpart in physical reality. So unless one believes in a supernatural power that gives rise to these desires, the only other place they could be coming from is our consciousness.
+One reason for saying that they arise out of consciousness is that the sense of meaning, purpose and hope have no counterpart in physical reality. So, unless one believes in a supernatural power that gives rise to these desires, the only other place they could be coming from is our consciousness.
 
 Moreover, the experience that they do seem to be arising from our consciousness is widely corroborated, as we saw earlier. In other words, this fits within our methodology and allows us to add it to our framework.
 
 While that should be sufficient for our needs, I am going out on a limb and postulating a highly plausible hypothesis about desires in general and using that as another factor in favor of this argument.
 
-## Hypothesis: The Origin of Desires <a href="#_i2akd019qz0i" id="_i2akd019qz0i"></a>
+## Hypothesis: The Origin of Desires <a href="#i2akd019qz0i" id="i2akd019qz0i"></a>
 
 I am claiming that desires, whether they are physical or conscious, arise in Living Entities as a result of Active Inference.
 
@@ -246,13 +246,13 @@ This hypothesis, which looks quite reasonable, though it is currently unproven, 
 
 This idea actually turns out to be a rich vein capable of generating many insights about consciousness. Allow me to propose another intriguing hypothesis that emerges from it.
 
-## Hypothesis: Consciousness as a “Virtual” Life Form <a href="#_yn468a1l93oz" id="_yn468a1l93oz"></a>
+## Hypothesis: Consciousness as a “Virtual” Life Form <a href="#yn468a1l93oz" id="yn468a1l93oz"></a>
 
 As we have already seen, Living Entities perform Active Inference in order to continue to exist or survive.
 
 In case of conscious creatures such as ourselves, not only does our physical body continues to survive, but our consciousness also does the same. We almost think of our consciousness as a "little person" inside our heads, essentially implying that it is a life form.
 
-Does that mean that consciousness may itself be a Living Entity? Could it be a “virtual” life form that complex Living Entities give birth to and continue to support, nurture and enrich during their own lifetimes just like they do with their biological offsprings?
+Does that mean that consciousness may itself be a Living Entity? Could it be a “virtual” life form that complex Living Entities give birth to and continue to support, nurture and enrich during their own lifetimes just like they do with their biological offspring?
 
 It is known that newborns do not exhibit many aspects of consciousness. Then, as they grow, they develop more and more attributes of consciousness until they mature into the adult version of consciousness that we are all familiar with.
 

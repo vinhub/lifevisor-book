@@ -44,15 +44,15 @@ _“Those swirls in the cream mixing into the coffee? That’s us. Ephemeral pat
 
 
 
-As noted in the previous chapter, Physical Reality is one of the axioms that the MSE Framework rests on. It is self evident to us and fundamental, but we do not know how it emerges from The Great Unknown.
+As noted in the previous chapter, Physical Reality is one of the axioms that the MSE Framework rests on. It is self-evident to us and fundamental, but we do not know how it emerges from The Great Unknown.
 
 Physics has been immensely successful in explaining a huge part of physical reality. In fact, Physics is the most successful science of all in terms of its reliability, accuracy and scope, and, as a result, we rely on it heavily to build the MSE Framework.
 
 ## The Ultimate Equation of “Everyday” Physics <a href="#a9wuzeafmx13" id="a9wuzeafmx13"></a>
 
-Well known physicist and philosopher Sean Carroll says in his book “[The Big Picture](06-physical-reality.md#deep-dive-poetic-naturalism-sean-carroll)” that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
+Well-known physicist and philosopher Sean Carroll says in his book “[The Big Picture](06-physical-reality.md#deep-dive-poetic-naturalism-sean-carroll)” that Physics has allowed us to completely describe “everyday physical reality”, i.e., the part of physical reality that we interact with on a regular basis.
 
-This fits in with our methodology of Mindful Bounded Rationality, where we focus primarily on the here and now, not on distant phenomena long long ago or in the far future or, indeed, in some galaxy, far far away.
+This fits in with our methodology of Mindful Bounded Rationality, where we focus primarily on the here and now, not on distant phenomena occurring either long ago or in the far future, or indeed, in some galaxy, far far away.
 
 Carroll has put together a single equation that captures everything we know about our everyday physical reality, including quantum mechanics, spacetime, gravity, matter, the Higgs particle and all the forces of nature. He calls it the Ultimate Equation of “Everyday” Physics.
 
@@ -88,7 +88,7 @@ As noted earlier, physical reality contains both many discernible patterns as we
 
 Patterns include things like the laws of physics that we have discovered. They also include the elementary particles with specific properties, the specific ways they combine to form atoms and then molecules, the forces that act on them, and so on.
 
-Through painstaking work, we have maanged to discover many such patterns in physical reality. But we also know that not everything in physical reality is patterned in this manner. There is also a lot of nebulosity.
+Through painstaking work, we have managed to discover many such patterns in physical reality. But we also know that not everything in physical reality is patterned in this manner. There is also a lot of nebulosity.
 
 Nebulosity includes things like clouds, the shapes of various bodies of water, shapes and structures of sunflowers, arrangement of hair on bees’ legs and the irregularities in the structure of bee hives themselves and so on.
 
@@ -130,7 +130,7 @@ What I am trying to get at is that this same universal tendency can be observed 
 
 As a result, we can make a general statement that the universe appears to have  a natural tendency to create concrete things from nebulous or foggy things.
 
-So let us go ahead and create a formal statement of this universal tendency, which we will call “Coherence”.
+So, let us go ahead and create a formal statement of this universal tendency, which we will call “Coherence”.
 
 
 
@@ -174,11 +174,11 @@ In an insidious manner, this idea has percolated through our thinking, giving ri
 
 The fundamental problem here is the assumption that meaning, purpose and hope can only come from something that happens “in the end”, presumably when we meet our "maker".
 
-This is clearly another leftover idea from our belief in religion. This is because, in many religions, there is a “judgment day at the end”, when one finally get to meet their maker and gets judged for their behavior during their life.
+This is clearly another leftover idea from our belief in religion. This is because, in many religions, there is a “judgment day at the end”, when one finally gets to meet their maker and gets judged for their behavior during their life.
 
 But, as we stated in the description of our Mindful Bounded Rationality methodology, we do not need to speculate on some highly unpredictable “end of time” moment in order to find meaning. Instead, we build everything from what we know for sure, which is the present moment, right here, right now.
 
-So we have no reason to believe that science is nihilistic. We can find plenty of meaningful things right here, right now, even through the medium of science.
+So, we have no reason to believe that science is nihilistic. We can find plenty of meaningful things right here, right now, even through the medium of science.
 
 For example, while we do have the worrying universal tendency towards increasing entropy, we also have an ally that helps us fight it. This ally, which can be called a big sister to the universal tendency of Coherence that we saw earlier, is Complexity.
 
@@ -214,11 +214,11 @@ As you may have noticed, the first two Universal Tendencies, Coherence and Compl
 
 Also note that I am stopping short of calling these tendencies as “laws”. This keeps the list informal and in keeping with our “satisficing” methodology.
 
-In fact, and rather disappointingly, we do have a well known "law" for the other universal tendency, Entropy. I am talking about the Law of Entropy of course, and it is considered to be one of the most iron clad laws of reality.
+In fact, and rather disappointingly, we do have a well-known "law" for the other universal tendency, Entropy. I am talking about the Law of Entropy of course, and it is considered to be one of the most iron clad laws of reality.
 
 But lately, many scientists have been working on defining a new "law" that formalizes some of these universal tendencies that work in the opposite direction to entropy. I look forward to such efforts leading to a new law that is as powerful as the law of entropy. I have included a [Deep Dive into one such effort](06-physical-reality.md#deep-dive-a-missing-law-of-nature) below.
 
-Note that I am not including Entropy in the list of universal tendencies that we are building. Needless to say that it is one of the most well known tendencies of the universe, but this tendency goes in the opposite direction of our ultimate objective of defining meaning, purpose and hope in a rigorous manner. The list we are building isn't intended to be a definitive list of all universal tendencies, it is going to contain just the ones that we need for our purposes.
+Note that I am not including Entropy in the list of universal tendencies that we are building. Needless to say, it is one of the most well-known tendencies of the universe, but this tendency goes in the opposite direction of our ultimate objective of defining meaning, purpose and hope in a rigorous manner. The list we are building isn't intended to be a definitive list of all universal tendencies. It is going to contain just the ones that we need for our purposes.
 
 Coming back to Complexity then, let us note that the phenomena of entropy and complexity appear to be engaged in a kind of a cosmic dance, bringing matter together and taking it apart.&#x20;
 
@@ -228,7 +228,7 @@ This dance turns out to be one of the most meaningful things in the universe as 
 
 As a first approximation, let us note that, informally, things that are less chaotic have low entropy and those that are more chaotic have higher entropy. But this is also true of complexity: things that are less chaotic look less complex and those that are more chaotic look more complex.
 
-So one might be tempted to conclude that entropy and complexity have a linear relationship i.e., as complexity increases, entropy also increases, and vice versa.
+So, one might be tempted to conclude that entropy and complexity have a linear relationship i.e., as complexity increases, entropy also increases, and vice versa.
 
 This may make sense because more complex systems have a greater number of possible arrangements of their components that are consistent with their macroscopic properties, and thus have a greater number of microstates, which imply a higher level of entropy.
 
@@ -272,7 +272,7 @@ Keep this picture of ink mixing into water in mind. We will encounter it again i
 
 ## Deep Dive: Poetic Naturalism (Sean Carroll)
 
-Sean Carroll is a well known physicist, philosopher and podcaster. He has written a book called The Big Picture, which talks about his model of ultimate reality, which he calls Poetic Naturalism.
+Sean Carroll is a well-known physicist, philosopher and podcaster. He has written a book called The Big Picture, which talks about his model of ultimate reality, which he calls Poetic Naturalism.
 
 In short, Poetic Naturalism can be described as follows:
 
@@ -282,11 +282,11 @@ Beyond physics, different explanations exist for different sections of reality. 
 
 How we transition from the lower layers of this hierarchy to higher ones is currently not known. These transitions, known as phase transitions or emergence, cause gaps in our understanding of reality and, as a result, a unifying theory of everything remains elusive.
 
-So Sean’s proposal is that we should simply say that there are many ways of talking about the natural world and some of those are still very valuable in their respective domains.
+So, Sean’s proposal is that we should simply say that there are many ways of talking about the natural world and some of those are still very valuable in their respective domains.
 
 For example, the fact that the underlying laws of physics are deterministic and impersonal does not mean that at the human level we can’t talk about ideas about reasons and goals and purposes and free will.
 
-In other words, while fundamentally this is still Naturalism, there is an element of poetic perspective in it. Hence he calls it Poetic Naturalism.
+In other words, while fundamentally this is still Naturalism, there is an element of poetic perspective in it. Hence, he calls it Poetic Naturalism.
 
 
 
@@ -298,5 +298,5 @@ Here is a reference to and an abstract from one such recent effort:&#x20;
 
 [**"On the roles of function and selection in evolving systems"**](https://www.pnas.org/doi/epdf/10.1073/pnas.2310223120) by Michael L. Wonga, Carol E. Cleland, Daniel Arend Jr., Stuart Bartlett, H. James Cleaves II, Heather Demarest, Anirudh Prabhu, Jonathan I. Lunineg, and Robert M. Hazen in Proceedings of the National Academy of Sciences, Volume 120, Issue 43, Oct 2023.
 
-"The universe is replete with complex evolving systems, but the existing macroscopic physical laws do not seem to adequately describe these systems. Recognizing that the identification of conceptual equivalencies among disparate phenomena were foundational to developing previous laws of nature, we approach a potential “missing law” by looking for equivalencies among evolving systems. We suggest that all evolving systems—including but not limited to life—are composed of diverse components that can combine into configurational states that are then selected for or against based on function. We then identify the fundamental sources of selection—static persistence, dynamic persistence, and novelty generation—and propose a time- asymmetric law that states that the functional information of a system will increase over time when subjected to selection for function(s)."
+"The universe is replete with complex evolving systems, but the existing macroscopic physical laws do not seem to adequately describe these systems. Recognizing that the identification of conceptual equivalencies among disparate phenomena were foundational to developing previous laws of nature, we approach a potential “missing law” by looking for equivalencies among evolving systems. We suggest that all evolving systems—including but not limited to life—are composed of diverse components that can combine into configurational states that are then selected for or against based on function. We then identify the fundamental sources of selection—static persistence, dynamic persistence, and novelty generation—and propose a time-asymmetric law that states that the functional information of a system will increase over time when subjected to selection for function(s)."
 

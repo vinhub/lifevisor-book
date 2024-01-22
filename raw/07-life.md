@@ -108,7 +108,7 @@ Every living cell can be said to be like a blob of some extremely complex chemic
 
 The way a living cell does this is by absorbing low entropy energy from some energy source in its environment and using that energy to keep itself in a low entropy state. In the process, it radiates high entropy energy into their environment, in the form of heat. The technical term for this is "dissipation".
 
-Jeremy England's theory of Dissipation-Driven Adaptation generalizes this idea to any complex "chemical soup". It states that in a complex environment with a an energy source, complex entities inevitably and automatically emerge to help dissipate that energy more efficiently than it would otherwise be.
+Jeremy England's theory of Dissipation-Driven Adaptation generalizes this idea to any complex "chemical soup". It states that in a complex environment with an energy source, complex entities inevitably and automatically emerge to help dissipate that energy more efficiently than it would otherwise be.
 
 Not only that, but if the energy source or the environment fluctuates from time to time, these self-organized complex entities will try to adapt to those fluctuations in order to continue to dissipate the energy efficiently.
 
@@ -116,11 +116,11 @@ In other words, they will resist reaching an equilibrium with their environment,
 
 Such self-organized complex entities are known as Complex Adaptive Systems and the process is called Dissipation-Driven Adaptation.
 
-Note that such conditions existed on early earth for extremely long periods of time. There were various bodies of water with complex molecules in them, constantly interacting with each other. There were also energy sources, such as the sun or the hydrothermal vents at the bottom of the ocean. So these conditions were perfect for the emergence of such self-organizing Complex Adaptive Systems. It is possible that life emerged as a result of some such mechanism.
+Note that such conditions existed on early earth for extremely long periods of time. There were various bodies of water with complex molecules in them, constantly interacting with each other. There were also energy sources, such as the sun or the hydrothermal vents at the bottom of the ocean. So, these conditions were perfect for the emergence of such self-organizing Complex Adaptive Systems. It is possible that life emerged as a result of some such mechanism.
 
 That is why this insight is being called a Physics theory of Life. It potentially explains the emergence of life-like processes directly based on physics.
 
-Jeremy England's insight itself is based on two well-established theories in thermodynamics known as the Fluctuation-Dissipation theories of Christopher Jarzynski and Gavin Crooks. in other words, this theory has a strong foundation of well accepted theories in physics.
+Jeremy England's insight itself is based on two well-established theories in thermodynamics known as the Fluctuation-Dissipation theories of Christopher Jarzynski and Gavin Crooks. in other words, this theory has a strong foundation of well-accepted theories in physics.
 
 By the way, note that we are not claiming that this is how life actually got started on earth. We do not know that for sure yet. We also haven't managed to create new life using this theory.
 
@@ -132,7 +132,7 @@ In other words, irrespective of whether this process actually led to life, the p
 
 As a result, we can say that the universe appears to have a natural tendency to spontaneously create higher and higher levels of self-organized complexity, as long as we have a complex set of simpler entities interacting with each other, such as those found on planets like the earth, and an energy source, such as stars like our sun or other geothermal sources.
 
-Needless to say that this is another and even stronger evidence for the natural tendency of the universe towards Complexity that we identified in the last chapter.
+Needless to say, this is another and even stronger evidence for the natural tendency of the universe towards Complexity that we identified in the last chapter.
 
 But wait, there’s more!
 
@@ -140,7 +140,7 @@ Karl Friston, a British neuroscientist has an even more interesting theory of li
 
 ## Friston’s Genius Formulation of the Phenomena of Life <a href="#uorz3e94oiwl" id="uorz3e94oiwl"></a>
 
-As mentioned above, Karl Friston is a neuroscientist. So his original goal was to come up with a fundamental mathematical model of how brains work.
+As mentioned above, Karl Friston is a neuroscientist. So, his original goal was to come up with a fundamental mathematical model of how brains work.
 
 Using various techniques in statistical physics and machine learning, he produced a mathematical model that captures the essence of how a brains function. This model has been incredibly successful at explaining many aspects of brain function. He calls it the Free Energy Principle.&#x20;
 
@@ -180,7 +180,7 @@ For example, your body has certain states, consisting of its temperature, blood 
 
 These states are called “Internal States”, i.e. states internal to the Living Entity, to distinguish them from the states of the environment, which are external to the Living Entity.
 
-So basically what we are saying is that, in order for a Living Entity to sustain itself, it needs to maintain its Internal States within a limited range of values that are conducive to its survival.
+Basically, what we are saying is that, in order for a Living Entity to sustain itself, it needs to maintain its Internal States within a limited range of values that are conducive to its survival.
 
 ## Hidden States <a href="#yu7aqt9u8mbx" id="yu7aqt9u8mbx"></a>
 
@@ -212,7 +212,7 @@ This Model is built by the Living Entity, based on its learnings from its previo
 
 If the results were good, the relationship between those environmental changes and the decisions the Model came up with would be reinforced. If not, they get weakened. Over time, the model gets better and better at making the right decisions.
 
-(Of course, most Living Entities have ancestors, and a lot of this learning gets passed down from generation to generation via genes. But we don’t need to get into that detail yet. We will get to it eventually. For now let us just say that it learns this by itself.)
+(Of course, most Living Entities have ancestors, and a lot of this learning gets passed down from generation to generation via genes. But we don’t need to get into that detail yet. We will get to it eventually. For now, let us just say that it learns this by itself.)
 
 Here is an example to illustrate this further.
 
@@ -257,9 +257,9 @@ Such a model can be expected to be able to predict, based on its past experience
 
 A lot of this planning and strategizing involves imagining scenarios that could unfold (including ones that may have never occurred in the past) and preparing for them.
 
-Of course, the scenarios they generate can not be completely random. They need to be within the realm of possibilities given their knowledge of how the world works.
+Of course, the scenarios they generate cannot be completely random. They need to be within the realm of possibilities given their knowledge of how the world works.
 
-Typically organizations such as the WHO would come up with realistic scenarios, conduct simulations, mock exercises, strategic and tactical planning exercises and so on to actively infer what types of responses would work in those situations.
+Typically, organizations such as the WHO would come up with realistic scenarios, conduct simulations, mock exercises, strategic and tactical planning exercises and so on to actively infer what types of responses would work in those situations.
 
 The ultimate aim of this exercise is to ensure that if another pandemic were to break out in reality, even if it is of a different character, it will not be a surprise to the global health system, and it will be able to respond immediately and effectively.
 
@@ -273,9 +273,9 @@ In mathematical terms, minimizing surprise is also called “minimizing the free
 
 (Note that the “free energy” mentioned here is not related to the concept of energy from physics. This is a separate concept from statistics.)
 
-Another mathematical term for the same process is “maximizing Bayesian model evidence”. Essentially the intuition here is that the Living Entity wants to collect evidence that its Internal Model is robust against changes to the environment. Once again, it goes without saying that the better the evidence for the model, the better chance the Living Entity has of continuing to exist.
+Another mathematical term for the same process is “maximizing Bayesian Model Evidence”. Essentially the intuition here is that the Living Entity wants to collect evidence that its Internal Model is robust against changes to the environment. Once again, it goes without saying that the better the evidence for the model, the better chance the Living Entity has of continuing to exist.
 
-The main takeaway here is that when you update your internal model to minimize surprise, or improve its “model evidence”, you are basically becoming better at predicting what the environment might do next and respond effectively to it.
+The main takeaway here is that when you update your internal model to minimize surprise, or improve its “Model Evidence”, you are basically becoming better at predicting what the environment might do next and respond effectively to it.
 
 ## Hate Surprises? Good for You!
 
@@ -295,7 +295,7 @@ This gives us more clues and reduces our uncertainty further.
 
 All of this is another way of saying that we instinctively use our Perception, Internal Generative Model and Actions to perform Active Inference and minimize our surprise!
 
-(So people who say “I hate surprises” were right after all! Avoiding surprises is exactly what every Living Entity is inherently wired for! If you are one of those people who hate surprises, feel free to feel totally vindicated! 😊)
+(So, people who say “I hate surprises” were right after all! Avoiding surprises is exactly what every Living Entity is inherently wired for! If you are one of those people who hate surprises, feel free to feel totally vindicated!)
 
 Ok, that pretty much sums up the essence of the Free Energy Principle without going any deeper into the math.
 
@@ -335,7 +335,7 @@ Even the simplest bacteria can be said to have such capabilities, albeit at a ve
 
 In fact, when you look at all the things that happen inside a living cell, one could argue that the most intelligent entity in the universe, per unit of volume, is a living cell! The human brain may be far more intelligent overall, but it pales in comparison to the complexity and capability that a living cell packs in such a small volume.
 
-All you have to do is to watch some of the living cell simulations (or even videos of actual living cells under a microscope) to see the incredibly complex and varied activities occurring inside living cells. These include various molecules being ferried around in very purposeful and intelligent ways, complex structures being built or dismantled, cell walls allowing or rejecting various chemicals from entering the cell and so on. Watching a movie of a cell dividing into two, including how the DNA gets duplicated is simply awe inspiring. White blood cells hunting down an intruder is nothing short of a nail biting drama.
+All you have to do is to watch some of the living cell simulations (or even videos of actual living cells under a microscope) to see the incredibly complex and varied activities occurring inside living cells. These include various molecules being ferried around in very purposeful and intelligent ways, complex structures being built or dismantled, cell walls allowing or rejecting various chemicals from entering the cell and so on. Watching a movie of a cell dividing into two, including how the DNA gets duplicated is simply awe inspiring. White blood cells hunting down an intruder is nothing short of a nail-biting drama.
 
 All of this occurs at the cellular level like clockwork, in an environment full of chaos. Way more chaos than most of us experience in our daily lives!
 
@@ -395,11 +395,11 @@ With that, as you might have guessed, we can add another item to our list of Uni
 
 ## The Need for a New Law of Nature <a href="#id-598mcfns8dry" id="id-598mcfns8dry"></a>
 
-Needless to say that many scientists have noted the prevalence of these Universal Tendencies we have been collecting: Coherence, Complexity, Continuity of identity or Existence and Evolution.
+Needless to say, many scientists have noted the prevalence of these Universal Tendencies we have been collecting: Coherence, Complexity, Continuity of identity or Existence and Evolution.
 
 While we do have the law of evolution in biology, what we really need is a deeper and broader law of nature that encompasses all of these processes in all of these contexts, starting from quantum fog to galaxies.
 
-Luckily for us, some scientists have started putting forth proposals in this direction. I am hopeful that these efforts will gain traction and become as well known as the law of entropy.
+Luckily for us, some scientists have started putting forth proposals in this direction. I am hopeful that these efforts will gain traction and become as well-known as the law of entropy.
 
 Following is an excerpt from one such paper that hints at all the Universal Tendencies we have covered so far:
 
@@ -511,7 +511,7 @@ This can also be characterized as tacit or embodied mindfulness. So while we hav
 
 It is interesting that we had to wait for human thought to evolve for millennia before we rediscovered something that was inherent to all living organisms!
 
-And now that we have, it is only reasonable that we embrace it like we would a long lost friend.
+And now that we have, it is only reasonable that we embrace it like we would a long-lost friend.
 
 I hope this also clarifies why, in the chapter on Methodology, we decided to name our methodology as Mindful Bounded Rationality. Qualifying rationality in this manner not only makes sense based on the reasoning provided in that chapter, but it can even be derived from First Principles.
 

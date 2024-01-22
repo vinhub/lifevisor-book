@@ -114,7 +114,7 @@ When we talk about hope in the context of our lives, we typically associate it n
 
 Which raises the question: How do we define “positive” here? What is a "better" life?
 
-Everything we have looked at so far has been in service of finding meaning in life. So it would be  reasonable for us to define a positive life as a meaningful life and hope as the expectation of a more meaningful life.
+Everything we have looked at so far has been in service of finding meaning in life. So, it would be  reasonable for us to define a positive life as a meaningful life and hope as the expectation of a more meaningful life.
 
 That’s why, in the MSE Framework, we define Hope as “reasonable expectation of a more meaningful life in future”.
 

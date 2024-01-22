@@ -60,13 +60,13 @@ The second Matrix movie (“The Matrix Reloaded”) contains a perfect speech on
 
 
 
-I know I have taken this quote out of context, but it is actually very meaningful when taken out of context. (I guess I must have learned this trick from social media - taking things out of context because they serve your purpose! 😀)
+I know I have taken this quote out of context, but it is actually very meaningful when taken out of context. (I guess I must have learned this trick from social media - taking things out of context because they serve your purpose!)
 
 Still, this quote serves my purpose here so well, I hope you will remember it and mull over it as we go through this chapter.
 
 Now, sure, you might say that Agent Smith, a computer program, and an evil one at that, wouldn’t be your first choice to go for advice on purpose. While that may be a little "substrate-ist" (a belief in the supremacy of intelligence born out of a biological substrate), I am going to indulge you this time.
 
-So let us look at a well-regarded quote by one of the most respectable (and highly quotable) philosophers:
+So, let us look at a well-regarded quote by one of the most respectable (and highly quotable) philosophers:
 
 
 
@@ -90,7 +90,7 @@ Here is a dictionary definition of purpose:
 
 In the context of this book, when we say “purpose”, we are basically replacing the two “somethings” in the above definition with our actions and ourselves, respectively.
 
-So we are talking about why we do the things we do and why we exist in the first place.
+So, we are talking about why we do the things we do and why we exist in the first place.
 
 And again, the “we” here could be a single individual or a group of people or even all of life.
 
@@ -148,7 +148,7 @@ One could ask: How else would we interpret these tendencies that the universe di
 
 I don’t really see a way to differentiate between the two. If we dissociate the concept of purpose from its theological connotations, we are still left with a very meaningful word.
 
-I am aware that this issue has been discussed at length in philosophy under the heading of "the is / ought problem". But I think that way of thinking has a major problem, and I have included a [Deep Dive at the end of this chapter](10-purpose.md#deep-dive-the-is-ought-problem) to go over it.
+I am aware that this issue has been discussed at length in philosophy under the heading of "the Is- Ought Problem". But I think that way of thinking has a major problem, and I have included a [Deep Dive at the end of this chapter](10-purpose.md#deep-dive-the-is-ought-problem) to go over it.
 
 In short, we can absolutely conclude that the universe exhibits strong evidence of having a purpose, without invoking any sort of theological connotations.
 
@@ -182,7 +182,7 @@ We can state it formally as follows:
 
 ## Turning the Definition of Purpose into Action
 
-Ultimately, one needs to be able to convert their purpose into action. So how do we do that for the purpose as defined above?
+Ultimately, one needs to be able to convert their purpose into action. So, how do we do that for the purpose as defined above?
 
 Let us look at each of the 6CED Tendencies and come up with some initial ideas for turning them into actions. This may look a little like a typical self-help TODO list, but it is only meant as an example to spark thinking along these lines. The list is by no means definitive or complete. It will evolve over time as we learn more about what works and what doesn't.
 
@@ -192,7 +192,7 @@ Let us look at each of the 6CED Tendencies and come up with some initial ideas f
 * **Curiosity:** This one is easy: Always try to be curious and open minded, willing to experience new phenomena and learning from them. This is the natural behavior of our Bayesian brains, and it is only when we get stuck in routines or become dogmatic about some belief that we deviate from that.
 * **Creativity:** This one is also easy: Always try to be creative. And, in particular, creating things that embody at least some of the other 6CED Tendencies. One of the best ways to do that is to create or facilitate the creation of Living Entities of all types.
 * **Consciousness:** Simply being mindful is one of the best ways to enrich your conscious experience, and over time, enrich your consciousness itself. One can also add other rich experiences to their repertoire, like listening to music or appreciating good art or reading good books.&#x20;
-* **Evolution:** Needless to say that our biological desire to participate in evolution is a part of this. But also participating in iterative improvement of everything we do or every organized group we belong to could also be seen as a part of this.
+* **Evolution:** Needless to say, our biological desire to participate in evolution is a part of this. But also participating in iterative improvement of everything we do or every organized group we belong to could also be seen as a part of this.
 * **Diversity:** This involves recognizing the value of and facilitating the enrichment of diversity in all aspects of the world. It also means detecting when diversity is being destroyed or monoculture is replacing it and slowing or preventing that from happening.
 
 And of course, in order to be respectful of nebulosity and unknowns in reality, we need to exercise mindful moderation and willingness to learn and improve the above list of actions accordingly.

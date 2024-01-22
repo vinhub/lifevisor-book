@@ -64,10 +64,10 @@ Among the deepest known unknowns of reality are questions such as:
 
 * What exists? In particular, what exists "out there" and "in here"? (And what does "out there" and "in here" even mean?)
 * Why does it (or anything) exist at all? Where did it come from? (And if it did come from somewhere, where did that come from?)
+* Does existence have a beginning or an end? What came before? What happens in the end?
 * What does “existence” even mean?
-* Does existence have a beginning and an ending? What came before? What happens in the end?
-* We call everything we can perceive using our senses, such as vision or sound or touch etc. as "physical". But does “physical” mean?
-* How does this physical reality differ from the ultimate reality? How does it come about?
+* We call everything we can perceive using our senses, such as vision or hearing or touch, as "physical". But what does “physical” even mean?
+* Is this physical reality different from our ultimate reality? In that case, how does the former emerge from the latter?
 * What is "experience"? What is consciousness? How does that emerge?
 
 We have asked these questions for eons. And while we have made tremendous progress in answering so many questions, we haven't really answered any of the questions above convincingly.
@@ -94,9 +94,9 @@ We also do not need to start from some distant past when the universe “began�
 
 Instead, we will start from what we know a lot more about: We will start from entities and processes that can be shown to exist right here, right now.
 
-Think of existence not as a story of the universe from the beginning to the end, with both ends shrouded in mystery. Instead, think of it as a story that begins with you at the center, where things are a lot more crisp and clear, and getting foggier and foggier as you move away in time or space in any direction.
+Think of existence not as a story of the universe from the beginning to the end, with both ends shrouded in mystery. Instead, think of it as a story that begins with you at the center, where things are quite crisp and clear, but they get foggier and foggier as you move away in time or space in any direction.
 
-Needless to say that you have a lot more evidence supporting the idea that you exist here and now, than about how the universe may have been created or how it will end.
+Needless to say, you have a lot more evidence supporting the idea that you exist here and now, than about how the universe may have been created or how it will end.
 
 You are conscious, you are breathing, you can see and feel things happening around us. You know where you are in relation to your surroundings. You are aware of your thoughts.
 
@@ -150,7 +150,7 @@ We also have some very interesting modern hypotheses for The Great Unknown, such
 
 I have found many of these ideas fascinating and educational. As a result, I have included Deep Dives into some of these concepts at the end of this chapter. You may find them interesting, too.
 
-But none of these models can provide any proof of their existence. So we will continue to stick to the name The Great Unknown because we really don’t know anything about it. Our methodology would not allow us to complicate our model with assumptions and opinions about the nature or features or intentions of this Great Unknown.
+But none of these models can provide any proof of their existence. So, we will continue to use the name The Great Unknown because we really don’t know anything about it. Our methodology would not allow us to complicate our model with assumptions and opinions about the nature or features or intentions of this Great Unknown.
 
 All we can say is that we have no choice but to start with something like The Great Unknown, which we will take to be self-evident and fundamental, but beyond that we can’t say anything for sure.
 
@@ -174,7 +174,7 @@ Just like we can all agree that we live in something like a physical reality, we
 
 Over the millennia, people have tried to understand what this thing inside of us is, but we are still far from reaching that goal in a scientific manner. But we can say that our lack of knowledge about consciousness isn't as dire as that about Ultimate Reality.
 
-So the background color of the Consciousness box is gray instead of black or white to indicate this.
+So, the background color of the Consciousness box is gray instead of black or white to indicate this.
 
 We will take a deeper look at Consciousness in a subsequent chapter.
 
@@ -198,13 +198,13 @@ Physics is the most successful of sciences, and it gives us a great account of a
 
 So how the bidirectional interaction between physical reality and consciousness occurs is unknown.
 
-At present, we have more plausible theories for showing how consciousness may be arising out of physical reality than the other way round. This is indicated in the diagram using a dotted arrow from Physical Reality to Consciousness..
+At present, we have more plausible theories for showing how consciousness may be arising out of physical reality than the other way round. This is indicated in the diagram using a dotted arrow from Physical Reality to Consciousness.
 
 If one of these theories gets proven, we will be able to simply delete the arrow that goes from The Great Unknown to Consciousness and convert the dotted line connecting Physical Reality to Consciousness into a solid one.
 
 This means that, even if that were to happen, the rest of the MSE Framework remains intact. So, we can say that the framework is future-proof to some extent.
 
-Ok, having started with this high level overview in this chapter, we will be digging deeper into each of these concepts in subsequent chapters, starting with Physical Reality.
+Ok, having started with this high-level overview in this chapter, we will be digging deeper into each of these concepts in subsequent chapters, starting with Physical Reality.
 
 
 
@@ -218,7 +218,7 @@ Donald Hoffman is an American cognitive psychologist and a professor at UC Irvin
 
 His theory, known as Conscious Realism, states that evolution did not engineer us to perceive reality as it is. This is because evolution was more concerned with helping us survive and replicate, using as little resources and energy as possible.
 
-Requiring living organisms to know their ultimate reality in order to survive would have required too much energy and resources, because reality is just too complex. So evolution took shortcuts in our perceptive abilities to let us perceive only the features of reality that offered survival advantage.
+Requiring living organisms to know their ultimate reality in order to survive would have required too much energy and resources, because reality is just too complex. So, evolution took shortcuts in our perceptive abilities to let us perceive only the features of reality that offered survival advantage.
 
 Luckily for us, there were enough patterns in our complex ultimate reality that were sufficient for us to survive and replicate without having to know all of it.
 
@@ -240,7 +240,7 @@ But note that it is at best a pedagogical device, not necessarily the truth. Cla
 
 Here is a description of the hypothesis:
 
-Imagine that there is some universe beyond ours in which there is something like a computer on which a game being run. The game involves one or more players that are represented in the game using  characters. In gaming parlance, this is known as a Massively Multiplayer Online Role Playing Game (MMORPG).&#x20;
+Imagine that there is some universe beyond ours in which there is something like a computer on which a game being run. The game involves one or more players that are represented in the game using  characters. In gaming parlance, this is known as a Massively Multiplayer Online Role-Playing Game (MMORPG).&#x20;
 
 The game is so engrossing that the players forget they are in a game and identify themselves completely with their characters inside the game. The only way they can "wake up" from the game is for their game character to die.
 
@@ -256,7 +256,7 @@ Many science fiction books and movies have explored this theme to various extent
 
 Max Tegmark, a Swedish-American physicist at MIT,  proposed that the physical universe is not merely described by mathematics, but it actually is a mathematical / computational structure.
 
-Essentially the idea is to imagine that reality, at its essence, is nothing but a space of all mathematical formulas and algorithms. These formulas and algorithms somehow they start to expand or execute, which generates all of physical reality, including ourselves in it.
+Essentially the idea is to imagine that reality, at its essence, is nothing but a space of all mathematical formulas and algorithms. Somehow, these formulas and algorithms start to expand or execute, which generates all of physical reality, including ourselves in it.
 
 This could be considered to be loosely related to the Simulation Hypothesis , but not exactly the same. It is not saying that there is a reality or players outside the simulation, but the game, as in the Simulation Hypothesis, is all there is.
 
@@ -301,7 +301,7 @@ Vedantic Philosophy states that there is just one universal unified consciousnes
 
 According to this philosophy, there is no duality between the self and the ultimate reality of Brahman.
 
-It believes that the ultimate purpose of life is to attain this realization (known as Moksha or enlightenment). It also says that Enlightenment is a process, not a specific destination. One can keep progressing on this path forever. This endows life and consciousness with a long term purpose.
+It believes that the ultimate purpose of life is to attain this realization (known as Moksha or enlightenment). It also says that Enlightenment is a process, not a specific destination. One can keep progressing on this path forever. This endows life and consciousness with a long-term purpose.
 
 One of the major benefits of this philosophy is that universal compassion follows as a logical outcome of believing that we are all a part of the same unified reality.
 

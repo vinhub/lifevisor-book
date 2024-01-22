@@ -65,7 +65,7 @@ The following quote by him conveys this idea well:
 
 Needless to say, I have been greatly influenced by these ideas. So much so that I felt using a slight variation of the title of Frankl’s book would not only be perfect for my book, but also pay homage to his ideas.
 
-As stated earlier, my goal here is to take a rigorous, first principles based approach to the concept of meaning, so one does not have to take leaps of faith or rely on someone's opinion to get there.
+As stated earlier, my goal here is to take a rigorous, First Principles-based approach to the concept of meaning, so one does not have to take leaps of faith or rely on someone's opinion to get there.
 
 In order to do so, we have to first define what exactly we mean by "meaning".
 
@@ -105,7 +105,7 @@ Here is the relevant excerpt from his book:
 
 
 
-Needless to say that none of these answers are satisfactory for our purposes. We should try to, and as we will soon see, can, do better. A lot better.
+Needless to say, none of these answers are satisfactory for our purposes. We should try to, and as we will soon see, can, do better. A lot better.
 
 Apart from long-held religious and philosophical ideas, I believe a major part of the reason for all this confusion about “meaning” is that the word itself is not defined very clearly. It goes without saying that concepts need to be well-defined before we can apply any significant amount of rigor to them.
 
@@ -141,7 +141,7 @@ It is natural for us to be able to do the same for our own lives in order for it
 
 One of the popular bumper stickers from the 80’s was “One who dies with the most toys wins”. It was used to justify a lifestyle of materialistic excess. But now that we are older and wiser, maybe we can replace it with “One who dies with the most meaningful life story wins”.
 
-Needless to say that I like that phrase a lot personally. You may recall that this was exactly how I got started on this journey: My desire to make sense of my life and tell a coherent and meaningful story, starting from first principles.
+Needless to say, I like that phrase a lot personally. You may recall that this was exactly how I got started on this journey: My desire to make sense of my life and tell a coherent and meaningful story, starting from First Principles.
 
 ### B) Meaning as Having a Sense of Purpose in Life <a href="#yctae3ibz5se" id="yctae3ibz5se"></a>
 
@@ -155,7 +155,7 @@ Here is a famous quote along these lines:
 
 
 
-> _“We’re here to put a dent in the universe. Otherwise why else even be here?”_
+> _“We’re here to put a dent in the universe. Otherwise, why else even be here?”_
 >
 > **― Steve Jobs**
 
@@ -173,7 +173,7 @@ This need probably arises from the fact that we are consciously or subconsciousl
 
 The reasonable way to achieve that is to look for something that is likely to survive far longer than ourselves and has a far larger scope than ourselves, and make a contribution to it.
 
-This is why people usually like to associate themselves with something large and long lasting, such as a well known religion or philosophy or a long lasting institution or cause that has survived for a long time and is likely to continue and grow for a long time. As long as their contribution helps that entity survive and maintain or increase its scope, they can feel that their life is meaningful.
+This is why people usually like to associate themselves with something large and long-lasting, such as a well-known religion or philosophy or a long-lived institution or cause that has survived for a long time and is likely to continue and grow for a long time. As long as their contribution helps that entity survive and maintain or increase its scope, they can feel that their life is meaningful.
 
 The "intense conscious experiences" that we talked about in the chapter on Consciousness, such as listening to sublime music or watching a reading particularly moving story or even appreciating the mathematical beauty of some formula also fall into this category. The heightened states of consciousness experienced at such moments give us the feeling that we belong to some sort of divine, all pervasive and immortal reality.
 
@@ -183,7 +183,7 @@ As you might have noticed, there is some overlap among all three components of m
 
 Normally, the definitions of meaning provided above would be adequate for our purposes, but one may still have some discomfort over the fact that they are derived from surveys rather than from the ground up.
 
-You may ask: Is there a way to derive these definitions of meaning starting from first principles?
+You may ask: Is there a way to derive these definitions of meaning starting from First Principles?
 
 And there is! The Free Energy Principle and Active Inference comes to our rescue here again.
 
@@ -201,11 +201,11 @@ And, ultimately, as we saw in our discussion of mindfulness and Active Inference
 
 This could be interpreted as us contributing to something much larger than ourselves. Moreover, being conscious beings, we can understand this ourselves, which provides us with a sense of “existential mattering” or significance.
 
-This whole process can also been seen from the point of view of the communities we are a part of. If one thinks of these communities as living organisms themselves, then our participation in Active Inference at the individual level contributes to the Active Inference process at the community level also.
+This whole process can also be seen from the point of view of the communities we are a part of. If one thinks of these communities as living organisms themselves, then our participation in Active Inference at the individual level contributes to the Active Inference process at the community level also.
 
 Essentially what I am getting at is that "meaning" may be how our consciousness interprets the process of Active Inference that we must perform in order to continue to exist, as individuals as well as parts of society or whatever communities or institutions or organized groups we consider ourselves to be a part of.
 
-Thus, we can say that the emergence of the 3 components of meaning that we identified earlier can all be explained from first principles, via Active Inference. This gives the concept of meaning a very solid foundation.
+Thus, we can say that the emergence of the 3 components of meaning that we identified earlier can all be explained from First Principles, via Active Inference. This gives the concept of meaning a very solid foundation.
 
 But it gets even better!
 
@@ -231,9 +231,9 @@ Getting back to our main thread after that bit of diversion, let us we revisit t
 
 ## List of Universal Tendencies <a href="#id-833x9i5lxo9d" id="id-833x9i5lxo9d"></a>
 
-As we already saw in the previous chapters, the universe appears to exhibit some well defined features, and follows some well defined laws and processes. We observed that these features, laws and processes, taken together and observed over time, give the appearance that the universe has some inherent tendencies, a set of directions it appears to "want" to go in.&#x20;
+As we already saw in the previous chapters, the universe appears to exhibit some well-defined features, and follows some well-defined laws and processes. We observed that these features, laws and processes, taken together and observed over time, give the appearance that the universe has some inherent tendencies, a set of directions it appears to "want" to go in.&#x20;
 
-These tendencies are strong, ubiquitous and ever present. All of them can be seen to exist right here, right now. Here is the list:
+These tendencies are strong, ubiquitous and omnipresent. All of them can be seen to exist right here, right now. Here is the list:
 
 ### 1) Universal Tendency #1: Coherence <a href="#wyo6e531gf99" id="wyo6e531gf99"></a>
 
@@ -313,11 +313,11 @@ Also, all of these things combine and interact with each other in complex ways, 
 
 The universe appears to have a natural tendency for creating advanced Living Entities that are capable of phenomenal experience, or consciousness, to various degrees.
 
-Simple creatures display a rudimentary level of consciousness, such as moving deliberately to avoid danger or  obtain resources. Even little creatures can be seen to nbe strategizing and executing on their plans to hunt or gather food.&#x20;
+Simple creatures display a rudimentary level of consciousness, such as moving deliberately to avoid danger or  obtain resources. Even little creatures can be seen planning and executing on their plans to hunt or gather food.
 
 Many slightly more complex creatures display a sense of awareness of themselves or of other creatures. They also observe or infer and learn each other’s behaviors.
 
-As Living Entities get more and more complex, they seem to display higher and higher levels of consciousness. So even within consciousness, there appears to be a tendency towards increasing complexity.
+As Living Entities get more and more complex, they seem to display higher and higher levels of consciousness. So, even within consciousness, there appears to be a tendency towards increasing complexity.
 
 
 
@@ -448,13 +448,13 @@ Of course, when most people talk about their desire for coherence in their lives
 
 This is of course result of the fact that we are a social species and, as a result, we typically spend most of our time thinking in terms of other people or groups of people.
 
-Still, scientists and engineers (and STEM type people in general) typically have a desire to go a little deeper. They don't just want to know the story of their lives, they want to know the story behind the story.
+Still, scientists and engineers (and STEM type people in general) typically have a desire to go a little deeper. They don't just want to know the story of their lives; they want to know the story behind the story.
 
 They don't just want to know the main characters and events, but the principles underneath them. What made them the way they are? Why did the events occur the way they did?
 
 They don't just want to play the games of life, they want to know the rules of the game, and how those rules came about and why those rules. no some other ones.
 
-They want to go deeper and trying to understand things from first principles. Their desire for coherence in life goes a lot deeper and wider.
+They want to go deeper and trying to understand things from First Principles. Their desire for coherence in life goes a lot deeper and wider.
 
 For such people, becoming aware of the 6CED Tendencies and how they affect everything around them as well as within themselves, helps them achieve this deeper level of coherence, and through that, a deeper meaning in their lives.
 
@@ -468,7 +468,7 @@ This objection is understandable, but how else would you interpret these univers
 
 Also, note that all of these universal tendencies can be observed right here, right now. So we have not had to postulate some “end state” of the universe, followed by some sort of a revelation of the greater purpose by The Great Unknown. Or some other form of revelation.
 
-The 6CED Tendencies provide a far more firm ground, backed by abundant evidence. It is these tendencies that have created everything around us and brought us to where we are and will carry us forward as far as we can predict.
+The 6CED Tendencies provide a far firmer ground, backed by abundant evidence. It is these tendencies that have created everything around us and brought us to where we are and will carry us forward as far as we can predict.
 
 As per our Mindful Bounded Rationality methodology, in the absence of the knowledge of the ultimate truth, we must "satisfice" by choosing the best alternative among the available ones, while remaining open to further discoveries.
 
@@ -516,7 +516,7 @@ So we now have the complete picture, at least in theory.
 
 Unfortunately, theories often have problems when they have to survive in the real world.
 
-We can't just leave things at the theorerical level. We have to see if any problems arise when we try to convert theory into practice.
+We can't just leave things at the theoretical level. We have to see if any problems arise when we try to convert theory into practice.
 
 So let us do that.
 
@@ -526,7 +526,7 @@ So let us do that.
 
 We saw earlier in our discussion of Active Inference, that our internal generative model is generating all kinds of counterfactuals for us to seek evidence of.&#x20;
 
-But note that not all of these may always be aligned with our 6CED Tendencies, In fact, very often they will not be. Some may be downright contradictory to the tendencies.
+But note that not all of these may always be aligned with our 6CED Tendencies. In fact, very often they will not be. Some may be downright contradictory to the tendencies.
 
 In other words, Meaning-Seeking Entities may be getting pulled in various directions by various desires emerging out of their Consciousness. (The proverbial “angel and devil sitting on our shoulders”.)
 
@@ -534,7 +534,7 @@ So how do we ensure our continued alignment with the 6CED Tendencies?
 
 As we had already seen in the chapter on Life, the way to become better at executing the process of life is to add mindfulness to the picture. And doing so also helps with this "alignment problem".
 
-Mindfulness not only increases our sensitivity and attention to our perceptions, it also improves our ability to generate counterfactuals (i.e.l desires) deliberately and realistically, and act on them as effectively as we can.
+Mindfulness not only increases our sensitivity and attention to our perceptions, it also improves our ability to generate counterfactuals (i.e. desires) deliberately and realistically, and act on them as effectively as we can.
 
 Thus, adding mindfulness to the picture ensures that we always keep the goal of aligning ourselves with the 6CED Tendencies in mind when we perform our Active Inference in life. If we do that, we not only become better at the process of life, but our alignment with the 6CED Tendencies improves, and our lives become more meaningful as a result.
 
@@ -542,7 +542,7 @@ Thus, adding mindfulness to the picture ensures that we always keep the goal of 
 
 Another complication that arises is due to ever-present nebulosity and unknowns which, as we have noted earlier, are also inherent features of the universe.
 
-The existence of these factors implies that we can never be too confident or rigid about our theories, even when they are derived rigorously from first principles. We need to remain somewhat flexible and allow for a process of constant learning and refinement.
+The existence of these factors implies that we can never be too confident or rigid about our theories, even when they are derived rigorously from First Principles. We need to remain somewhat flexible and allow for a process of constant learning and refinement.
 
 The good thing is, as a result of us being followers of the Mindful Bounded Rationality methodology, constant learning and refinement is our middle name! Our methodology requires us to always behave accordingly.
 
@@ -564,13 +564,13 @@ So, with the addition of those considerations, we finally have a resolution of a
 
 Notice that this may sound somewhat similar to the advice we typically hear from various religious doctrines or philosophies.
 
-But what is different, and significant here is that now we have a rigorous definition that we have derived from first principles, without requiring any leaps of faith or appeals to authority or opinion.
+But what is different, and significant here is that now we have a rigorous definition that we have derived from First Principles, without requiring any leaps of faith or appeals to authority or opinion.
 
 In addition, we have practical advice on how to bring this definition into practice.
 
 In other words, not only do we have the “what”, but the “why”, as well as "how" of finding meaning in our lives.
 
-As a result we can have a lot more confidence in our answer and can defend it using only evidence and reason if questioned. Moreover, we can think analytically about meaning, come up with potential objections or improvements, and keep evolving our theory and practices around meaning.
+As a result, we can have a lot more confidence in our answer and can defend it using only evidence and reason if questioned. Moreover, we can think analytically about meaning, come up with potential objections or improvements, and keep evolving our theory and practices around meaning.
 
 Most importantly, we have a way to implement these ideas in our lives, and constantly monitor how we are doing, and improving accordingly.
 
