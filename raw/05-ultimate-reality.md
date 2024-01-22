@@ -65,7 +65,7 @@ Among the deepest known unknowns of reality are questions such as:
 * What exists? In particular, what exists "out there" and "in here"? (And what does "out there" and "in here" even mean?)
 * Why does it (or anything) exist at all? Where did it come from? (And if it did come from somewhere, where did that come from?)
 * What does “existence” even mean?
-* Does existence have a beginning an an ending? What came before? What happens in the end?
+* Does existence have a beginning and an ending? What came before? What happens in the end?
 * We call everything we can perceive using our senses, such as vision or sound or touch etc. as "physical". But does “physical” mean?
 * How does this physical reality differ from the ultimate reality? How does it come about?
 * What is "experience"? What is consciousness? How does that emerge?

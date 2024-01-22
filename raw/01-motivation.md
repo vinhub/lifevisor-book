@@ -70,7 +70,7 @@ But let me start with some general observations about this supposedly innocuous 
 
 
 
-It is commonly believed that you have one big bad crisis sometime in your 40’s, which makes you question everything you have done until then and whether thats' all there is.
+It is commonly believed that you have one big bad crisis sometime in your 40’s, which makes you question everything you have done until then and whether that's all there is.
 
 And then, depending upon your circumstances, you either get a new car or a new career or a new carefree attitude towards life. Or maybe just a car-free lifestyle. Some people go totally crazy and buy a whole vineyard or something. And others just get seriously drunk.
 
@@ -96,7 +96,7 @@ I have always been a math / science nerd who liked to tinker with stuff, so I ha
 
 In earlier bouts, I had spent enough time driving through wine country to know that owning a vineyard was back (and bank) breaking work.
 
-I had flipped through enough self help books in bookstores (remember those?) to learn that the rational way of dealing with things like midlife crises was to clarify one's priorities in life by asking the hard question: What would I do if I had only 6 months to live? Whatever bubbled to the top of that list would be the things to focus on for your second innings.
+I had flipped through enough self-help books in bookstores (remember those?) to learn that the rational way of dealing with things like midlife crises was to clarify one's priorities in life by asking the hard question: What would I do if I had only 6 months to live? Whatever bubbled to the top of that list would be the things to focus on for your second innings.
 
 But once I had gotten over the dread and anxiety of having to ponder my own mortality, I had quickly realized that six months was such a short time that the answer turned out to actually be rather easy and, frankly, even banal.
 
@@ -140,7 +140,7 @@ Now, imagine if this binge hadn't lasted for just a weekend, but for decades. Ma
 
 And yet, you are totally unable to thread them all together into a meaningful whole.
 
-Not being able to tell any sort of a comprehensive, coherent and in depth story about such an epic show wouldn’t just make you feel awkward, it would be downright scary. It would make you question your own sanity. Like you had suffered from a serious brain disorder or something. For decades!
+Not being able to tell any sort of a comprehensive, coherent and in-depth story about such an epic show wouldn’t just make you feel awkward, it would be downright scary. It would make you question your own sanity. Like you had suffered from a serious brain disorder or something. For decades!
 
 Now imagine that this decades-long epic show was your actual life!
 
@@ -174,7 +174,7 @@ In fact, I considered myself really privileged to have been given this opportuni
 
 ## Meaning and Purpose <a href="#jzbc6mlsgvu1" id="jzbc6mlsgvu1"></a>
 
-So it was time for me to get to work.
+So, it was time for me to get to work.
 
 How do I make sense of my life all the way from the ground up? Did my life matter in the larger scheme of things? What are the underlying principles, characters, motivations and rules behind Life, the Universe and Everything? Does my life have a purpose? Does the universe have a purpose? And where is it going?
 
@@ -190,7 +190,7 @@ But in my case, while that would have been the easy, and maybe even a great way 
 
 Most of the religious or philosophical or poetic ideas were based on some pretty big assumptions. And they hadn't followed any sort of rigorous process to get to their conclusions. Most of them appeared to rely on just intuitions or emotions.
 
-I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeker. As a scientist and engineer, I have been trained for it and I practice it every day. So I needed something far more solid than what was already available.
+I am very much a scientist and engineer at heart. I have always been a highly analytical truth-seeker. As a scientist and engineer, I have been trained for it and I practice it every day. So, I needed something far more solid than what was already available.
 
 I wanted to find honest, defensible answers to those questions, based on rigorous, stepwise analysis, all the way from the ground up. No shortcuts, no leaps of faith, no hand waving, no opinions, no popularity contests.
 
@@ -210,7 +210,7 @@ What surprised me was that pretty much everything I wanted already existed. Some
 
 As I got deeper into it, I kept discovering even deeper insights. Things that previously looked fuzzy started to become clearer. New avenues kept opening up, which led to further clarity as well as further richness of understanding. I even discovered that I knew things I didn’t know I knew!
 
-Towards the end of this exercise I found myself becoming more and more peaceful. Like a storm inside my head had started subsiding, the sun had started to peek out of the clouds, and the birds had started chirping again.
+Towards the end of this exercise, I found myself becoming more and more peaceful. Like a storm inside my head had started subsiding, the sun had started to peek out of the clouds, and the birds had started chirping again.
 
 Not only that, but there was an unexpected bonus.
 

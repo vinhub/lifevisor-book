@@ -92,7 +92,7 @@ There is a persistent dogma, even among scientists and engineers themselves, tha
 
 As a result, embarking on building such an endeavor might come across as either incredibly naive or unbelievably arrogant.
 
-Not without good reasons either. Recent history is full of “tech-bros” getting carried away with too much hubris and arrogance, getting into areas they had no depth or breadth in. So it would be perfectly reasonable to ask: Am I acting like one of them?
+Not without good reasons either. Recent history is full of “tech-bros” getting carried away with too much hubris and arrogance, getting into areas they had no depth or breadth in. So, it would be perfectly reasonable to ask: Am I acting like one of them?
 
 I am painfully aware of such objections. I accept the fact that this project is rather audacious and your skepticism may be justified. I am a skeptic too, just like most scientists and engineers are, so I can totally empathize with such suspicions.
 
@@ -100,7 +100,7 @@ So let me try to address some of these suspicions and objections in advance.
 
 ## The Audacity of Finding Hope (and Meaning and Purpose) Using Evidence and Reason Alone <a href="#sw2e5p5xnb2o" id="sw2e5p5xnb2o"></a>
 
-No kidding! Certainly this endeavor is rather audacious, if I may say so myself. So allow me to offer the following arguments in my defense:
+No kidding! Certainly, this endeavor is rather audacious, if I may say so myself. So, allow me to offer the following arguments in my defense:
 
 ### A) We Already Use Science and Engineering to Answer Life’s Other Important Questions <a href="#id-3vvvsyekrttz" id="id-3vvvsyekrttz"></a>
 
@@ -136,7 +136,7 @@ As you can see, all of these modern methods are primarily based on using evidenc
 
 Wouldn’t the next logical step be to use the same methodology to answer life’s deepest questions also? In fact, don’t some of the questions from the list above partly rest on answering the deeper questions?
 
-What’s the hold up then, besides some dogma that somehow, these deeper questions are beyond the reach of reason?
+What’s the holdup then, besides some dogma that somehow, these deeper questions are beyond the reach of reason?
 
 Even if you could make only partial progress using this approach, wouldn’t that be preferable to relying on something for which there seems to be no basis at all?
 
@@ -162,7 +162,7 @@ The cost of not doing so can be high, which brings me to the next point.
 
 We supposedly live in the “Postmodern Era”, which arose as a reaction to the excesses of the “Modern Era” that preceded it.&#x20;
 
-The Modern era was based on grand, centralized, all encompassing theories and ideologies, many of which were based on science and rationality, but taken a bit too far. Unfortunately, during the Modern era, the pendulum swung too far, and as a result, it was only natural for it to reverse course and swing too far in the opposite direction.
+The Modern era was based on grand, centralized, all-encompassing theories and ideologies, many of which were based on science and rationality, but taken a bit too far. Unfortunately, during the Modern era, the pendulum swung too far, and as a result, it was only natural for it to reverse course and swing too far in the opposite direction.
 
 This is what gave rise to the Postmodern era, which rejected everything that the Modern era stood for. Grand, centralized narratives of Modernism went out the door and Postmodernism set us free to find our own way.
 
@@ -182,9 +182,9 @@ This brings us to probably the most important question of all.
 
 ### D) If Not Evidence and Reason, Then What? <a href="#id-31kklmb70at6" id="id-31kklmb70at6"></a>
 
-If some real phenomena can not be explained by evidence and reason, or rationality, then what would you suggest we use?
+If some real phenomena cannot be explained by evidence and reason, or rationality, then what would you suggest we use?
 
-If you believe that some phenomena is forever beyond the reach of reason, but you still believe it to be real, then, knowingly or unknowingly, you are admitting that you believe in some magical or supernatural power.
+If you believe that some phenomena are forever beyond the reach of reason, but you still believe it to be real, then, knowingly or unknowingly, you are admitting that you believe in some magical or supernatural power.
 
 This is because there is no other way. We have only two choices for creating explanations or solutions: evidence and reason, or faith.
 
@@ -198,7 +198,7 @@ Isn’t it a lot better to base our thinking on whatever is known today than mak
 
 Moreover, what if there is a way to reach our goal of finding meaning, purpose and hope in our lives while still remaining within the bounds of reason? Then we have no reason to take leaps of faith, right?
 
-So we will that here and see where it takes us.
+So, we will do that here and see where it takes us.
 
 Ok, if even that argument didn't convince you, maybe I can try some other arguments that are commonly used when undertaking other audacious projects.
 
@@ -270,7 +270,7 @@ This reminds me of the motto of Blue Origin, Amazon founder Jeff Bezos’ space 
 
 So let us put on a moonshot engineer’s hat and take a step by step, but ferocious look at meaning, purpose and hope.
 
-Needless to say that this triumvirate of words get thrown around a lot, but if we are going to analyze them rigorously, we need to establish what we are talking about from the very basics.
+Needless to say, this triumvirate of words get thrown around a lot, but if we are going to analyze them rigorously, we need to establish what we are talking about from the very basics.
 
 Words do not exist by themselves, they need a foundation and context, particularly when they are such important words and you are talking about looking at them from a new perspective.
 
@@ -304,7 +304,7 @@ This is also where we will address the most important objection to what we are u
 
 The next step is defining our model of ultimate reality, which is basically all that exists.
 
-Needless to say that the knowledge of ultimate reality itself must be acquired using the methodology mentioned above.
+Needless to say, the knowledge of ultimate reality itself must be acquired using the methodology mentioned above.
 
 Of course, we won't go into all aspects of ultimate reality - that will take volumes. We will look at only the parts that we need for our framework.
 

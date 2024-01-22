@@ -43,7 +43,7 @@ Photo by Alexas\_Fotos on Unsplash](.gitbook/assets/0.jpeg)
 
 “Sure, but that wasn’t exactly what I was getting at. Isn’t ‘greater purpose’ supposed to come from some sort of a god or supernatural being? All your answers so far were simply based on observation and analysis. Surely that can’t tell us everything about purpose?”
 
-“Well, do we really need anything more to find their greater purpose? What we already know about the bee and the ecosystem is sufficient to figure out what its smaller as well as greater purpose is. And isn't that quite meaningful already? What can be more meaningful than ensuring the long term survival of not just itself and its hive, but also the entire ecosystem?”
+“Well, do we really need anything more to find their greater purpose? What we already know about the bee and the ecosystem is sufficient to figure out what its smaller as well as greater purpose is. And isn't that quite meaningful already? What can be more meaningful than ensuring the long-term survival of not just itself and its hive, but also the entire ecosystem?”
 
 “Hmmm.. Interesting. And I’m glad you brought up ‘meaning’. I was just about to ask you about that. What is the meaning of a bee’s life? What makes its life meaningful?”
 
@@ -75,7 +75,7 @@ Photo by Alexas\_Fotos on Unsplash](.gitbook/assets/0.jpeg)
 
 “Hmm.. Can you elaborate?”
 
-“Well, they do build some amazingly complex and resilient hives and they keep fixing them. Plus they organize themselves into highly functional teams and have a strong, collaborative work ethic. This is exactly what engineers do. At least when they aren't slacking like we are right now!”
+“Well, they do build some amazingly complex and resilient hives and they keep fixing them. Plus, they organize themselves into highly functional teams and have a strong, collaborative work ethic. This is exactly what engineers do. At least when they aren't slacking like we are right now!”
 
 “Well, we are having seriously important philosophical conversations, aren't we? Engineers do that too!”
 
@@ -83,7 +83,7 @@ Photo by Alexas\_Fotos on Unsplash](.gitbook/assets/0.jpeg)
 
 “Sure. People are certainly a lot more complicated and demanding as you say. So, yes some of what we said here applies to us, but we need to go a lot deeper and broader and be more thorough with our analysis."
 
-"Of course we do! So what about that?"
+"Of course we do! So, what about that?"
 
 "Umm... You’ll have to read my book to get into that! It will take a lot longer than 5 minutes.”
 
