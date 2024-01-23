@@ -18,7 +18,7 @@ layout:
 
 ***
 
-<figure><img src=".gitbook/assets/I just need to.png" alt="" width="563"><figcaption><p>I really needed to write this book!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/I just need to.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

@@ -398,7 +398,7 @@ The following diagram gives a visual representation of what we mean by the "6CED
 
 
 
-<figure><img src=".gitbook/assets/Meaning-Seeking Entities.jpg" alt="" width="563"><figcaption><p>Meaning-Seeking Entities (MSE)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Meaning-Seeking Entities.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -500,7 +500,7 @@ The following picture depicts what we have described so far.
 
 
 
-<figure><img src=".gitbook/assets/Meaning Diagram.jpg" alt="" width="563"><figcaption><p>Defining "Meaning in Life" Using the MSE Framework</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Meaning Diagram.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

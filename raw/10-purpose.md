@@ -209,7 +209,7 @@ Finally, to recap everything we have said in this chapter, let us look at a diag
 
 
 
-<figure><img src=".gitbook/assets/Purpose Diagram.jpg" alt="" width="563"><figcaption><p>Defining Our "Greater Purpose" Using the MSE Framework</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Purpose Diagram.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ### &#x20;<a href="#idq894vy53cs" id="idq894vy53cs"></a>
 

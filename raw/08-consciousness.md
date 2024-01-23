@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/sleepy cat.jpg" alt="" width="450"><figcaption><p>Not quite what I have in mind here</p></figcaption></figure>
+<figure><img src=".gitbook/assets/sleepy cat.jpg" alt="" width="450"><figcaption><p>Not quite what I have in mind here, but it looked cute</p></figcaption></figure>
 
 
 

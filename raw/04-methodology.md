@@ -486,7 +486,7 @@ First Principles Thinking basically means “don’t take someone else’s word 
 
 The following diagram depicts this process in short:
 
-<figure><img src=".gitbook/assets/First Principles Thinking.jpg" alt="" width="563"><figcaption><p>First Principles Thinking</p></figcaption></figure>
+<figure><img src=".gitbook/assets/First Principles Thinking.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Typically, when faced with a problem or the need to build something, we tend to follow conventional wisdom. But if we do that, and conventional wisdom is either wrong or has become outdated, then we end up repeating its mistakes.
 
@@ -532,7 +532,7 @@ Let us look at a diagram to understand this process a bit more formally.&#x20;
 
 
 
-<figure><img src=".gitbook/assets/Baysian Inference.jpg" alt="" width="563"><figcaption><p>The Bayesian Inferencing Process</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Baysian Inference.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -557,7 +557,7 @@ A lot of our learning is basically a result of repeated application of this proc
 
 
 
-<figure><img src=".gitbook/assets/Scientific Method.jpg" alt="" width="563"><figcaption><p>The Scientific Method</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Scientific Method.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

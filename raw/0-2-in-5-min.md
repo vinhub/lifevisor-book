@@ -16,8 +16,8 @@ layout:
 
 
 
-![We can learn a lot about meaning, purpose and hope in life from honey bees .
-Photo by Alexas\_Fotos on Unsplash](.gitbook/assets/0.jpeg)
+![We can learn a lot about meaning, purpose and hope in life from honey bees.
+(Photo by Alexas\_Fotos on Unsplash)](.gitbook/assets/0.jpeg)
 
 
 

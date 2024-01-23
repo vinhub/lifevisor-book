@@ -34,7 +34,7 @@ Since I am an engineer, I like to draw diagrams / flowcharts to help me think an
 
 
 
-<figure><img src=".gitbook/assets/MSE Framework Overview.jpg" alt="" width="563"><figcaption><p>Meaning-Seeking Entities (MSE) Framework - Overview</p></figcaption></figure>
+<figure><img src=".gitbook/assets/MSE Framework Overview.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

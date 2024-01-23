@@ -255,7 +255,7 @@ I include such diagrams throughout the book. They are a nice way to quickly reme
 
 
 
-<figure><img src=".gitbook/assets/Premise.jpg" alt="" width="563"><figcaption><p>Why oh why did I have to take the less traveled road?</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Premise.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

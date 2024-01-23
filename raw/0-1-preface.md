@@ -14,7 +14,7 @@ layout:
 
 # Preface
 
-<figure><img src=".gitbook/assets/morpheus.jpg" alt="" width="563"><figcaption><p>Tumbling Down a Different Rabbit Hole</p></figcaption></figure>
+<figure><img src=".gitbook/assets/morpheus.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 Is it possible to answer life's hard questions of meaning and purpose by following evidence and reason alone? In other words, can this be done without taking any leaps of faith or relying on your feelings?
 

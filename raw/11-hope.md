@@ -136,7 +136,7 @@ As usual, let us elucidate this with a diagram that explains all of the above th
 
 
 
-<figure><img src=".gitbook/assets/Hope Diagram.jpg" alt="" width="563"><figcaption><p>Defining Hope Using the MSE Framework</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Hope Diagram.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

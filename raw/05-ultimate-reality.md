@@ -18,7 +18,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/unknowns.png" alt="" width="375"><figcaption><p>Ultimate Reality: Known Unknowns and Unknown Unknowns</p></figcaption></figure>
+<figure><img src=".gitbook/assets/unknowns.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -138,7 +138,7 @@ With that lengthy introduction, let us finally get down to the business of looki
 
 
 
-<figure><img src=".gitbook/assets/Ultimate Reality.jpg" alt="" width="563"><figcaption><p>The MSE Framework Model of Ultimate Reality</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Ultimate Reality.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

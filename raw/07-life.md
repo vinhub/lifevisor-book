@@ -156,7 +156,7 @@ It shows a Living Entity (big box on the right) interacting with its environment
 
 
 
-<figure><img src=".gitbook/assets/Free Energy Principle.png" alt="" width="563"><figcaption><p>The Free Energy Principle (Simplified)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Free Energy Principle.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 

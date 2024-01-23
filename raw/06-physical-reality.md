@@ -58,7 +58,7 @@ Carroll has put together a single equation that captures everything we know abou
 
 
 
-<figure><img src=".gitbook/assets/Ultimate Equation of Physics.png" alt="" width="563"><figcaption><p>The Ultimate Equation of "Everyday" Physics (Sean Carroll)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Ultimate Equation of Physics.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
