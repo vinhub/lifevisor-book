@@ -90,9 +90,17 @@ And, as we have seen in this book, this is not just a poetic or religious though
 
 What is truly incredible is that even as hard-headed followers of evidence and reason, we have been successful in capturing at least some aspects of this field beyond all fields. We didn't have to resort to taking leaps of faith to do so. And we are humble enough to accept that we may not have captured all of it, but we do have some reliable methods to keep capturing more.
 
-And, by saying that, I am not trying to suggest that the approach of evidence and reason is superior to any other. I am only trying to fight the pervasive dogma that things like meaning, purpose and hope can only be captured via poetry or faith.
+And, by saying that, I am not trying to suggest that the approach of evidence and reason is the only way to reach the truth. There may be alternative ways, and some of them may work for you.&#x20;
 
-The less traveled path of evidence and reason has been denied access to the big table of meaning, purpose and hope that faith and poetry have occupied for a long time. While this might have been ok in the past because we didn't really know a lot of the things we know today, I believe the now time has come for this approach to get a seat at the same table.
+What I am trying to say is that if you are like me, and if those other approaches aren't working for you, then that does not mean you are out of luck. There is a way for people like us, too.&#x20;
+
+I am trying to fight the pervasive dogma that things like meaning, purpose and hope can only be captured via poetry or faith.
+
+The less traveled path of evidence and reason has been denied access to the big table of meaning, purpose and hope that faith and poetry have occupied for a long time. While this might have been fine in the past because we didn't really know a lot of the things we know today, I believe the time has now come for evidence and reason to also get a seat at the same table.
+
+And again, this is not to say that things like poetry, art, literature, music etc. are meaningless or less important. I myself am often moved by them and I consider them to be an indispensable part of living a rich life. In fact, as I stated in the chapter on Consciousness, trying to enrich one's conscious experience is very much a part of the 6CED Tendencies.
+
+But what is unreasonable is to then take a leap of faith and believe that those experiences are somehow closer to the ultimate truth.  There is no basis for saying that.
 
 
 
@@ -159,6 +167,8 @@ I am going to close by quoting from the Upanishads, which are some of the oldest
 > _मृत्योर्मा अमृतं गमय ।_
 >
 > _ॐ शान्तिः शान्तिः शान्तिः ॥”_
+>
+>
 >
 > _“Lead me from ignorance to the truth,_
 >
