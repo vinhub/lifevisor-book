@@ -8,7 +8,8 @@ cp title.txt _working
 cd _working
 
 # convert images specified as <figure> tags to normal markdown images
-perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcaption>(?:<p>)?([^<]*)(?:<\/p>)?<\/figcaption><\/figure>/!\[\2\](\<\1\>)/mg' *.md
+perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcaption><p>([^<]*)<\/p><\/figcaption><\/figure>/!\[\2\](\<\1\>)/mg' *.md
+perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcaption>([^<]*)<\/figcaption><\/figure>/!\[\\ \](\<\1\>)/mg' *.md
 
 # remove file names from links because they will all merge into one file
 perl -i -0pe 's/\[([^\[]+)\]\(([^\.]*.md)#[\\_]*(.*)\)/\[\1\]\(#\3\)/mg' *.md
@@ -41,6 +42,7 @@ pandoc -o book.pdf title.txt *.md \
   --variable=lastUpdated:$lastUpdated \
   --variable=creationDate:$creationDate \
   --include-before-body ../pubtools/cover.tex \
+  --include-in-header ../pubtools/header.tex \
   --listings
 
 cd ..

@@ -56,6 +56,11 @@ p.author {
     text-align: center;
 }
 
+figcaption {
+    font-size:smaller;
+    text-align: center;
+}
+
 table {
     border-collapse: collapse;
     font-size: 100%;
