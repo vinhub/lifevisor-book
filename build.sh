@@ -8,16 +8,28 @@ cp title.txt _working
 cd _working
 
 # convert images specified as <figure> tags to normal markdown images
-perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcaption><p>([^<]*)<\/p><\/figcaption><\/figure>/!\[\2\](\<\1\>)/mg' *.md
+perl -i -0pe 's/<figure\b[^>]*><img\b(?:[^>]*?\s)?src\=\"([^\"]*)\"[^<]*<figcaption>(?:<p>)?([^<]*)(?:<\/p>)?<\/figcaption><\/figure>/!\[\2\](\<\1\>)/mg' *.md
 
-# remove file names from links because they will all merge into on file
+# remove file names from links because they will all merge into one file
 perl -i -0pe 's/\[([^\[]+)\]\(([^\.]*.md)#[\\_]*(.*)\)/\[\1\]\(#\3\)/mg' *.md
 
 # Use git to get creation and modification date
 lastUpdated=$( git log -1 --format="%ci" -- $fullpath | cut -f 1 -d ' ' )
 creationDate=$( git log --format="%ai" -- $fullpath | tail -1 | cut -f 1 -d ' ' )
 
-# issues: links not working
+# Convert Markdown to ePub with custom styling
+pandoc -o book.epub title.txt *.md \
+  --toc --toc-depth=1 \
+  -V geometry:margin=1in \
+  --top-level-division=chapter \
+  --variable=lastUpdated:$lastUpdated \
+  --variable=creationDate:$creationDate \
+  --epub-cover-image=.GitBook/assets/cover.png \
+  --css ../pubtools/epub.css
+
+# Hack: Complications due to umlaut in link. To make the link for Gödels Incompleteness Theorem work for ePub, we had to change its anchor to 
+# deep-dive-godels-incompleteness-theorem. That works for ePub, but not for PDF. For PDF, we need to replace the "o" with "ö".
+perl -i -0pe 's/deep-dive-godels-incompleteness-theorem/deep-dive-gödels-incompleteness-theorem/mg' *.md
 
 # Convert Markdown to PDF with custom styling
 pandoc -o book.pdf title.txt *.md \
@@ -30,16 +42,6 @@ pandoc -o book.pdf title.txt *.md \
   --variable=creationDate:$creationDate \
   --include-before-body ../pubtools/cover.tex \
   --listings
-
-# Convert Markdown to ePub with custom styling
-pandoc -o book.epub title.txt *.md \
-  --toc --toc-depth=1 \
-  -V geometry:margin=1in \
-  --top-level-division=chapter \
-  --variable=lastUpdated:$lastUpdated \
-  --variable=creationDate:$creationDate \
-  --epub-cover-image=.GitBook/assets/cover.png \
-  --css ../pubtools/epub.css
 
 cd ..
 mkdir -p pub
