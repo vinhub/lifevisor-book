@@ -309,9 +309,9 @@ So it looks like we have discovered another natural tendency that the universe s
 
 
 
-### <mark style="color:orange;">**Universal Tendency #3: Continuity (of Existence or Identity)**</mark>
+#### _**Universal Tendency #3: Continuity (of Existence or Identity)**_
 
-<mark style="color:orange;">**The universe appears to have a natural tendency to create complex entities and processes that try to continue to exist or maintain their identity over time.**</mark>
+_**The universe appears to have a natural tendency to create complex entities and processes that try to continue to exist or maintain their identity over time.**_
 
 
 
@@ -387,11 +387,11 @@ With that, as you might have guessed, we can add another item to our list of Uni
 
 
 
-### <mark style="color:orange;">**Universal Tendency #4: Evolution**</mark>
+#### _**Universal Tendency #4: Evolution**_
 
-<mark style="color:orange;">**The universe appears to have a natural tendency to create complex entities and processes that evolve towards more complex and sustainable forms through a process of natural selection.**</mark>
+_**The universe appears to have a natural tendency to create complex entities and processes that evolve towards more complex and sustainable forms through a process of natural selection.**_
 
-### &#x20;<a href="#id-598mcfns8dry" id="id-598mcfns8dry"></a>
+
 
 ## The Need for a New Law of Nature <a href="#id-598mcfns8dry" id="id-598mcfns8dry"></a>
 
@@ -433,17 +433,17 @@ With that we can now add these two to our list of universal tendencies.
 
 
 
-### <mark style="color:orange;">**Universal Tendency #5: Curiosity**</mark>
+#### _**Universal Tendency #5: Curiosity**_
 
-<mark style="color:orange;">**The universe appears to have a natural tendency for creating entities and processes that exhibit curiosity.**</mark>
+_**The universe appears to have a natural tendency for creating entities and processes that exhibit curiosity.**_
 
 
 
-### <mark style="color:orange;">**Universal Tendency #6: Creativity**</mark>
+#### _**Universal Tendency #6: Creativity**_
 
-<mark style="color:orange;">**The universe appears to have a natural tendency for creating entities and processes that exhibit creativity.**</mark>
+_**The universe appears to have a natural tendency for creating entities and processes that exhibit creativity.**_
 
-## &#x20;<a href="#id-3nqvumri8h82" id="id-3nqvumri8h82"></a>
+
 
 ## Diversity <a href="#id-3nqvumri8h82" id="id-3nqvumri8h82"></a>
 
@@ -473,11 +473,11 @@ As a result, we can add one more item to our list: Diversity.
 
 
 
-### <mark style="color:orange;">**Universal Tendency #7: Diversity**</mark>
+#### _**Universal Tendency #7: Diversity**_
 
-<mark style="color:orange;">**The universe appears to have a natural tendency for creating a large amount of diversity of various types.**</mark>
+_**The universe appears to have a natural tendency for creating a large amount of diversity of various types.**_
 
-### &#x20;<a href="#id-9kmi94xlzegz" id="id-9kmi94xlzegz"></a>
+
 
 ## Mindfulness <a href="#id-9kmi94xlzegz" id="id-9kmi94xlzegz"></a>
 

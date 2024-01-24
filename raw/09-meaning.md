@@ -355,17 +355,17 @@ Don’t worry, we are not going to add “coincidence” to our (seemingly ever-
 
 
 
-### <mark style="color:orange;">**The “6CED” Tendencies of the Universe:**</mark>
+#### _**The “6CED” Tendencies of the Universe:**_
 
-<mark style="color:orange;">Based on an overwhelming amount of evidence and the rigorous application of logic, human beings have discovered certain patterns in the universe, in the form of certain features, laws and processes.</mark>
+_**Based on an overwhelming amount of evidence and the rigorous application of logic, human beings have discovered certain patterns in the universe, in the form of certain features, laws and processes.**_
 
-<mark style="color:orange;">Based on the fact that some of these patterns are ubiquitous and ever-present, and we can find deeper explanations for them in physical laws, we can conclude that the universe appears to exhibit certain inherent tendencies.</mark>&#x20;
+_**Based on the fact that some of these patterns are ubiquitous and ever-present, and we can find deeper explanations for them in physical laws, we can conclude that the universe appears to exhibit certain inherent tendencies.**_&#x20;
 
-<mark style="color:orange;">We have strong evidence that they have existed for a very long time, and, as far as we can predict, will continue to exist for a very long time in the future. But far more importantly for us, they can be seen to exist right here, right now, all the time and everywhere.</mark>
+_**We have strong evidence that they have existed for a very long time, and, as far as we can predict, will continue to exist for a very long time in the future. But far more importantly for us, they can be seen to exist right here, right now, all the time and everywhere.**_
 
-<mark style="color:orange;">The Meaning-Seeking Entities (MSE) Framework identifies 8 such tendencies: Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>
+_**The Meaning-Seeking Entities (MSE) Framework identifies 8 such tendencies: Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.**_
 
-<mark style="color:orange;">Based on the highly curious fact that 6 of them start with the letter C, one with E and one with D, we are solemnly calling them collectively as the “6CED” (pronounced “Succeed”) Tendencies.</mark>
+_**Based on the highly curious fact that 6 of them start with the letter C, one with E and one with D, we are solemnly calling them collectively as the “6CED” (pronounced “Succeed”) Tendencies.**_
 
 
 
@@ -379,12 +379,12 @@ Finally, we get to talk about the concept that gives meaning to the “Meaning-S
 
 
 
-### <mark style="color:orange;">**Meaning-Seeking Entities are complex Living Entities that are:**</mark>
+#### _**Meaning-Seeking Entities are complex Living Entities that are:**_
 
-* <mark style="color:orange;">A result of all the "6CED" Universal Tendencies mentioned earlier,</mark>
-* <mark style="color:orange;">Exhibit the tendencies themselves,</mark>
-* <mark style="color:orange;">Have the desire for Meaning, Purpose, Hope in their life, and</mark>
-* <mark style="color:orange;">Can experience them, too.</mark>
+* _**A result of all the "6CED" Universal Tendencies mentioned earlier,**_
+* _**Exhibit the tendencies themselves,**_
+* _**Have the desire for Meaning, Purpose, Hope in their life, and**_
+* _**Can experience them, too.**_
 
 
 
@@ -550,15 +550,15 @@ So, with the addition of those considerations, we finally have a resolution of a
 
 
 
-### <mark style="color:orange;">**Definition of “Meaning in Life” based on the MSE Framework:**</mark>
+#### _**Definition of “Meaning in Life” based on the MSE Framework:**_
 
-<mark style="color:orange;">Meaning-Seeking Entities, as defined in the MSE Framework, can make their lives meaningful by mindfully living in alignment with the universe’s “6CED” Tendencies of Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>&#x20;
+_**Meaning-Seeking Entities, as defined in the MSE Framework, can make their lives meaningful by mindfully living in alignment with the universe’s “6CED” Tendencies of Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.**_&#x20;
 
-<mark style="color:orange;">Given that it was these exact tendencies that gave rise to the Meaning-Seeking Entities in the first place, they already, inherently embody those tendencies. Thus, all they have to do is to become aware of these tendencies they already have and allow them to be expressed through them.</mark>
+_**Given that it was these exact tendencies that gave rise to the Meaning-Seeking Entities in the first place, they already, inherently embody those tendencies. Thus, all they have to do is to become aware of these tendencies they already have and allow them to be expressed through them.**_
 
-<mark style="color:orange;">In addition, given the existence of nebulosity and unknowns in our reality, they need to avoid being dogmatic about this and always be humble, flexible, and willing to learn based on new evidence.</mark>
+_**In addition, given the existence of nebulosity and unknowns in our reality, they need to avoid being dogmatic about this and always be humble, flexible, and willing to learn based on new evidence.**_
 
-<mark style="color:orange;">Adherence to these principles provides all the ingredients to find meaning in their lives, namely, having coherence or comprehensibility, a sense of purpose, and a sense of existential mattering or significance in their lives.</mark>
+_**Adherence to these principles provides all the ingredients to find meaning in their lives, namely, having coherence or comprehensibility, a sense of purpose, and a sense of existential mattering or significance in their lives.**_
 
 
 

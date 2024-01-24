@@ -110,15 +110,15 @@ But for particularly busy executives, here is an even shorter version:
 
 
 
-### <mark style="color:blue;">**Tweet-length Summary of the MSE Framework:**</mark>
+#### _**Tweet-length Summary of the MSE Framework:**_
 
-<mark style="color:blue;">Based on an overwhelming amount evidence and rigorous analysis, it has been shown that the universe exhibits the following ubiquitous and omnipresent tendencies that work in the opposite direction to the law of Entropy. These tendencies are: Coherence, Complexity, Continuation of existence or identity, Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>
+_**Based on an overwhelming amount evidence and rigorous analysis, it has been shown that the universe exhibits the following ubiquitous and omnipresent tendencies that work in the opposite direction to the law of Entropy. These tendencies are: Coherence, Complexity, Continuation of existence or identity, Curiosity, Creativity, Consciousness, Evolution and Diversity.**_
 
-<mark style="color:blue;">We call them the "6CED" Tendencies.</mark>
+_**We call them the "6CED" Tendencies.**_
 
-<mark style="color:blue;">The Meaning-Seeking Entities (MSE) Framework, built from First Principles using the methodology of Mindful Bounded Rationality (MBR), shows that realizing and mindfully improving our alignment with these “6CED” Tendencies is the optimal path to finding meaning, purpose and hope in our lives without having to rely on faith or opinions.</mark>
+_**The Meaning-Seeking Entities (MSE) Framework, built from First Principles using the methodology of Mindful Bounded Rationality (MBR), shows that realizing and mindfully improving our alignment with these “6CED” Tendencies is the optimal path to finding meaning, purpose and hope in our lives without having to rely on faith or opinions.**_
 
-<mark style="color:blue;">Or, in other words, use the MSE Framework to "6CED" in life!</mark>
+_**Or, in other words, use the MSE Framework to "6CED" in life!**_
 
 
 
