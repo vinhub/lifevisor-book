@@ -134,9 +134,9 @@ So, let us go ahead and create a formal statement of this universal tendency, wh
 
 
 
-### <mark style="color:orange;">**Universal Tendency #1: Coherence.**</mark>
+#### `Universal Tendency #1: Coherence.`
 
-<mark style="color:orange;">**The universe appears to have a natural tendency to create definite or concrete things out of uncertain or foggy things.**</mark>
+**`The universe appears to have a natural tendency to create definite or concrete things out of uncertain or foggy things.`**
 
 
 
