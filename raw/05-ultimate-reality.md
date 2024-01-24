@@ -116,7 +116,7 @@ Unfortunately, even these simple statements of fact lead to raging debates.
 
 Most people take our physical reality as the primary reality, and consciousness as secondary. This is generally known as Physicalism or Naturalism.
 
-Other people object to that and say that true reality is ultimately non-physical, and consciousness is all that there is. For them, it is physical reality that is secondary or emergent or even imaginary. This idea is closely related to the philosophy known as Idealism in the west and [Brahman](05-ultimate-reality.md#deep-dive-the-vedic-universe-hypothesis) or Tao in the east.
+Other people object to that and say that true reality is ultimately non-physical, and consciousness is all that there is. For them, it is physical reality that is secondary or emergent or even imaginary. This idea is closely related to the philosophy known as Idealism in the west and Brahman in [Vedic Philosophy](05-ultimate-reality.md#deep-dive-the-vedic-universe-hypothesis) or Tao in Chinese Philosophy.
 
 Unfortunately, we have no objective and incontrovertible proof of either of these two claims. This causes endless debates and confusion about which model is “real”.
 
@@ -297,7 +297,7 @@ As you can see, this theory is a very rich vein of its own, capable of helping u
 
 ## Deep Dive: The Vedic Universe Hypothesis
 
-Vedantic Philosophy states that there is just one universal unified consciousness that is the true ultimate reality. It is known as Brahman. Our physical reality, on the other hand, is only an illusion, known as Maya.
+Vedic Philosophy states that there is just one universal unified consciousness that is the true ultimate reality. It is known as Brahman. Our physical reality, on the other hand, is only an illusion, known as Maya.
 
 According to this philosophy, there is no duality between the self and the ultimate reality of Brahman.
 
