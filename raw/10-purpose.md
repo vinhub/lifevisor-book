@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src=".gitbook/assets/penguin.jpg" alt="" width="405"><figcaption><p>Ultimately, penguins and us share the same purpose</p></figcaption></figure>
+<figure><img src=".gitbook/assets/penguin.jpg" alt="" width="405"><figcaption><p>Ultimately, penguins and humans share the same purpose</p></figcaption></figure>
 
 
 
