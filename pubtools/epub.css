@@ -79,13 +79,27 @@ a {
 }
 
 blockquote {
-    border-style: solid solid solid solid;
+    border-style: solid;
     border-color: #a41434;
     border-width: medium;
     border-radius: 0.5em;
     padding-left: 1em;
     padding-right: 1em;
     background-color: #fcecf4;
+}
+
+hr {
+    height: 0;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 0;
+    border-top: 1px solid #999;
+}
+
+mark {
+    color: green;
+    font-style: italic;
+    background-color: #fff;
 }
 
 @media screen { /* Workaround for iBooks issue; see #6242 */
