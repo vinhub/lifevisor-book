@@ -110,15 +110,19 @@ But for particularly busy executives, here is an even shorter version:
 
 
 
-#### _<mark style="color:orange;">**Tweet-length Summary of the MSE Framework:**</mark>_
+***
 
-_<mark style="color:orange;">Based on an overwhelming amount evidence and rigorous analysis, it has been shown that the universe exhibits the following ubiquitous and omnipresent tendencies that work in the opposite direction to the law of Entropy. These tendencies are: Coherence, Complexity, Continuation of existence or identity, Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>_
+#### _<mark style="color:green;">**CEO-Level Summary of the MSE Framework:**</mark>_
 
-_<mark style="color:orange;">We call them the "6CED" Tendencies.</mark>_
+_<mark style="color:green;">Based on an overwhelming amount evidence and rigorous analysis, it has been shown that the universe exhibits the following ubiquitous and omnipresent tendencies that work in the opposite direction to the law of Entropy. These tendencies are: Coherence, Complexity, Continuation of existence or identity, Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>_
 
-_<mark style="color:orange;">The Meaning-Seeking Entities (MSE) Framework, built from First Principles using the methodology of Mindful Bounded Rationality (MBR), shows that realizing and mindfully improving our alignment with these “6CED” Tendencies is the optimal path to finding meaning, purpose and hope in our lives without having to rely on faith or opinions.</mark>_
+_<mark style="color:green;">We call them the "6CED" Tendencies.</mark>_
 
-_<mark style="color:orange;">Or, in other words, use the MSE Framework to "6CED" in life!</mark>_
+_<mark style="color:green;">The Meaning-Seeking Entities (MSE) Framework, built from First Principles using the methodology of Mindful Bounded Rationality (MBR), shows that realizing and mindfully improving our alignment with these “6CED” Tendencies is the optimal path to finding meaning, purpose and hope in our lives without having to rely on faith or opinions.</mark>_
+
+_<mark style="color:green;">Or, in other words, use the MSE Framework to "6CED" in life!</mark>_
+
+***
 
 
 

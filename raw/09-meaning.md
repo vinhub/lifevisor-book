@@ -355,17 +355,21 @@ Don’t worry, we are not going to add “coincidence” to our (seemingly ever-
 
 
 
-#### _**The “6CED” Tendencies of the Universe:**_
+***
 
-_**Based on an overwhelming amount of evidence and the rigorous application of logic, human beings have discovered certain patterns in the universe, in the form of certain features, laws and processes.**_
+#### _<mark style="color:green;">**The “6CED” Tendencies of the Universe:**</mark>_
 
-_**Based on the fact that some of these patterns are ubiquitous and ever-present, and we can find deeper explanations for them in physical laws, we can conclude that the universe appears to exhibit certain inherent tendencies.**_&#x20;
+_<mark style="color:green;">Based on an overwhelming amount of evidence and the rigorous application of logic, human beings have discovered certain patterns in the universe, in the form of certain features, laws and processes.</mark>_
 
-_**We have strong evidence that they have existed for a very long time, and, as far as we can predict, will continue to exist for a very long time in the future. But far more importantly for us, they can be seen to exist right here, right now, all the time and everywhere.**_
+_<mark style="color:green;">Based on the fact that some of these patterns are ubiquitous and ever-present, and we can find deeper explanations for them in physical laws, we can conclude that the universe appears to exhibit certain inherent tendencies.</mark>_&#x20;
 
-_**The Meaning-Seeking Entities (MSE) Framework identifies 8 such tendencies: Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.**_
+_<mark style="color:green;">We have strong evidence that they have existed for a very long time, and, as far as we can predict, will continue to exist for a very long time in the future. But far more importantly for us, they can be seen to exist right here, right now, all the time and everywhere.</mark>_
 
-_**Based on the highly curious fact that 6 of them start with the letter C, one with E and one with D, we are solemnly calling them collectively as the “6CED” (pronounced “Succeed”) Tendencies.**_
+_<mark style="color:green;">The Meaning-Seeking Entities (MSE) Framework identifies 8 such tendencies: Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>_
+
+_<mark style="color:green;">Based on the highly curious fact that 6 of them start with the letter C, one with E and one with D, we are solemnly calling them collectively as the “6CED” (pronounced “Succeed”) Tendencies.</mark>_
+
+***
 
 
 
@@ -379,12 +383,16 @@ Finally, we get to talk about the concept that gives meaning to the “Meaning-S
 
 
 
-#### _**Meaning-Seeking Entities are complex Living Entities that are:**_
+***
 
-* _**A result of all the "6CED" Universal Tendencies mentioned earlier,**_
-* _**Exhibit the tendencies themselves,**_
-* _**Have the desire for Meaning, Purpose, Hope in their life, and**_
-* _**Can experience them, too.**_
+#### _<mark style="color:green;">**Meaning-Seeking Entities are complex Living Entities that are:**</mark>_
+
+* _<mark style="color:green;">A result of all the "6CED" Universal Tendencies mentioned earlier,</mark>_
+* _<mark style="color:green;">Exhibit the tendencies themselves,</mark>_
+* _<mark style="color:green;">Have the desire for Meaning, Purpose, Hope in their life, and</mark>_
+* _<mark style="color:green;">Can experience them, too</mark>_
+
+***
 
 
 
@@ -550,15 +558,19 @@ So, with the addition of those considerations, we finally have a resolution of a
 
 
 
-#### _**Definition of “Meaning in Life” based on the MSE Framework:**_
+***
 
-_**Meaning-Seeking Entities, as defined in the MSE Framework, can make their lives meaningful by mindfully living in alignment with the universe’s “6CED” Tendencies of Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.**_&#x20;
+#### _<mark style="color:green;">**Definition of “Meaning in Life” based on the MSE Framework:**</mark>_
 
-_**Given that it was these exact tendencies that gave rise to the Meaning-Seeking Entities in the first place, they already, inherently embody those tendencies. Thus, all they have to do is to become aware of these tendencies they already have and allow them to be expressed through them.**_
+_<mark style="color:green;">Meaning-Seeking Entities, as defined in the MSE Framework, can make their lives meaningful by mindfully living in alignment with the universe’s “6CED” Tendencies of Coherence, Complexity, Continuity (of existence or identity), Curiosity, Creativity, Consciousness, Evolution and Diversity.</mark>_&#x20;
 
-_**In addition, given the existence of nebulosity and unknowns in our reality, they need to avoid being dogmatic about this and always be humble, flexible, and willing to learn based on new evidence.**_
+_<mark style="color:green;">Given that it was these exact tendencies that gave rise to the Meaning-Seeking Entities in the first place, they already, inherently embody those tendencies. Thus, all they have to do is to become aware of these tendencies they already have and allow them to be expressed through them.</mark>_
 
-_**Adherence to these principles provides all the ingredients to find meaning in their lives, namely, having coherence or comprehensibility, a sense of purpose, and a sense of existential mattering or significance in their lives.**_
+_<mark style="color:green;">In addition, given the existence of nebulosity and unknowns in our reality, they need to avoid being dogmatic about this and always be humble, flexible, and willing to learn based on new evidence.</mark>_
+
+_<mark style="color:green;">Adherence to these principles provides all the ingredients to find meaning in their lives, namely, having coherence or comprehensibility, a sense of purpose, and a sense of existential mattering or significance in their lives.</mark>_
+
+***
 
 
 
@@ -612,9 +624,9 @@ Allow me to finally conclude the chapter with an interesting but slightly weird 
 
 
 
-_“We are all in the gutter, but some of us are looking at the stars.”_
-
-**- Oscar Wilde, an Irish poet and playwright, in “Lady Windermere's Fan”**
+> _“We are all in the gutter, but some of us are looking at the stars.”_
+>
+> **- Oscar Wilde, an Irish poet and playwright, in “Lady Windermere's Fan”**
 
 
 
@@ -622,13 +634,11 @@ Based on everything we have seen, maybe we could modify this quote (with apologi
 
 
 
-_“We were never in the gutter. We were always living among the stars!”_
+> _“We were never in the gutter. We were always living among the stars!”_
 
 
 
 We just had to wake up to this realization.
-
-
 
 We have done the hard part of the work now. Things get easier from here. In the next chapter, we will look at Purpose.
 

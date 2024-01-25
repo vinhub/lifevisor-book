@@ -168,15 +168,19 @@ We can state it formally as follows:
 
 
 
-#### _**Definition of Our “Greater Purpose” Based on the MSE Framework:**_
+***
 
-_**Given that the "6CED" Tendencies of the universe continuously give rise to coherence and complexity in the universe, some of which self-organizes itself into self-sustaining and (sometimes) conscious, creative and curious organisms that evolve and diversify, we can conclude that that is at least one of the purposes of the universe.**_&#x20;
+#### _<mark style="color:green;">**Definition of Our “Greater Purpose” Based on the MSE Framework:**</mark>_
 
-_**And since we are Meaning-Seeking Entities ourselves that are a result of the same tendencies and continue to exhibit them ourselves, our greater purpose is the same.**_&#x20;
+_<mark style="color:green;">Given that the "6CED" Tendencies of the universe continuously give rise to coherence and complexity in the universe, some of which self-organizes itself into self-sustaining and (sometimes) conscious, creative and curious organisms that evolve and diversify, we can conclude that that is at least one of the purposes of the universe.</mark>_&#x20;
 
-_**Thus, our greater purpose is to continue our own existence, while facilitating the creation and maintenance of other self-organizing and self-sustaining complex entities, creating more coherence and richer complexity and diversity around us, contributing to the universal process of evolution, being curious and creative, and continuing to enrich our consciousness. Note that the complex entities mentioned here refer to not just living organisms, but also other entities that exhibit similar tendencies, such as organized groups or institutions of living organisms, bodies of thought, and even artificial organisms.**_
+_<mark style="color:green;">And since we are Meaning-Seeking Entities ourselves that are a result of the same tendencies and continue to exhibit them ourselves, our greater purpose is the same.</mark>_&#x20;
 
-_**In addition, given the existence of nebulosity and unknowns in the universe, we need to avoid being dogmatic and always be humble and willing to learn and improve our definition of greater purpose accordingly.**_
+_<mark style="color:green;">Thus, our greater purpose is to continue our own existence, while facilitating the creation and maintenance of other self-organizing and self-sustaining complex entities, creating more coherence and richer complexity and diversity around us, contributing to the universal process of evolution, being curious and creative, and continuing to enrich our consciousness. Note that the complex entities mentioned here refer to not just living organisms, but also other entities that exhibit similar tendencies, such as organized groups or institutions of living organisms, bodies of thought, and even artificial organisms.</mark>_
+
+_<mark style="color:green;">In addition, given the existence of nebulosity and unknowns in the universe, we need to avoid being dogmatic and always be humble and willing to learn and improve our definition of greater purpose accordingly.</mark>_
+
+***
 
 
 

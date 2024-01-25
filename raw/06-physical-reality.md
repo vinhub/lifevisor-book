@@ -134,9 +134,13 @@ So, let us go ahead and create a formal statement of this universal tendency, wh
 
 
 
-#### _Universal Tendency #1: Coherence_
+***
 
-_**The universe appears to have a natural tendency to create definite or concrete things out of uncertain or foggy things.**_
+#### _<mark style="color:green;">Universal Tendency #1: Coherence</mark>_
+
+_<mark style="color:green;">The universe appears to have a natural tendency to create definite or concrete things out of uncertain or foggy things.</mark>_
+
+***
 
 
 
@@ -204,9 +208,13 @@ For now, let us formalize this ubiquitous and ever-present tendency by adding it
 
 
 
-#### _**Universal Tendency #2: Complexity**_
+***
 
-_**The universe appears to have a natural tendency to form more complex structures out of simpler ones.**_
+#### _<mark style="color:green;">**Universal Tendency #2: Complexity**</mark>_
+
+_<mark style="color:green;">The universe appears to have a natural tendency to form more complex structures out of simpler ones.</mark>_
+
+***
 
 
 

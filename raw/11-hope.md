@@ -148,9 +148,25 @@ On the other hand, the “6CED” Tendencies of the universe, that gave rise to 
 
 Not only that, but these tendencies can be observed here and now.
 
-Thus, mindfully realizing and improving our alignment with our 6CED Tendencies ensures that we can have a very reasonable expectation of a meaningful future, which is the same as having Hope.
+As a result, if we recognize and improve our alignment with these tendencies, then we can justifiably have strong expectations of a meaningful future, which is the same thing as having hope for the future.&#x20;
 
-And of course, like we always do, we need to caveat the above with the fact that reality consists of nebulosity and unknowns, so we need to be open to learn more as we move forward and adjust our thinking and actions accordingly.
+Note that this definition is based on a preponderance of evidence and reason, not wishful thinking.
+
+So let us formalize this with a definition:
+
+
+
+***
+
+#### _<mark style="color:green;">Definition of Hope Based on the MSE Framework:</mark>_
+
+_<mark style="color:green;">Mindfully realizing and improving our alignment with the universe's (and ours) 6CED Tendencies ensures that we can have a very reasonable expectation of a meaningful future, which is the same thing as having Hope.</mark>_
+
+_<mark style="color:green;">In addition, since reality consists of nebulosity as well as unknowns, we need to be open to learn more as we move forward and adjust our thinking and actions accordingly.</mark>_
+
+***
+
+
 
 ## The Human Tendency for Hope <a href="#yfkipc1bzgqg" id="yfkipc1bzgqg"></a>
 
