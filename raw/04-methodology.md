@@ -200,7 +200,7 @@ It is also true that every good idea that people have ever come up with eventual
 
 Even the application of rationality is no exception to this rule. History is full of self-described rationalists driving themselves and their faithful followers off cliffs to the amusement of onlookers.
 
-This occurs because too many rationalists have a tendency to make it sound like reality is far simpler than it really is. They usually fall in love with some abstract idea or model and simply assume that reality must conform to it. They try to impose rationality on things that are highly nebulous or make untenable predictions about things that are inherently unpredictable. They often come up with recommendations that look good on paper but fail miserably in reality. And sometimes they reach conclusions that are just absurd.
+This occurs because too many rationalists have a tendency to make it sound like reality is far simpler than it really is. They usually fall in love with some abstract idea or model and simply assume that reality must conform to it. They try to impose rationality on things that are highly nebulous or make untenable predictions about things that are inherently unpredictable. They often come up with recommendations that look good on paper but fail miserably in reality. And sometimes they reach conclusions that are just absurd. (This idea is critically important to the book, and I have included a [Deep Dive into Pattern and Nebulosity](04-methodology.md#deep-dive-pattern-and-nebulosity) at the end of the chapter go delve into some of its details.)
 
 Ironically, other rationalists have analyzed this phenomenon, and come up with names for a set of biases that many ardent rationalists suffer from:
 
@@ -598,6 +598,26 @@ For the MSE Framework, we will take evidence of introspective phenomena seriousl
 It goes without saying that the existence of consciousness is pretty much universally corroborated, and has found no other explanation, so we will include it in our models.
 
 Of course, if an objective explanation for consciousness is found down the road, we will adjust our models accordingly.
+
+
+
+## Deep Dive: Pattern and Nebulosity
+
+David Chapman, a computer scientist and Buddhist scholar has written extensively about the idea that reality seems to contain both, pattern as well as nebulosity.
+
+Science has shown us that reality does seem to contain many patterns, i.e. aspects that are clear, definite and structured. In many cases, we have managed to capture these patterns in terms of formulas and equations with very high levels of predictability and accuracy.
+
+For example, in Physics we learn about various particles, their properties, forces that act on them and laws that govern them. (We will have a lot to say about all of these in the chapter on Physical Reality.)
+
+But, at the same time, we also have ample evidence that many aspects of reality do not seem to be so easy to capture in terms of formulas. They are too nebulous or inherently indeterminate, fluid, and ambiguous.
+
+Once again, Physics itself tells us that, at the bottom of it all, we have quantum fields that are inherently nebulous. We also have the Heisenberg Uncertainty Principle that tells us that there is a hard limit on how accurately we can measure the position and momentum of a particle at the same time. &#x20;
+
+Even above the level of quantum fields and particles, we have such complex interactions among the unimaginably large number of particles of various types, that it would be practically impossible to compute their exact future properties even after a very short time interval into the future.
+
+At an even higher level, Chapman gives a great example of a cloud. No matter which physical or chemical properties you consider, trying to exactly describe a cloud is impossible. It is inherently nebulous. And we deal with many such concepts on a regular basis.
+
+Chapman argues that pure Rationalism tends to overemphasize the patterned aspects of reality while ignoring the nebulous ones. As a result, while we should not abandon Rationalism, we definitely need to look beyond it to understand or deal with reality.
 
 
 
