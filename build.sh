@@ -37,6 +37,9 @@ pandoc -o book.pdf title.txt *.md \
   --toc \
   --pdf-engine=xelatex \
   --template=../pubtools/pdftemplate.latex \
+  -V mainfont="Arial Unicode MS" \
+  -V mainfontoptions:BoldFont="DejaVu Sans Bold" \
+  -V mainfontoptions:ItalicFont="DejaVu Sans Oblique" \
   -V geometry:margin=1.01in \
   --top-level-division=chapter \
   --variable=lastUpdated:$lastUpdated \
