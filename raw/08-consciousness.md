@@ -298,7 +298,7 @@ With that, we have now built all the scaffolding we need to finally get to where
 
 
 
-## **Deep Dive: The “Easy” Problem of Consciousness**
+## Deep Dive: The “Easy” Problem of Consciousness
 
 The "Easy" Problem of Consciousness refers to the question of how and why certain physical processes in the brain give rise to subjective experiences or the phenomenal experience of consciousness. This distinguishes it from the "Hard" problem, which deals with the deeper philosophical conundrums of that phenomenal experience itself.
 
@@ -318,7 +318,7 @@ Nevertheless, the problem is considered to be "Easy" because it appears to be ea
 
 
 
-## **Deep Dive: Integrated Information Theory**
+## Deep Dive: Integrated Information Theory
 
 The Integrated Information Theory (IIT) is a theory proposed by neuroscientist and professor Giulio Tononi that attempts to explain and characterize the Hard Problem of Consciousness.
 
@@ -332,7 +332,7 @@ This theory is still very controversial, and a satisfactory and comprehensive th
 
 
 
-## **Deep Dive: The Observer in Quantum Mechanics**
+## Deep Dive: The Observer in Quantum Mechanics
 
 Based on what we know so far about physical reality, at the most fundamental level, the universe consists of quantum fields.
 
@@ -354,7 +354,7 @@ Still, Stephen Wolfram has proposed an intriguing possibility, mentioned below.
 
 
 
-## **Deep Dive: Stephen Wolfram’s Conceptualization of the Observer in Quantum Theory**
+## Deep Dive: Stephen Wolfram’s Conceptualization of the Observer in Quantum Theory
 
 Stephen Wolfram has come up with some intriguing ideas about the "observer" in quantum theory. It is a deep topic, but I will try to summarize it here quickly. His argument goes as follows.
 

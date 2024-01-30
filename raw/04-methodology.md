@@ -276,7 +276,7 @@ As the name suggests, Mindful Bounded Rationality combines elements of Bounded R
 
 Let us now formally define what we mean by Mindful Bounded Rationality by looking at its key characteristics:
 
-### **A) Reliance on Evidence and Reason:** <a href="#bm74if65ohol" id="bm74if65ohol"></a>
+### A) Reliance on Evidence and Reason: <a href="#bm74if65ohol" id="bm74if65ohol"></a>
 
 It should go without saying that we are still talking about a rational method of knowledge acquisition, with a few modifications. So, it is still primarily about using evidence and reason.
 
@@ -284,7 +284,7 @@ As stated earlier, this means using the well-known techniques of Thinking from F
 
 But since reality contains a lot of nebulosity, unpredictability as well as unknowns, we need to adjust our methodology to deal with that.
 
-### **B) Acknowledgement of the Complexity of Reality and Our Cognitive Limitations**: <a href="#bm74if65ohol" id="bm74if65ohol"></a>
+### B) Acknowledgement of the Complexity of Reality and Our Cognitive Limitations: <a href="#bm74if65ohol" id="bm74if65ohol"></a>
 
 We acknowledge that reality is extremely complex and our ability to deal with it is limited due to limits to our cognitive ability. Even when we discover patterns in reality, we may not be able to meaningfully extrapolate them to far beyond a certain point. We may be able to say a few high-level things, but the details will be meaningless.
 
@@ -292,7 +292,7 @@ In many cases, we may also be constrained by time or resources.&#x20;
 
 Needless to say, we still need to create practical, realistic and rational explanations and decisions within this constraint. The three characteristics below address this constraints.
 
-### **C) Satisficing:** <a href="#id-5e7jvow5dvnp" id="id-5e7jvow5dvnp"></a>
+### C) Satisficing: <a href="#id-5e7jvow5dvnp" id="id-5e7jvow5dvnp"></a>
 
 Satisficing is a combination of satisfying and sufficing. This is a well-known idea in real world problem solving, particularly in engineering.
 
@@ -302,7 +302,7 @@ This is basically what we do pretty much all the time in our real lives. We are 
 
 There is ample evidence that everything in nature itself follows this approach. No system in nature can afford to look for the perfect solution, settling instead for something that is good enough and incrementally moving forward.
 
-### **D) Present-Moment Focus:** <a href="#id-7nksq2farkuz" id="id-7nksq2farkuz"></a>
+### D) Present-Moment Focus: <a href="#id-7nksq2farkuz" id="id-7nksq2farkuz"></a>
 
 The idea behind Mindfulness is that focusing on what is occurring "here and now" or "clear and present" reduces our dependence on the (potentially flawed or incomplete) accounts of the past or inherently unpredictable extrapolations about the future.&#x20;
 
@@ -480,7 +480,7 @@ But before we do that, here are some deep dives into some of the concepts mentio
 
 
 
-## **Deep Dive: First Principles Thinking**
+## Deep Dive: First Principles Thinking
 
 First Principles Thinking basically means “don’t take someone else’s word for it, check it out yourself!”
 
@@ -500,7 +500,7 @@ Needless to say, for the MSE Framework, we are taking a First Principles approac
 
 
 
-## **Deep Dive: Explanations**
+## Deep Dive: Explanations
 
 According to David Deutsch, physicist, the father of quantum computing and author of many fascinating books, the pursuit of the ultimate truth is an ongoing process that requires an open-minded and critical approach to knowledge.
 
@@ -514,7 +514,7 @@ He also says that there is no limit to the explanatory power of human knowledge,
 
 
 
-## **Deep Dive: Bayesian Inference**
+## Deep Dive: Bayesian Inference
 
 Bayesian Inference is one of the most fundamental methods for building a model robust of reality. One of the leading theories about how our brains function is based on this idea and is actually known as the Bayesian Brain Hypothesis.
 
@@ -553,7 +553,7 @@ A lot of our learning is basically a result of repeated application of this proc
 
 
 
-## **Deep Dive: The Scientific method**
+## Deep Dive: The Scientific Method
 
 
 
@@ -583,7 +583,7 @@ And science also provides a different type of certainty because its methods are 
 
 
 
-## **Deep Dive: Introspection**
+## Deep Dive: Introspection
 
 Many subjective experiences are self-evident to ourselves. We can honestly say that they are occurring, but the inner world of our minds is mostly opaque to anyone other than ourselves, so there is really no way to prove to someone else anything about any of the phenomena we may be experiencing inside our minds.
 
@@ -603,7 +603,7 @@ Of course, if an objective explanation for consciousness is found down the road,
 
 ## Deep Dive: Pattern and Nebulosity
 
-David Chapman, a computer scientist and Buddhist scholar has written extensively about the idea that reality seems to contain both, pattern as well as nebulosity.
+David Chapman, a computer scientist and Buddhist scholar, has written two phenomenal books, "In the Cells of the Eggplant" and "Meaningness". In these books, he talks extensively about the fact that reality seems to contain both pattern as well as nebulosity, and how that affects our ideas of rationalism and meaning.
 
 Science has shown us that reality does seem to contain many patterns, i.e. aspects that are clear, definite and structured. In many cases, we have managed to capture these patterns in terms of formulas and equations with very high levels of predictability and accuracy.
 

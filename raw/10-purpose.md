@@ -269,7 +269,7 @@ We'll talk about that in the next chapter.
 
 
 
-## **Deep Dive: The Is-Ought Problem**
+## Deep Dive: The Is-Ought Problem
 
 When western philosophers started looking at Purpose, they quickly realized a major problem: Talking about purpose determined by a supernatural power involves statements containing the words “ought / ought-not”.
 

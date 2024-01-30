@@ -294,13 +294,13 @@ Thus, this is a framework that defines, from the ground up, layer by layer, what
 
 Each of the concepts below maps directly to a layer in the framework and there is a chapter dedicated to each of them.
 
-### **A) Methodology:** <a href="#id-546es3oz83l0" id="id-546es3oz83l0"></a>
+### A) Methodology: <a href="#id-546es3oz83l0" id="id-546es3oz83l0"></a>
 
 The most fundamental aspect of defining a framework from First Principles is establishing what constitutes genuine knowledge according to the framework and what methodology is used to acquire it. Another word for this is Epistemology.
 
 This is also where we will address the most important objection to what we are undertaking: limits to rationality and how we plan to deal with them. Our solution to this problem is to define a modified version of rationality, which I have termed Mindful Bounded Rationality. We will go over what it means and why it makes sense.
 
-### **B) Ultimate Reality:** <a href="#z6fhw8hc2h9p" id="z6fhw8hc2h9p"></a>
+### B) Ultimate Reality: <a href="#z6fhw8hc2h9p" id="z6fhw8hc2h9p"></a>
 
 The next step is defining our model of ultimate reality, which is basically all that exists.
 
@@ -308,7 +308,7 @@ Needless to say, the knowledge of ultimate reality itself must be acquired using
 
 Of course, we won't go into all aspects of ultimate reality - that will take volumes. We will look at only the parts that we need for our framework.
 
-### **C) Physical Reality:** <a href="#ge8sknwwqwq4" id="ge8sknwwqwq4"></a>
+### C) Physical Reality: <a href="#ge8sknwwqwq4" id="ge8sknwwqwq4"></a>
 
 We take it for granted that we live in a physical reality, but we also need to acknowledge that it may not be the ultimate reality. We do not really know how physical reality emerges from ultimate reality, but its existence is evident to us because we can perceive it using our senses.
 
@@ -318,7 +318,7 @@ But we also know that some things in physical reality are too nebulous to be cap
 
 Here again, we will go over the parts of physical reality that matter for our framework.
 
-### **D) Life:** <a href="#bp3ukziqogez" id="bp3ukziqogez"></a>
+### D) Life: <a href="#bp3ukziqogez" id="bp3ukziqogez"></a>
 
 Normally, one would include Chemistry and Biology as the two layers immediately above Physics, but we don’t need to make that distinction for this framework. For our purposes, clubbing them together into one layer called “Life” is sufficient.
 
@@ -326,7 +326,7 @@ Also, we will often use the term “Living Entities” rather than just “Life�
 
 Also, normally we would consider Intelligence to be a layer above this, but again, for the purposes of this framework, we will include it along with Life. As you will see in the chapter on Life, it makes a lot of sense to treat intelligence as an inherent property of living entities.
 
-### **E) Consciousness:** <a href="#nabhb2sxyllz" id="nabhb2sxyllz"></a>
+### E) Consciousness: <a href="#nabhb2sxyllz" id="nabhb2sxyllz"></a>
 
 Consciousness means different things to different people.&#x20;
 
@@ -348,7 +348,7 @@ We will start by crisply defining what we mean by “Meaning-Seeking Entities”
 
 After we have done all this hard work, tackling purpose and hope become rather easy.
 
-### **G) Purpose:** <a href="#azmxhujnbm2z" id="azmxhujnbm2z"></a>
+### G) Purpose: <a href="#azmxhujnbm2z" id="azmxhujnbm2z"></a>
 
 Here again we start by defining the term “greater purpose”. And then we will figure out how to define it using the framework.
 
@@ -360,7 +360,7 @@ And, luckily for us, hope simply falls out of the MSE Framework. Moreover, it ca
 
 That will complete the discussion of all the layers in the MSE Framework. Lastly, it will be time to wrap it all up.
 
-### **I) Executive Summary:**&#x20;
+### I) Executive Summary:&#x20;
 
 Everyone is busy, and reading long books is not always possible.&#x20;
 

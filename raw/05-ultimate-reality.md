@@ -212,7 +212,7 @@ Ok, having started with this high-level overview in this chapter, we will be dig
 
 
 
-## **Deep Dive: Conscious Realism**
+## Deep Dive: Conscious Realism
 
 Donald Hoffman is an American cognitive psychologist and a professor at UC Irvine.
 
