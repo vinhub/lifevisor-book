@@ -14,25 +14,21 @@ layout:
 
 # 10. Purpose: The Universe “Wants” You to “6CED”!
 
-
-
 <figure><img src=".gitbook/assets/penguin.jpg" alt="" width="405"><figcaption><p>Ultimately, penguins and humans share the same purpose</p></figcaption></figure>
-
-
 
 ***
 
 
 
-_“Life is never made unbearable by circumstances, but only by lack of meaning and purpose.”_&#x20;
+_“Life is never made unbearable by circumstances, but only by lack of meaning and purpose.”_
 
 **― Viktor E. Frankl, Austrian psychiatrist, in “Man's Search for Meaning”**
 
 
 
-_"For the mystery of human existence lies not in just staying alive, but in finding something to live for."_&#x20;
+_"For the mystery of human existence lies not in just staying alive, but in finding something to live for."_
 
-**― Fyodor Dostoyevski, Russian novelist, in "The Brothers Karamazov".**
+**― Fyodor Dostoyevski, Russian novelist, in "The Brothers Karamazov"**
 
 
 
@@ -52,13 +48,9 @@ But first, as usual, we need to talk about what we even mean by purpose.
 
 The second Matrix movie (“The Matrix Reloaded”) contains a perfect speech on purpose, delivered by none other than Agent Smith:
 
-
-
 > _“There's no escaping reason, no denying purpose, for as we both know, without purpose we would not exist. It is purpose that created us, purpose that connects us, purpose that pulls us, that guides us, that drives us; it is purpose that defines, purpose that binds us.”_
 >
 > **― Agent Smith, in "The Matrix Reloaded".**
-
-
 
 I know I have taken this quote out of context, but it is actually very meaningful when taken out of context. (I guess I must have learned this trick from social media - taking things out of context because they serve your purpose!)
 
@@ -68,25 +60,17 @@ Now, sure, you might say that Agent Smith, a computer program, and an evil one a
 
 So, let us look at a well-regarded quote by one of the most respectable (and highly quotable) philosophers:
 
-
-
 > _“He who has a ‘why’ to live for can bear almost any ‘how’!”_
 >
 > **― Friedrich Nietzsche, German philosopher, in "Thus Spoke Zarathustra".**
-
-
 
 The “why” that Nietzsche refers to is, of course, purpose.
 
 Here is a dictionary definition of purpose:
 
-
-
 > _"Purpose: Why you do something or why something exists."_
 >
 > **― Cambridge English dictionary**
-
-
 
 In the context of this book, when we say “purpose”, we are basically replacing the two “somethings” in the above definition with our actions and ourselves, respectively.
 
@@ -98,13 +82,9 @@ This is also typically referred to as “greater purpose”, to distinguish it f
 
 Finally, here is an excerpt from a recent scientific literature survey on the science of meaning:
 
-
-
 > "Purpose is a central, self-organizing life aim that organizes and stimulates goals, manages behaviors, and provides a sense of meaning.”
 >
 > **― Laura A. King and Joshua A. Hicks, in "The Science of Meaning in Life", Annual Review of Psychology 2021**
-
-
 
 People have been wondering about their life’s greater purpose for a very long time, usually spurred on by some particularly traumatic event in their life or a major life decision that forced them to take a step back and examine their life honestly and carefully. They were confused about what to do next and had to go back to basics, i.e., first principles, to figure out what they really wanted out of life, what they felt was their greater purpose.
 
@@ -166,15 +146,13 @@ Once we do that, we have a rigorous and complete definition of purpose, derived 
 
 We can state it formally as follows:
 
-
-
 ***
 
 #### _<mark style="color:green;">**Definition of Our “Greater Purpose” Based on the MSE Framework:**</mark>_
 
-_<mark style="color:green;">Given that the "6CED" Tendencies of the universe continuously give rise to coherence and complexity in the universe, some of which self-organizes itself into self-sustaining and (sometimes) conscious, creative and curious organisms that evolve and diversify, we can conclude that that is at least one of the purposes of the universe.</mark>_&#x20;
+_<mark style="color:green;">Given that the "6CED" Tendencies of the universe continuously give rise to coherence and complexity in the universe, some of which self-organizes itself into self-sustaining and (sometimes) conscious, creative and curious organisms that evolve and diversify, we can conclude that that is at least one of the purposes of the universe.</mark>_
 
-_<mark style="color:green;">And since we are Meaning-Seeking Entities ourselves that are a result of the same tendencies and continue to exhibit them ourselves, our greater purpose is the same.</mark>_&#x20;
+_<mark style="color:green;">And since we are Meaning-Seeking Entities ourselves that are a result of the same tendencies and continue to exhibit them ourselves, our greater purpose is the same.</mark>_
 
 _<mark style="color:green;">Thus, our greater purpose is to continue our own existence, while facilitating the creation and maintenance of other self-organizing and self-sustaining complex entities, creating more coherence and richer complexity and diversity around us, contributing to the universal process of evolution, being curious and creative, and continuing to enrich our consciousness. Note that the complex entities mentioned here refer to not just living organisms, but also other entities that exhibit similar tendencies, such as organized groups or institutions of living organisms, bodies of thought, and even artificial organisms.</mark>_
 
@@ -182,26 +160,24 @@ _<mark style="color:green;">In addition, given the existence of nebulosity and u
 
 ***
 
-
-
 ## Turning the Definition of Purpose into Action
 
 Ultimately, one needs to be able to convert their purpose into action. So, how do we do that for the purpose as defined above?
 
 Let us look at each of the 6CED Tendencies and come up with some initial ideas for turning them into actions. This may look a little like a typical self-help TODO list, but it is only meant as an example to spark thinking along these lines. The list is by no means definitive or complete. It will evolve over time as we learn more about what works and what doesn't.
 
-* **Coherence:** Our struggle to make sense of our lives, of our environment, of the economy, our relationships and so on are all a part of this. Of course, in order to align ourselves with our purpose, we need to actually take this seriously rather than simply doing whatever some social influencer or your friend circle or some book (including this one) tells us to do. First try to make sense of whatever you are being told, and if it does, only then turn it into practice.&#x20;
+* **Coherence:** Our struggle to make sense of our lives, of our environment, of the economy, our relationships and so on are all a part of this. Of course, in order to align ourselves with our purpose, we need to actually take this seriously rather than simply doing whatever some social influencer or your friend circle or some book (including this one) tells us to do. First try to make sense of whatever you are being told, and if it does, only then turn it into practice.
 * **Complexity:** What this typically translates into is "being constructive" rather than destructive. For the physical world, it could mean building complex things. For the inner world, it could mean complexifying our minds by seeking out complexity and trying to understanding it better and communicating it to others.
 * **Continuity of existence or identity:** This could mean something as simple as taking care of your health and wellbeing, along with that of your family and friends, your community, all the way up to ensuring the sustainability of the entire biosphere. All of these are Meaning-Seeking Systems, and they all depend upon each other to achieve their aims of continuation of existence.
 * **Curiosity:** This one is easy: Always try to be curious and open minded, willing to experience new phenomena and learning from them. This is the natural behavior of our Bayesian brains, and it is only when we get stuck in routines or become dogmatic about some belief that we deviate from that.
 * **Creativity:** This one is also easy: Always try to be creative. And, in particular, creating things that embody at least some of the other 6CED Tendencies. One of the best ways to do that is to create or facilitate the creation of Living Entities of all types.
-* **Consciousness:** Simply being mindful is one of the best ways to enrich your conscious experience, and over time, enrich your consciousness itself. One can also add other rich experiences to their repertoire, like listening to music or appreciating good art or reading good books.&#x20;
+* **Consciousness:** Simply being mindful is one of the best ways to enrich your conscious experience, and over time, enrich your consciousness itself. One can also add other rich experiences to their repertoire, like listening to music or appreciating good art or reading good books.
 * **Evolution:** Needless to say, our biological desire to participate in evolution is a part of this. But also participating in iterative improvement of everything we do or every organized group we belong to could also be seen as a part of this.
 * **Diversity:** This involves recognizing the value of and facilitating the enrichment of diversity in all aspects of the world. It also means detecting when diversity is being destroyed or monoculture is replacing it and slowing or preventing that from happening.
 
 And of course, in order to be respectful of nebulosity and unknowns in reality, we need to exercise mindful moderation and willingness to learn and improve the above list of actions accordingly.
 
-Not only that, but even a cursory look at the list will reveal that, at times, some of these tendencies or actions might be in conflict with each other. This is where mindfulness comes in again, in deciding how to prioritize and schedule actions accordingly.&#x20;
+Not only that, but even a cursory look at the list will reveal that, at times, some of these tendencies or actions might be in conflict with each other. This is where mindfulness comes in again, in deciding how to prioritize and schedule actions accordingly.
 
 Moreover, this time, because you know the reasoning behind how these tendencies and actions were arrived at, you can make far more informed decisions about the prioritization and scheduling as compared to pretty much any other method of meaning making or realization.
 
@@ -210,8 +186,6 @@ As I mentioned earlier, this list is only a set of sample suggestions, just to c
 Finally, to recap everything we have said in this chapter, let us look at a diagram that summarizes how we have arrived at a rigorous definition of Purpose using the MSE Framework.
 
 ## Derivation of Greater Purpose using the MSE Framework <a href="#pxi78zyaomp3" id="pxi78zyaomp3"></a>
-
-
 
 <figure><img src=".gitbook/assets/Purpose Diagram.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -249,25 +223,17 @@ One would rather have the forces of nature working for them than against them, r
 
 Maybe this is exactly what Yoda meant in the following dialog:
 
-
-
 > _“For my ally is the Force, and a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we, not this crude matter. You must feel the Force around you; here, between you, me, the tree, the rock, everywhere, yes.”_
 >
 > **― Yoda, in “The Empire Strikes Back”**
 
-
-
 Maybe the “Force” that Yoda and all the Jedi talk about is the collection of the “6CED” Tendencies that the universe has! We just have to recognize how they are working and align ourselves to them.
 
-But wait, there is more! Having the above realization and acting accordingly has one additional benefit: Hope simply falls out of it.&#x20;
+But wait, there is more! Having the above realization and acting accordingly has one additional benefit: Hope simply falls out of it.
 
 We'll talk about that in the next chapter.
 
-
-
 ***
-
-
 
 ## Deep Dive: The Is-Ought Problem
 
@@ -304,4 +270,3 @@ This is why we have evolved techniques like heuristics and evidence-based practi
 True, that ideally, we would have liked to know exactly what the supernatural power had in mind for us. But given that we don't, and we don't just want to take a leap of faith or take someone else's word for it, we have no other choice.
 
 That is why we have chosen to replace the unknowable and intractable “ought / ought-not” with the tractable “is it or is it not most optimal”.
-

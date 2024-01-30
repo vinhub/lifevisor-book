@@ -14,33 +14,31 @@ layout:
 
 # 4. Methodology: Engineering the Sh\*t Out of My Midlife Crisis
 
-
-
 <figure><img src=".gitbook/assets/engineer the sht.jpg" alt="" width="563"><figcaption><p>The Martian didn't "science" sh*t, he "engineered" it!</p></figcaption></figure>
-
-
 
 ***
 
 
 
-_"P(A|B) = \[P(A)\*P(B|A)]/P(B), all the rest is commentary."_&#x20;
+_"P(A|B) = \[P(A)\*P(B|A)]/P(B), all the rest is commentary."_
 
 **― Scott Alexander, Rationalist blogger and psychiatrist, in "Astral Codex Ten" (Blog)**
 
 
 
-_“Science can amuse and fascinate us all, but it is engineering that changes the world.”_&#x20;
+_"Clouds are an extreme case, but nebulosity is pervasive. Other than in mathematics and fundamental physics, nothing is ever definitely this-or-that. Everything is always somewhat this and somewhat that. Put under high enough magnification, a stainless steel ball exhibits the same indefiniteness as a cloud. No ball can be perfectly round, nor made of perfectly pure steel, nor can one definitely say whether some particular atoms are part of it or part of its surrounds."_
 
-**― Isaac Asimov, American writer, in "Isaac Asimov's Book of Science and Nature Quotations"**
+**― David Chapman, Computer scientist and Buddhist scholar, in "The Cells of the Eggplant"**
+
+
+
+_“Science can amuse and fascinate us all, but it is engineering that changes the world.”_
+
+**― Isaac Asimov, Science fiction writer, in "Isaac Asimov's Book of Science and Nature Quotations"**
+
+
 
 ***
-
-
-
-
-
-
 
 In this chapter, we are going to look at the methodology we will use to build the MSE Framework.
 
@@ -60,7 +58,7 @@ Days and weeks pass. Then one day, one of those familiar faces appears and smile
 
 But then, as if by magic, the face suddenly vanishes!
 
-We are confused. What happened to that face? Where did it go?&#x20;
+We are confused. What happened to that face? Where did it go?
 
 The smile on our own face disappears and is replaced with concern.
 
@@ -122,7 +120,7 @@ You did this simply by performing various actions and observing their results. N
 
 You didn’t know this at that time either, but what you were doing was Active Inference, which we will also look at later on in this chapter.
 
-Perception, reason, memory, imagination and experimentation were the basis upon which you initially built all the knowledge about the world.&#x20;
+Perception, reason, memory, imagination and experimentation were the basis upon which you initially built all the knowledge about the world.
 
 Then, as you grew up, you also started acquiring knowledge in other ways, such as relying on what the adults told you or what the books said. Over time, you also learned that you could learn some things just via introspection.
 
@@ -130,7 +128,7 @@ You didn’t know this either, but all of the above fall under the branch of phi
 
 Philosophy textbooks define Epistemology as the branch of philosophy that deals with knowledge: what it is, how people acquire it and related details.
 
-In the domain of Epistemology, Knowledge is defined as “justified true belief”.&#x20;
+In the domain of Epistemology, Knowledge is defined as “justified true belief”.
 
 Yes, ultimately it is still a belief since that is all we can truthfully say about what our brains know. But in order to be classified as knowledge we need justification of its truthfulness.
 
@@ -146,7 +144,7 @@ The Stanford Encyclopedia of Philosophy states that there are 3 types of knowled
 
 Within the category of Knowing Facts, we include things that are typically associated with science. These come in the form of evidence, propositions, formulas, algorithms, equations, models etc. that we use to explain natural phenomena.
 
-In the category of Knowing How, we include things like processes, techniques and practices. It also includes knowledge that is hard to put into words, and can only be learned only through observation and practice.&#x20;
+In the category of Knowing How, we include things like processes, techniques and practices. It also includes knowledge that is hard to put into words, and can only be learned only through observation and practice.
 
 This is known as Tacit knowledge or Embodied knowledge. Things like learning to play a musical instrument or riding a bike fall into this category. The Karl Friston quote at the beginning of this chapter also refers to this type of knowledge.
 
@@ -180,7 +178,7 @@ At the same time, we cannot include introspective reports of many other religiou
 
 All of this discussion on epistemology may have just been a long-winded way of me saying that we are going to base the framework only on the principles of Rationality or Rational Thinking, without relying on any faith or dogma or magic or opinion.
 
-Yes, that means we lose some of the magic in our lives that we enjoyed in the past, but luckily we  keep discovering new instances to entertain ourselves.
+Yes, that means we lose some of the magic in our lives that we enjoyed in the past, but luckily we keep discovering new instances to entertain ourselves.
 
 In fact, an extremely important point to note is that any of the concepts that we do include into our framework can be challenged and even replaced if something better comes along. Nothing that is included here should be seen as final. In fact, being flexible and constantly improving, or being "alive", is an essential aspect of the framework.
 
@@ -208,13 +206,13 @@ Ironically, other rationalists have analyzed this phenomenon, and come up with n
 * **Formality or Elegance bias:** The inclination to prioritize solutions or ideas that are aesthetically pleasing or sophisticated in presentation, sometimes at the expense of practicality or functionality.
 * **Systematicity bias:** The preference for structured and systematic approaches, often leading to a tendency to overlook or undervalue more flexible or chaotic methods.
 
-We need to be careful to avoid these pitfalls of rational thinking. We know that reality is not always legible, formal, elegant or systematic.&#x20;
+We need to be careful to avoid these pitfalls of rational thinking. We know that reality is not always legible, formal, elegant or systematic.
 
 At an even more fundamental level, some point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. I have included a [Deep Dive into Gödel's Incompleteness Theorem](04-methodology.md#deep-dive-godels-incompleteness-theorem) at the end of the chapter.
 
-We want to be mindful of all of these issues, but we don't  want to throw the baby out with the bathwater either, as the opponents of rationality often do.
+We want to be mindful of all of these issues, but we don't want to throw the baby out with the bathwater either, as the opponents of rationality often do.
 
-Also note that, at times, politics, dogma and self-interest do enter even the fields that are supposed to be based purely on rationality, such as science and engineering.&#x20;
+Also note that, at times, politics, dogma and self-interest do enter even the fields that are supposed to be based purely on rationality, such as science and engineering.
 
 One of the best ways of dealing with this problem is to make our epistemological constraints clear as we have done earlier in the chapter. By limiting ourselves to only the types and sources of knowledge as stated above, we reduce the possibility of falling for politics or dogma or self-interest.
 
@@ -242,7 +240,7 @@ Besides Bounded Rationality, we need to add one more idea to our toolbox.
 
 ### B) Present-Moment Focus and Groundedness <a href="#m7qvu1memfd7" id="m7qvu1memfd7"></a>
 
-Often, we may have a very good understanding of our present situation and the forces at play, but our ability to predict things too far into the future (or even the past, for that matter) goes down rapidly as the timespan increases.&#x20;
+Often, we may have a very good understanding of our present situation and the forces at play, but our ability to predict things too far into the future (or even the past, for that matter) goes down rapidly as the timespan increases.
 
 This is because reality is extremely complex, involving too many entities and forces acting on them along too many directions. Trying to apply our relatively limited knowledge of reality to this complex soup quickly leads to combinatorial explosions. The larger the distance to any point along any of these directions, the less we should trust our ability to make any statements about it.
 
@@ -252,13 +250,13 @@ In the MSE Framework, the way we deal with this limitation is to put most of our
 
 Ideally, we want to base as much of our thinking on phenomena we can observe "right here, right now". Another way of putting it may be that they need to be "clear and present".
 
-Note that this does not mean we can't look at the long term or distant phenomena at all. It is just that we don't consider them to be the major factor in our model, as it is commonly done in most of the other methodologies for finding meaning, purpose and hope.&#x20;
+Note that this does not mean we can't look at the long term or distant phenomena at all. It is just that we don't consider them to be the major factor in our model, as it is commonly done in most of the other methodologies for finding meaning, purpose and hope.
 
 Most religious and even philosophical models rely on the creation of the universe or its ultimate end (or even beyond, the afterlife) to create their model of reality. Not only does that lead to the need to take leaps of faith, but often the distance from those points to the present is so large that, if we are honest, we are simply unable to apply any sort of rational analysis to them.
 
 As we have already noted, our ability to make predictions goes down rapidly as we move further and further away from the present moment. So, while it is ok to make long term plans or have high-level strategies, we have to take them with more and more grains of salt, the longer their distance from here.
 
-Doing so not only makes our methodology far more robust, but, as a bonus, also helps us come up with a meaningful name for it!&#x20;
+Doing so not only makes our methodology far more robust, but, as a bonus, also helps us come up with a meaningful name for it!
 
 Doesn't what we are talking about here almost sound like the widely known idea of Mindfulness?
 
@@ -288,7 +286,7 @@ But since reality contains a lot of nebulosity, unpredictability as well as unkn
 
 We acknowledge that reality is extremely complex and our ability to deal with it is limited due to limits to our cognitive ability. Even when we discover patterns in reality, we may not be able to meaningfully extrapolate them to far beyond a certain point. We may be able to say a few high-level things, but the details will be meaningless.
 
-In many cases, we may also be constrained by time or resources.&#x20;
+In many cases, we may also be constrained by time or resources.
 
 Needless to say, we still need to create practical, realistic and rational explanations and decisions within this constraint. The three characteristics below address this constraints.
 
@@ -304,7 +302,7 @@ There is ample evidence that everything in nature itself follows this approach. 
 
 ### D) Present-Moment Focus: <a href="#id-7nksq2farkuz" id="id-7nksq2farkuz"></a>
 
-The idea behind Mindfulness is that focusing on what is occurring "here and now" or "clear and present" reduces our dependence on the (potentially flawed or incomplete) accounts of the past or inherently unpredictable extrapolations about the future.&#x20;
+The idea behind Mindfulness is that focusing on what is occurring "here and now" or "clear and present" reduces our dependence on the (potentially flawed or incomplete) accounts of the past or inherently unpredictable extrapolations about the future.
 
 This concept can also be generalized to other dimensions besides time, such as physical distance or the number of hops in a network etc.
 
@@ -328,13 +326,11 @@ Needless to say, this is critically important when dealing rationally with reali
 
 Once again, I don't believe that this connection between rationality and mindfulness is accidental. I believe they were always meant to be together, though not always recognized in this manner.
 
-
-
 With that, possibly rather longwinded philosophical introduction, it is now time for us to formally spell out the nitty-gritty details of our methodology.
 
 ## MSE Framework Methodology <a href="#d1nyaz14rwmi" id="d1nyaz14rwmi"></a>
 
-The MSE Framework methodology is basically the same as Mindful Bounded Rationality as explained above.&#x20;
+The MSE Framework methodology is basically the same as Mindful Bounded Rationality as explained above.
 
 For completeness, we can state it explicitly by answering two main questions:
 
@@ -345,7 +341,7 @@ For completeness, we can state it explicitly by answering two main questions:
 * Starting from these axioms, we follow **Bayesian Inferencing** and the **Scientific Method** to build our model of reality. (While these are fairly well-known concepts, I have included Deep Dives into each other these ideas further down for completeness.)
 * Typically, the above methods will result in a formula or algorithm or a crisply defined model. But sometimes, a phenomenon may be too nebulous or foggy to be captured in this manner. In such cases, statistical models or heuristics or approximations or practices based on tacit or embodied knowledge that are backed by evidence can be used. Typically, such methods fall under the field of **Engineering**.
 * More broadly, we need to acknowledge that methods of rationality have some limits when using our relatively limited intellectual capacity to deal with something as complex as reality. So, we need to introduce the ideas of **Satisficing, Heuristics** and **Mindfulness** into the mix. We are calling this version of rationality as **Mindful Bounded Rationality**.
-* Moreover, as progress in the areas of science and engineering continues, it will **continue to improve** our conceptualizations of reality, including the definitions of meaning, purpose and hope that we come up with. In other words, none of this is frozen in time. We must also always try to remain open-minded, humble, and honest, and accept the fact that we don’t know everything.&#x20;
+* Moreover, as progress in the areas of science and engineering continues, it will **continue to improve** our conceptualizations of reality, including the definitions of meaning, purpose and hope that we come up with. In other words, none of this is frozen in time. We must also always try to remain open-minded, humble, and honest, and accept the fact that we don’t know everything.
 
 Given our honesty in accepting that we do not know everything, we need to address the next logical question:
 
@@ -356,29 +352,23 @@ Given our honesty in accepting that we do not know everything, we need to addres
 * See if our lack of knowledge is because of some mental block or cultural baggage. If so, challenge such preconceived notions and see if better explanations can be found. (This is basically what we are doing when we ask whether meaning and purpose can be defined without invoking a supernatural power.)
 * Keep hacking at the phenomena using the methodology mentioned above to incrementally understand and explain it over time.
 
-
-
 As we have already noted, the above methodology closely resembles that of science and engineering. But I think we need to take a little deeper dive into engineering because I think there are many misunderstandings about it.
 
 ## Engineering
 
-You may have noticed that I keep mentioning engineering in the same breath whenever I talk about science.&#x20;
+You may have noticed that I keep mentioning engineering in the same breath whenever I talk about science.
 
-This is very much intentional. There are some interesting and critical differences between science and engineering.&#x20;
+This is very much intentional. There are some interesting and critical differences between science and engineering.
 
 The most obvious may be that the methodology of Mindful Bounded Rationality is actually closer to engineering than to science. One can say Mindful Bounded Rationality has the same relationship to engineering that pure rationality has to science.
 
 But this idea goes a lot deeper than that.
 
-We usually think of Engineering as the application of science and math to some real-world problem. For example, Wikipedia defines Engineering as follows:&#x20;
+We usually think of Engineering as the application of science and math to some real-world problem. For example, Wikipedia defines Engineering as follows:
 
-
-
-> _"Engineering is the practice of using natural science, mathematics, and the engineering design process to solve technical problems, increase efficiency and productivity, and improve systems._&#x20;
+> _"Engineering is the practice of using natural science, mathematics, and the engineering design process to solve technical problems, increase efficiency and productivity, and improve systems._
 >
 > **― Wikipedia**
-
-
 
 This way of defining engineering makes us believe that science and math were developed first and then engineering was developed as their application. But I beg to differ.
 
@@ -388,17 +378,17 @@ Don't these activities involve building or fixing complex structures in a method
 
 What's interesting here is that neither honeybees nor spiders nor birds nor even the living cells in our bodies have any explicit or formal understanding of science or math. One could say that they have embodied or tacit knowledge of them, which they have acquired through the trial and error method of evolution, but none of that knowledge is in any form that we can recognize as an explicit scientific formula or model.
 
-On the other hand, in spite of this seeming lack of understanding of science or math, all of these entities are able to deal with complex, nebulous and even unknown aspects of reality, which science and math struggle with!&#x20;
+On the other hand, in spite of this seeming lack of understanding of science or math, all of these entities are able to deal with complex, nebulous and even unknown aspects of reality, which science and math struggle with!
 
 In general, we can say that all living creatures effectively deal with many complex, nebulous and unknown aspects of reality that we have not managed to capture using math or science. They do this using what we typically call embodied or tacit knowledge or practices.
 
 My contention is that all of this falls under the discipline of engineering and uses the methodology of Mindful Bounded Rationality.
 
-I think that engineering, seen in this light, is a much broader and older discipline than what we have typically believed it to be.&#x20;
+I think that engineering, seen in this light, is a much broader and older discipline than what we have typically believed it to be.
 
 One could even say that engineering is the primary activity all living creatures engage in. And, only for intelligent creatures like ourselves, science and math emerge as secondary activities that aid and formalize (and eventually improve) parts of various engineering methods and practices, instead of the other way round.
 
-An engineer’s ultimate responsibility isn’t to discover scientific explanations or mathematical basis for phenomena but to solve a real problem in the world in a methodical way. And many times, this has been achieved irrespective of whether the scientific or mathematical basis for the method used to solve the problem are known in advance.&#x20;
+An engineer’s ultimate responsibility isn’t to discover scientific explanations or mathematical basis for phenomena but to solve a real problem in the world in a methodical way. And many times, this has been achieved irrespective of whether the scientific or mathematical basis for the method used to solve the problem are known in advance.
 
 Of course, such explanations or basis can come later and may help improve the engineering method in turn, but it is not essential to the activity itself.
 
@@ -412,15 +402,11 @@ At the beginning of the chapter, I included the meme about The Martian. Let me e
 
 In that movie, Matt Damon's character finds himself stranded on Mars, alone and without any hope of being rescued anytime soon. He only has a few days' worth of rations, and more importantly, oxygen, left.
 
-So, what does he do? In his words that have achieved meme status,&#x20;
+So, what does he do? In his words that have achieved meme status,
 
-
-
-> _"In the face of overwhelming odds, I am left with only one option: I'm going to have to science the sh\*t out of this!"_&#x20;
+> _"In the face of overwhelming odds, I am left with only one option: I'm going to have to science the sh\*t out of this!"_
 >
 > **― Matt Damon, American actor, in "The Martian"**
-
-
 
 He then proceeds to calculate how to make his rations last longer, how to grow his own food, and even make his own oxygen! Eventually he figures out how to take off using a broken rocket.
 
@@ -428,7 +414,7 @@ What is not obvious to a lot of people is that he isn't really "science-ing" the
 
 While there is certainly a good amount of science involved in what he does, most of his activities actually fall into the domain of engineering: Quickly and constantly assessing his overall situation, determining his constraints and requirements, figuring out and scheduling the critical path to survival, conducting field experiments when necessary, many of which fail and have to be redesigned. Not aim for the luxury of perfection, but for the reality of "satisficing". Not discovering new concepts, but applying existing concepts and making them work in the messy and unpredictable world, to build something useful.
 
-This is mostly engineering.&#x20;
+This is mostly engineering.
 
 Of course there is an overlap, but if you had to distinguish the science part from the engineering part, you would say that it is mostly engineering.
 
@@ -438,7 +424,7 @@ I suppose this is another somewhat radical thought, so I should address one of t
 
 ## Doesn't This Sound Like a Compromise Though?
 
-In some ways, Mindful Bounded Rationality feels like a compromise.&#x20;
+In some ways, Mindful Bounded Rationality feels like a compromise.
 
 We have been led to believe that we need a perfect understanding of reality before we can undertake any deep analysis of it. This is what has led people to always come back to some supernatural power.
 
@@ -446,7 +432,7 @@ Even scientists and mathematicians have made leaps of faith in order to feel lik
 
 Well, the cells in your body did not need to hypothesize a supernatural power in order to evolve their method of functioning. They still managed to evolve to do some amazing work, while dealing with the complex and nebulous and largely unknown reality they find themselves in.
 
-That doesn't sound like a compromise to me. It sounds more like honestly dealing with what one has to do within the constraints, and do something glorious at that!&#x20;
+That doesn't sound like a compromise to me. It sounds more like honestly dealing with what one has to do within the constraints, and do something glorious at that!
 
 Isn’t that so much better than simply taking leaps of faith or someone’s overconfident proclamations as the truth?
 
@@ -454,19 +440,13 @@ Still, if anyone wants to keep their faith in some supernatural power, that shou
 
 All I am saying is that I prefer my approach. Here is an interesting quote from Laplace, a well-known French scholar from the 18th century, that is highly instructive in this regard:
 
-
-
 > _When Napoleon asked Laplace why he had not mentioned the creator in his book on the system of the universe, Laplace said:_
 >
 > _“Sire, I had no need of that hypothesis.”_
 >
 > **― Quoted by A De Morgan in “Budget of Paradoxes”.**
 
-
-
 In a similar manner, I am also claiming that we do not need to hypothesize a magical source of truth and perfect knowledge in order to reach our goal of finding meaning, purpose and hope in our lives.
-
-
 
 That concludes the discussion on the methodology that we will use to build the MSE Framework.
 
@@ -474,11 +454,7 @@ As you would expect for any framework based on First Principles Thinking, we nee
 
 But before we do that, here are some deep dives into some of the concepts mentioned in this chapter. Most of this should be pretty familiar to readers who have a STEM background, so feel free to quickly skim over them if so.
 
-
-
 ***
-
-
 
 ## Deep Dive: First Principles Thinking
 
@@ -496,9 +472,7 @@ This is known as Thinking from First Principles.
 
 This idea has actually been around since Aristotle, and various famous people have been associated with it, including Richard Feynman, Charlie Munger and Elon Musk.
 
-Needless to say, for the MSE Framework, we are taking a First Principles approach because we want to solve the crisis created by the existing solutions. It is conventional wisdom that has brought us here so we don't want to rely on it.  We want to start from scratch and rethink the problem of meaning, purpose and hope, and see if we can end up with a better approach to solving it.
-
-
+Needless to say, for the MSE Framework, we are taking a First Principles approach because we want to solve the crisis created by the existing solutions. It is conventional wisdom that has brought us here so we don't want to rely on it. We want to start from scratch and rethink the problem of meaning, purpose and hope, and see if we can end up with a better approach to solving it.
 
 ## Deep Dive: Explanations
 
@@ -512,8 +486,6 @@ In his view, explanations are not just descriptions of phenomena but are also pr
 
 He also says that there is no limit to the explanatory power of human knowledge, meaning that we can always strive to create better explanations of the world around us. What is important is the process of seeking and refining our explanations of reality through a rigorous and iterative process of testing, refining, and updating our understanding of the world.
 
-
-
 ## Deep Dive: Bayesian Inference
 
 Bayesian Inference is one of the most fundamental methods for building a model robust of reality. One of the leading theories about how our brains function is based on this idea and is actually known as the Bayesian Brain Hypothesis.
@@ -526,15 +498,11 @@ For example, when it repeatedly drops some toy on the floor in spite of you repe
 
 All of us have been through this process and we continue it throughout our lives to learn about new things in our environment.
 
-This is nothing but Bayesian Inference.&#x20;
+This is nothing but Bayesian Inference.
 
-Let us look at a diagram to understand this process a bit more formally.&#x20;
-
-
+Let us look at a diagram to understand this process a bit more formally.
 
 <figure><img src=".gitbook/assets/Baysian Inference.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 * Step 1 (Initial Model): There is a model of reality inside your brain. One of the things that the model contains is the probability or likelihood of occurrence of some event.
   * For example, suppose you wake up on a beautiful summer morning and wonder if it is going to be sunny today. You know that it is the middle of summer so there is a high probability that the day is in fact going to be sunny. This is known as your “prior”.
@@ -551,17 +519,11 @@ In our example, you might suddenly remember that the president is coming to visi
 
 A lot of our learning is basically a result of repeated application of this process and each time, we are likely to be improving our model of our reality.
 
-
-
 ## Deep Dive: The Scientific Method
-
-
 
 <figure><img src=".gitbook/assets/Scientific Method.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-As shown in the picture, the scientific method consists of making observations, creating a hypothesis based on those observations, and conducting experiments to see if the hypothesis proves to be correct or not.&#x20;
+As shown in the picture, the scientific method consists of making observations, creating a hypothesis based on those observations, and conducting experiments to see if the hypothesis proves to be correct or not.
 
 If it is proven to be correct, then the hypothesis becomes a scientific fact or model. If not, then the results of the experiments are analyzed and may lead to further questions or insights and then you go through the whole cycle again.
 
@@ -581,8 +543,6 @@ Science is authoritative because, it is impossible to defy it, in the areas wher
 
 And science also provides a different type of certainty because its methods are future proof. While the body of science as a whole may evolve as we collect more and more evidence, the underlying scientific method we rely on to process that evidence and improve our models will continue to be trustworthy.
 
-
-
 ## Deep Dive: Introspection
 
 Many subjective experiences are self-evident to ourselves. We can honestly say that they are occurring, but the inner world of our minds is mostly opaque to anyone other than ourselves, so there is really no way to prove to someone else anything about any of the phenomena we may be experiencing inside our minds.
@@ -599,8 +559,6 @@ It goes without saying that the existence of consciousness is pretty much univer
 
 Of course, if an objective explanation for consciousness is found down the road, we will adjust our models accordingly.
 
-
-
 ## Deep Dive: Pattern and Nebulosity
 
 David Chapman, a computer scientist and Buddhist scholar, has written two phenomenal books, "In the Cells of the Eggplant" and "Meaningness". In these books, he talks extensively about the fact that reality seems to contain both pattern as well as nebulosity, and how that affects our ideas of rationalism and meaning.
@@ -611,15 +569,13 @@ For example, in Physics we learn about various particles, their properties, forc
 
 But, at the same time, we also have ample evidence that many aspects of reality do not seem to be so easy to capture in terms of formulas. They are too nebulous or inherently indeterminate, fluid, and ambiguous.
 
-Once again, Physics itself tells us that, at the bottom of it all, we have quantum fields that are inherently nebulous. We also have the Heisenberg Uncertainty Principle that tells us that there is a hard limit on how accurately we can measure the position and momentum of a particle at the same time. &#x20;
+Once again, Physics itself tells us that, at the bottom of it all, we have quantum fields that are inherently nebulous. We also have the Heisenberg Uncertainty Principle that tells us that there is a hard limit on how accurately we can measure the position and momentum of a particle at the same time.
 
 Even above the level of quantum fields and particles, we have such complex interactions among the unimaginably large number of particles of various types, that it would be practically impossible to compute their exact future properties even after a very short time interval into the future.
 
 At an even higher level, Chapman gives a great example of a cloud. No matter which physical or chemical properties you consider, trying to exactly describe a cloud is impossible. It is inherently nebulous. And we deal with many such concepts on a regular basis.
 
 Chapman argues that pure Rationalism tends to overemphasize the patterned aspects of reality while ignoring the nebulous ones. As a result, while we should not abandon Rationalism, we definitely need to look beyond it to understand or deal with reality.
-
-
 
 ## Deep Dive: Gödel's Incompleteness Theorem <a href="#deep-dive-godels-incompleteness-theorem" id="deep-dive-godels-incompleteness-theorem"></a>
 
@@ -634,7 +590,6 @@ The way the MSE Framework addresses this problem is as follows:
 3. We rely on axioms while building our model, which again means we are not claiming to build a complete model. We admit that we cannot peek behind the axioms.
 4. Moreover, we are not aiming to create a complete and final solution to our problem of defining meaning, purpose and hope either. We explicitly say that our methodology assumes that any solution we come up with, while it will be good enough to solve the problem in the best way possible currently, would still remain open to learning and modification in the future.
 
-Sometimes, the people who bring up Gödel’s Theorem and limits of rationality in general want you to just give up on rationality and take leaps of faith with them or rely on someone’s opinion.&#x20;
+Sometimes, the people who bring up Gödel’s Theorem and limits of rationality in general want you to just give up on rationality and take leaps of faith with them or rely on someone’s opinion.
 
 But, even if one admits all these limits to rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
-
