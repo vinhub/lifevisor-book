@@ -34,9 +34,11 @@ _"the greatest white pill of all is that local minima are rare in high dimension
 
 **— Roon, AI researcher, in a Tweet**
 
+
+
 ***
 
-## &#x20;<a href="#afg7uq9nn2z0" id="afg7uq9nn2z0"></a>
+
 
 
 

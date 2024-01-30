@@ -44,9 +44,11 @@ _Would you capture it or just let it slip?”_
 
 ***
 
-## &#x20;<a href="#w8hg0mcetofw" id="w8hg0mcetofw"></a>
 
-## &#x20;<a href="#w8hg0mcetofw" id="w8hg0mcetofw"></a>
+
+
+
+
 
 ## What Would You Do if You Had Only 5 Years to Live? <a href="#w8hg0mcetofw" id="w8hg0mcetofw"></a>
 

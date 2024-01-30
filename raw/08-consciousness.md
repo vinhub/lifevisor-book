@@ -14,11 +14,7 @@ layout:
 
 # 8. Consciousness: A Way for the Cosmos to Know Itself
 
-
-
 <figure><img src=".gitbook/assets/sleepy cat.jpg" alt="" width="450"><figcaption><p>Not quite what I have in mind here, but it looked cute</p></figcaption></figure>
-
-
 
 ***
 
@@ -38,9 +34,9 @@ _“The universe contains infinitely more beauty than humans can ever appreciate
 
 ***
 
-### &#x20;<a href="#id-1wsinubt5s2g" id="id-1wsinubt5s2g"></a>
 
-### &#x20;<a href="#eb3xkkrwt4wx" id="eb3xkkrwt4wx"></a>
+
+
 
 
 
@@ -52,13 +48,13 @@ We say “my body”. Or even “my mind”. So, the next question that arises i
 
 And we have given this “me” a name, “Consciousness”.
 
-Over the millennia, the word has taken on many different meanings.&#x20;
+Over the millennia, the word has taken on many different meanings.
 
 To start with, there is the meaning we started with, "what it is like to be you". This is also known as "phenomenal experience".
 
-But colloquially, it can refer to the cat's version in the meme up there i.e. being awake (vs sleeping), being aware of what's going on (vs being unconscious), having a certain amount of activity in certain brain regions (vs being dead) and so on.&#x20;
+But colloquially, it can refer to the cat's version in the meme up there i.e. being awake (vs sleeping), being aware of what's going on (vs being unconscious), having a certain amount of activity in certain brain regions (vs being dead) and so on.
 
-Having all these meanings makes any debates about consciousness highly problematic. One has to first establish what exactly they are talking about.&#x20;
+Having all these meanings makes any debates about consciousness highly problematic. One has to first establish what exactly they are talking about.
 
 For the purposes of this book, where we are trying to establish the "stack" of concepts that lead us to meaning, purpose and hope, there seem to be at least 3 meanings that could be interesting. Let us take a quick look at them:
 
@@ -66,21 +62,17 @@ For the purposes of this book, where we are trying to establish the "stack" of c
 
 This is the “me” or "what it is like to be you" mentioned at the beginning of the chapter.
 
-This type of consciousness is self-evident to all of us but we cannot prove its existence to anyone but ourselves because it is purely subjective.&#x20;
+This type of consciousness is self-evident to all of us but we cannot prove its existence to anyone but ourselves because it is purely subjective.
 
 This makes it really hard to study this phenomena scientifically. That’s why we call it “hard”.
 
 The "hard" reference comes from Australian philosopher and cognitive scientist David Chalmers' characterization of the "Hard Problem of Consciousness" which goes as follows:
 
-
-
 > _"The hard problem of consciousness is the problem of explaining why any physical state is conscious rather than nonconscious. It is the problem of explaining why there is “something it is like” for a subject in conscious experience, why conscious mental states “light up” and directly appear to the subject."_
 >
 > **― Internet Encyclopedia of Philosophy**
 
-
-
-As an aside, the logical explanation for why we believe other human beings are conscious in spite of being unable to prove this fact is because we share a ton of other attributes, so we logically conclude that consciousness must be one of them.&#x20;
+As an aside, the logical explanation for why we believe other human beings are conscious in spite of being unable to prove this fact is because we share a ton of other attributes, so we logically conclude that consciousness must be one of them.
 
 In other words, if I am capable of walking, talking, thinking and being conscious like a typical human being, and you are also capable of walking, talking and thinking and looking like a typical human being, then you are very likely conscious too.
 
@@ -120,7 +112,7 @@ The way I have chosen to resolve this problem for the MSE Framework is to treat 
 
 This might sound a little surprising or improper to some, so allow me to explain a bit more.
 
-The truth is, what we call “physical reality” is also something fundamental and self-evident that we take for granted. Everyone agrees that it exists, but it is also just a subjective experience.&#x20;
+The truth is, what we call “physical reality” is also something fundamental and self-evident that we take for granted. Everyone agrees that it exists, but it is also just a subjective experience.
 
 If you think about it, we don’t really have a good definition of what “physical” even means. Whatever we think it is, is simply something we all intuitively agree upon without any further basis.
 
@@ -164,8 +156,6 @@ The point I am trying to make is that, irrespective of our inability to identify
 
 You have probably guessed what I am going to say next: Yes, we can absolutely think of consciousness as another universal tendency. So, let us add it to our list.
 
-
-
 ***
 
 #### _<mark style="color:green;">**Universal Tendency #8: Consciousness**</mark>_
@@ -173,8 +163,6 @@ You have probably guessed what I am going to say next: Yes, we can absolutely th
 _<mark style="color:green;">The universe appears to have a natural tendency for creating entities that display consciousness to various degrees.</mark>_
 
 ***
-
-
 
 Also, let us note that consciousness itself demonstrates all of the other universal tendencies that we have identified, namely Coherence, Complexity, Continuity, Curiosity, Creativity and possibly even Evolution. Let us just keep that in mind for now, we will use it later on.
 
@@ -186,19 +174,19 @@ They could be a result of experiencing to (or creating) great music, great art, 
 
 Many people would even say that such experiences are really meaningful to them.
 
-Such intense conscious experiences are certainly a part of what we call having meaning in one's life. (As  we will soon see, there is a lot more to meaning than that, but let us set that aside for now).
+Such intense conscious experiences are certainly a part of what we call having meaning in one's life. (As we will soon see, there is a lot more to meaning than that, but let us set that aside for now).
 
 What it also does is that it gives us a clue for where we think our desire for meaning comes from, not to mention where the experience of having meaning occurs.
 
-The answer is consciousness, the source of our desire for and the location of the experience of not just meaning, but also purpose and hope.&#x20;
+The answer is consciousness, the source of our desire for and the location of the experience of not just meaning, but also purpose and hope.
 
-All of these observations give us hints for where consciousness belongs in the MSE Framework.&#x20;
+All of these observations give us hints for where consciousness belongs in the MSE Framework.
 
 Let us take a slightly deeper look at this phenomenon to figure out how exactly consciousness fits into the framework.
 
-We have seen that our physical desires, such as those for nutrition, comfort, safety etc. arise in our physical body as a result of it performing Active Inference in order to survive.&#x20;
+We have seen that our physical desires, such as those for nutrition, comfort, safety etc. arise in our physical body as a result of it performing Active Inference in order to survive.
 
-But while these desires arise from our physiology (i.e. Physical Reality in our framework diagram),  some other desires, such as those for meaning, purpose and hope in one’s life, appear to be arising out of the other side of the diagram, i.e. our Consciousness.
+But while these desires arise from our physiology (i.e. Physical Reality in our framework diagram), some other desires, such as those for meaning, purpose and hope in one’s life, appear to be arising out of the other side of the diagram, i.e. our Consciousness.
 
 One reason for saying that they arise out of consciousness is that the sense of meaning, purpose and hope have no counterpart in physical reality. So, unless one believes in a supernatural power that gives rise to these desires, the only other place they could be coming from is our consciousness.
 
@@ -236,8 +224,6 @@ Coming back to desires, note that my body cares about physical desires such as h
 
 So let me state the hypothesis a little more formally.
 
-
-
 ***
 
 #### _<mark style="color:green;">**Hypothesis: The Origin of Desires**</mark>_
@@ -247,8 +233,6 @@ _<mark style="color:green;">Desires arise in Living Entities as a result of them
 _<mark style="color:green;">Also, physical desires arise out of the physical process of Active Inference, and conscious ones out of the conscious one.</mark>_
 
 ***
-
-
 
 This hypothesis, which looks quite reasonable, though it is currently unproven, lends additional support to the idea that the desire for meaning, purpose and hope arises in consciousness via the Active Inference process.
 
@@ -282,21 +266,15 @@ While I have no evidence to support this besides my own introspection, I am hopi
 
 As I mentioned, this idea is a rich vein and we will look at another idea that emerges out of it in the next chapter.
 
+Ok, after that bit of diversion, let us get back on track to consciousness and desires.
 
-
-Ok, after that bit of diversion, let us get back on track to consciousness and desires.&#x20;
-
-Suffices to say that, unlike many other scientific frameworks that try to avoid talking about consciousness, the MSE Framework treats it as a critical part of its foundation, as the source of our desires for meaning, purpose and hope.&#x20;
+Suffices to say that, unlike many other scientific frameworks that try to avoid talking about consciousness, the MSE Framework treats it as a critical part of its foundation, as the source of our desires for meaning, purpose and hope.
 
 Satisfying these desires helps us improve our mental and physical wellbeing, which is ultimately why we consider it so critical for the framework.
 
 With that, we have now built all the scaffolding we need to finally get to where we have been trying to get to, Meaning. We will do that in the next chapter.
 
-
-
 ***
-
-
 
 ## Deep Dive: The “Easy” Problem of Consciousness
 
@@ -316,21 +294,17 @@ It is worth noting that the Easy Problem of Consciousness remains a complex and 
 
 Nevertheless, the problem is considered to be "Easy" because it appears to be easier than the Hard problem, about which we are far more uncertain.
 
-
-
 ## Deep Dive: Integrated Information Theory
 
 The Integrated Information Theory (IIT) is a theory proposed by neuroscientist and professor Giulio Tononi that attempts to explain and characterize the Hard Problem of Consciousness.
 
 According to this theory, a conscious experience is characterized by a high degree of integrated information, meaning that the conscious system must be able to generate a large number of highly differentiated and irreducible states that cannot be decomposed into simpler components.
 
-The theory also proposes that consciousness exists on a spectrum, with different levels of consciousness corresponding to different degrees of integrated information.&#x20;
+The theory also proposes that consciousness exists on a spectrum, with different levels of consciousness corresponding to different degrees of integrated information.
 
 For example, a simple system like a thermostat may have very low levels of integrated information and therefore be considered unconscious, while a complex system like the human brain has a high degree of integrated information and can support rich, complex conscious experiences.
 
 This theory is still very controversial, and a satisfactory and comprehensive theory for the Hard Problem remains an ongoing challenge.
-
-
 
 ## Deep Dive: The Observer in Quantum Mechanics
 
@@ -342,7 +316,7 @@ But then, we don’t perceive anything like that when we observe reality. What w
 
 In order to explain this paradox, physicists came up with the Copenhagen Interpretation of quantum mechanics, which proposed the idea of “wave function collapse”.
 
-The idea here is that the universe behaves as a quantum wave function when observations aren’t being made. But as soon as an observation is made, the wave function “collapses”, i.e., we don’t perceive probability distributions, we perceive definite outcomes.&#x20;
+The idea here is that the universe behaves as a quantum wave function when observations aren’t being made. But as soon as an observation is made, the wave function “collapses”, i.e., we don’t perceive probability distributions, we perceive definite outcomes.
 
 An equation known as the Schrödinger Equation has been extremely successful at allowing scientists to calculate the results of the wave function collapse, so we have strong evidence of this theory.
 
@@ -351,8 +325,6 @@ At the same time, the idea that an observation causes the collapse has caused a 
 Physicists have generally shied away from venturing too far in this direction, but the idea is still quite popular. For now, physicists are content with simply doing the calculations, leaving the idea of the observer to speculators.
 
 Still, Stephen Wolfram has proposed an intriguing possibility, mentioned below.
-
-
 
 ## Deep Dive: Stephen Wolfram’s Conceptualization of the Observer in Quantum Theory
 
@@ -371,4 +343,3 @@ According to him, the only way for an entity such as ourselves which is embedded
 This “collapse” is exactly what the Copenhagen Interpretation of quantum mechanics demands. And it is corroborated by the fact that whenever we make an observation, we always see concrete things happening, though we can also infer the existence of the quantum fields.
 
 Of course, this is still a hypothesis and is actively being worked on.
-

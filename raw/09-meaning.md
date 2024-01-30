@@ -33,17 +33,19 @@ _“Human being is meaning making. For the human, what evolving amounts to is th
 
 **- Robert Kegan, American developmental psychologist, in "The Personnel and Guidance Journal"**
 
+
+
 ***
 
-## &#x20;<a href="#okcdz6jppf9i" id="okcdz6jppf9i"></a>
 
 
 
 
 
-## The Importance of Meaning <a href="#okcdz6jppf9i" id="okcdz6jppf9i"></a>
 
-Let us start with a quick introduction to Viktor Frankl and his seminal book, “Man’s Search for Meaning”. It was this book that brought wide awareness to the idea that meaning is important for human beings.
+## Man's Search for Meaning <a href="#okcdz6jppf9i" id="okcdz6jppf9i"></a>
+
+Let us start with a quick introduction to Viktor Frankl and his seminal book, “Man’s Search for Meaning”. His book is credited with raising awareness of the idea that finding meaning in our lives was critical for human beings.
 
 Frankl was an Austrian psychiatrist and a Holocaust survivor during the second world war. He spent about 3 years in various concentration camps, where he witnessed as well as personally endured horrendous suffering and saw how various people dealt with it.
 
