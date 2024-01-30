@@ -14,7 +14,7 @@ layout:
 
 # An Engineer’s Search for Meaning
 
-## Building a Framework for Finding Meaning, Purpose and Hope in Our Lives, Based on Evidence and Reason Alone <a href="#pnklhsh25rlz" id="pnklhsh25rlz"></a>
+## A Principled, Evidence-Based Approach for Finding Meaning, Purpose and Hope in Life
 
 _Beta release, ©Vinayak (Vin) Bhalerao, 2023_
 
