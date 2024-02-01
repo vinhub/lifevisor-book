@@ -40,6 +40,12 @@ _“Science can amuse and fascinate us all, but it is engineering that changes t
 
 ***
 
+
+
+
+
+
+
 In this chapter, we are going to look at the methodology we will use to build the MSE Framework.
 
 Let us start from the beginning. Your beginning.
@@ -188,7 +194,7 @@ This type of analysis is exactly what our insistence on rationality and Thinking
 
 Still, an honest application of rationality itself requires that we recognize its limits, and come up with rational ways of dealing with them.
 
-## Limits to Rationality <a href="#wxq23tip4xsn" id="wxq23tip4xsn"></a>
+## Limits of Rationality <a href="#wxq23tip4xsn" id="wxq23tip4xsn"></a>
 
 First off, as I have already acknowledged in the previous chapter, this endeavor of trying to find meaning, purpose and hope using rationality alone is incredibly audacious and we need to avoid any appearance of naiveté or hubris while tackling it.
 
@@ -284,7 +290,7 @@ But since reality contains a lot of nebulosity, unpredictability as well as unkn
 
 ### B) Acknowledgement of the Complexity of Reality and Our Cognitive Limitations: <a href="#bm74if65ohol" id="bm74if65ohol"></a>
 
-We acknowledge that reality is extremely complex and our ability to deal with it is limited due to limits to our cognitive ability. Even when we discover patterns in reality, we may not be able to meaningfully extrapolate them to far beyond a certain point. We may be able to say a few high-level things, but the details will be meaningless.
+We acknowledge that reality is extremely complex and our ability to deal with it is limited due to the limitations of our cognitive ability. Even when we discover patterns in reality, we may not be able to meaningfully extrapolate them to far beyond a certain point. We may be able to say a few high-level things, but the details will be meaningless.
 
 In many cases, we may also be constrained by time or resources.
 
@@ -592,4 +598,4 @@ The way the MSE Framework addresses this problem is as follows:
 
 Sometimes, the people who bring up Gödel’s Theorem and limits of rationality in general want you to just give up on rationality and take leaps of faith with them or rely on someone’s opinion.
 
-But, even if one admits all these limits to rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
+But, even if one admits all these limits of rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
