@@ -63,35 +63,35 @@ Since the dawn of time, in every corner of the world, scores of human beings hav
 * What can I be hopeful about?
 * How can I live a good life?
 
-Now, if you go down the street and ask a random person whether they ever think about such fundamental questions of life, the universe and everything, most will likely say that they rarely do so. (Provided they don't look at you like you were crazy and cross the street first!)
+Now, if you go down the street and ask a random person whether they ever think about such fundamental questions of "life, the universe and everything", most will likely say that they rarely do so. (Provided they don't look at you like you were crazy and cross the street first!)
 
-Maybe a huge number of people go through even their entire lives without ever asking these questions.
+It is possible that many people go through their entire lives without ever asking these questions. Some would even say it is a waste of time.
 
-That's probably true. (I would even say it is a privilege to be able to ask such questions and think about them to any level of depth.)
+One could certainly say that it is a luxury to be able to ask such questions.&#x20;
 
-But the reason why most people are able to get through their lives without having to ask these questions on a regular basis is exactly because various thinkers, holy men, lawmakers, scientists and opinion makers from the past have already done this thinking for them. Over time, their answers have been turned into structures, practices, laws, rituals, technologies and techniques based on that, which hide all this complexity from the person in the street.
+But the reason why most people are able to get through their lives without having to ask these questions on a regular basis is exactly because various thinkers, holy men / women, lawmakers, scientists and opinion makers from the past have already done this thinking for them. Over time, their answers have been turned into social structures, practices, laws, rituals, technologies and techniques which hide all this complexity from the person in the street.
 
-We could even say that most of the progress humanity has made over the millennia has been, in large part, due to such people relentlessly asking and answering these questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
+We could even say that most of the progress humanity has made over the millennia has been, in large part, due to such thinkers relentlessly asking and answering these questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
 
 Another way of saying the same thing is that these questions and answers form the operating system of society, on top of which many apps have been built.
 
-It's true that most people want to simply use the apps to get their stuff done. Very few want to get their hands dirty in the operating system or the hardware.
+And it's true that most people want to simply use the apps to get their stuff done. Very few want to get their hands dirty in the operating system or the hardware.
 
-That's an engineer's job!&#x20;
+But that's an engineer's job, isn't it?&#x20;
 
 Engineers don't want to just use the apps. We want to know the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how to develop new ones, and so on.
 
-Note that here, by "engineer", I don't necessarily mean just those who went to engineering school or those who have it as their job title. I mean anyone who thinks like an engineer - someone who wants to understand how things work and how they could be improved. So the definition includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and so on.
+Note that here, by "engineer", I don't necessarily mean just those who went to engineering school or those who have it as their job title. I mean anyone who thinks like an engineer - someone who wants to understand how things work and how they could be improved. So the definition includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and so on. Anyone with a STEM-based education or a fact-based profession or just likes to tinker with reality.
 
 In other words, those who don't just use the apps, but want to know how and why they work the way they do. And build new apps or even a whole new operating system, if necessary.
 
-But I am getting ahead of myself. We will get back to talking about the special role of engineers soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
+But I am getting ahead of myself. We will get back to talking about the special role of engineers whne it comes to things like meaning, purpose and hope in life soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
 
-Let us get back to the real world of regular people, most of whom aren't engineers.
+For now, let us get back to the real world of regular people, most of whom aren't engineers.
 
-Even for a typical person in the street, while they may not ask the deep questions of existence on a regular basis, it is not uncommon to run into such questions at certain critical times in their lives, either explicitly or implicitly.
+Even a typical person in the street, while they may not ask the deep questions of existence on a regular basis, may face certain critical points in their lives where they run into them.
 
-Most people do face such questions when they have profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or when breaking up with someone or losing their job and so on. Or when they face major life decisions, such as choosing a career path or choosing a life partner or deciding to relocate, and so on.
+Most people do face such questions, either explicitly or implicitly, when they have profound life experiences, such as births or deaths in the family or when diagnosed with a serious disease or when they break up with someone or lose their job etc. Or when they face major life decisions, such as choosing a career path or a life partner or a new place to live, and so on.
 
 And of course, as we have already seen, when going through midlife crises!
 
