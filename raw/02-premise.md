@@ -34,6 +34,8 @@ _"If you are in a shipwreck and all the boats are gone, a piano top buoyant enou
 
 **― Buckminster Fuller, American architect and systems theorist, in "Operating Manual for Spaceship Earth"**
 
+
+
 ***
 
 
@@ -61,25 +63,33 @@ Since the dawn of time, in every corner of the world, scores of human beings hav
 * What can I be hopeful about?
 * How can I live a good life?
 
-Now, if you go down to the street and ask a random person, they will very likely say that these questions are absolutely not at the top of their minds. Maybe a significant percentage of people will even go through their entire life without ever asking these questions.
+Now, if you go down the street and ask a random person whether they think about such fundamental questions of life, the universe and everything, most will say that they rarely do so. (Provided they don't look at you like you were crazy and cross the street first.)
 
-That may be so. Most of us do go through our daily lives without really thinking about these things. Maybe even for years at a stretch.
+Maybe a huge number of people even go through their entire lives without ever asking these questions.
 
-But it is also true that many of us do ask such questions, either explicitly or implicitly, particularly when we run into profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or breaking up with someone and so on. Or when we face major life decisions, such as choosing a career path or a life partner or choosing to quit your job and go out on your own.
+That's probably true.
 
-And of course, during midlife crises.
-
-But it's not just that. There's an even better reason.
-
-If you look a little under the surface of our society, how it is structured, what principles it is based on, what has shaped its history, culture, laws, language, rituals and so on, you will find that these questions have played a central role in them.
-
-In fact, the reason why most people are able to get through their lives without having to ask these questions regularly is very likely because various thinkers and lawmakers and opinion shapers (or influencers, as we call them these days) have already done this thinking for them, and have created structures, practices, laws, rituals, technologies and techniques based on that, which hide all this complexity from the person in the street.
+But the reason why most people are able to get through their lives without having to ask these questions on a regular basis is exactly because various thinkers, lawmakers, scientists and opinion makers from the past have already done this thinking for them. Their answers have been turned into structures, practices, laws, rituals, technologies and techniques based on that, which hide all this complexity from the person in the street.
 
 We could even say that most of the progress humanity has made over the millennia has been, in large part, due to some people relentlessly asking and answering such questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
 
-Another way of saying the same thing is that these questions form the operating system of society.
+Another way of saying the same thing is that these questions and answers form the operating system of society.
 
-To summarize, while these questions look rather obscure, they have been extremely important and influential throughout history.
+It's true, most people want to simply use the apps and get their stuff done. Very few want to get their hands dirty in the operating system.&#x20;
+
+That's an engineer's job!&#x20;
+
+Engineers don't want to just use the apps. We want to know the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how we can create new ones, and so on.
+
+But I am getting ahead of myself. We will get back to talking about engineering soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
+
+But even for non-engineers, while they may not ask the deep questions of existence on a regular basis, it is not uncommon to find themselves doing so at certain times in their lives, either explicitly or implicitly.
+
+Most people do run into such questions when they run into profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or breaking up with someone and so on. Or when they face major life decisions, such as choosing a career path or choosing a life partner or quitting one's job to become an entrepreneur etc.
+
+And of course, as we have already seen, during midlife crises!
+
+To summarize, while these questions look rather obscure, they have been extremely important and influential throughout history, at the societal level as well as the individual level.
 
 Needless to say, plenty of literature is devoted to them. As a result, all I should have needed to do to find satisfying answers to these questions of meaning, purpose and hope was to simply go to the library (i.e., Google and Wikipedia) and spend a few months reading.
 
