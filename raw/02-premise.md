@@ -63,31 +63,33 @@ Since the dawn of time, in every corner of the world, scores of human beings hav
 * What can I be hopeful about?
 * How can I live a good life?
 
-Now, if you go down the street and ask a random person whether they think about such fundamental questions of life, the universe and everything, most will say that they rarely do so. (Provided they don't look at you like you were crazy and cross the street first.)
+Now, if you go down the street and ask a random person whether they ever think about such fundamental questions of life, the universe and everything, most will likely say that they rarely do so. (Provided they don't look at you like you were crazy and cross the street first!)
 
-Maybe a huge number of people even go through their entire lives without ever asking these questions.
+Maybe a huge number of people go through even their entire lives without ever asking these questions.
 
-That's probably true.
+That's probably true. (I would even say it is a privilege to be able to ask such questions and think about them to any level of depth.)
 
-But the reason why most people are able to get through their lives without having to ask these questions on a regular basis is exactly because various thinkers, lawmakers, scientists and opinion makers from the past have already done this thinking for them. Their answers have been turned into structures, practices, laws, rituals, technologies and techniques based on that, which hide all this complexity from the person in the street.
+But the reason why most people are able to get through their lives without having to ask these questions on a regular basis is exactly because various thinkers, holy men, lawmakers, scientists and opinion makers from the past have already done this thinking for them. Over time, their answers have been turned into structures, practices, laws, rituals, technologies and techniques based on that, which hide all this complexity from the person in the street.
 
-We could even say that most of the progress humanity has made over the millennia has been, in large part, due to some people relentlessly asking and answering such questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
+We could even say that most of the progress humanity has made over the millennia has been, in large part, due to such people relentlessly asking and answering these questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
 
-Another way of saying the same thing is that these questions and answers form the operating system of society.
+Another way of saying the same thing is that these questions and answers form the operating system of society, on top of which many apps have been built.
 
-It's true, most people want to simply use the apps and get their stuff done. Very few want to get their hands dirty in the operating system.&#x20;
+It's true that most people want to simply use the apps to get their stuff done. Very few want to get their hands dirty in the operating system or the hardware.
 
 That's an engineer's job!&#x20;
 
-Engineers don't want to just use the apps. We want to know the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how we can create new ones, and so on.
+Engineers don't want to just use the apps. We want to know the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how to develop new ones, and so on.
 
-But I am getting ahead of myself. We will get back to talking about engineering soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
+But I am getting ahead of myself. We will get back to talking about the special role of engineers soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
 
-But even for non-engineers, while they may not ask the deep questions of existence on a regular basis, it is not uncommon to find themselves doing so at certain times in their lives, either explicitly or implicitly.
+Let us get back to the real world of regular people, most of whom aren't engineers.
 
-Most people do run into such questions when they run into profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or breaking up with someone and so on. Or when they face major life decisions, such as choosing a career path or choosing a life partner or quitting one's job to become an entrepreneur etc.
+Even for a typical person in the street, while they may not ask the deep questions of existence on a regular basis, it is not uncommon to run into such questions at certain critical times in their lives, either explicitly or implicitly.
 
-And of course, as we have already seen, during midlife crises!
+Most people do face such questions when they have profound life experiences, such as births or deaths in the family or when diagnosed with some serious disease or when breaking up with someone or losing their job and so on. Or when they face major life decisions, such as choosing a career path or choosing a life partner or deciding to relocate, and so on.
+
+And of course, as we have already seen, when going through midlife crises!
 
 To summarize, while these questions look rather obscure, they have been extremely important and influential throughout history, at the societal level as well as the individual level.
 
