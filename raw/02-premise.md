@@ -81,6 +81,10 @@ That's an engineer's job!&#x20;
 
 Engineers don't want to just use the apps. We want to know the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how to develop new ones, and so on.
 
+Note that here, by "engineer", I don't necessarily mean just those who went to engineering school or those who have it as their job title. I mean anyone who thinks like an engineer - someone who wants to understand how things work and how they could be improved. So the definition includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and so on.
+
+In other words, those who don't just use the apps, but want to know how and why they work the way they do. And build new apps or even a whole new operating system, if necessary.
+
 But I am getting ahead of myself. We will get back to talking about the special role of engineers soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
 
 Let us get back to the real world of regular people, most of whom aren't engineers.
