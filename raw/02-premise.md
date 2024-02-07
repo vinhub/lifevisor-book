@@ -65,11 +65,11 @@ Since the dawn of time, in every corner of the world, scores of human beings hav
 
 Now, if you go down the street and ask a random person whether they ever think about the fundamental questions of "life, the universe and everything", most will likely say that they rarely do. (That is if they don't look at you like you were crazy and cross the street first!)
 
-Many people probably go through their entire lives without ever thinking about these questions. Some would point to some book or some person. Some would even say it is a waste of time. Some would say it's a luxury they can't afford.
+Many people probably go through their entire lives without ever thinking about these questions. Some would point to some book or some person. Some would say it's a luxury they can't afford. Some would even say it's a waste of time.
 
 But the reason why most people are able to get through their lives without having to think about these questions on a regular basis is exactly because various thinkers (holy men / women, philosophers, lawmakers and scientists) have already done this thinking for them. Over time, their answers have been turned into social structures, practices, laws, rituals, technologies and techniques which hide all this complexity from the person in the street.&#x20;
 
-That's the reason most people are able to ignore such questions most of the time. (That's the real luxury.)
+That's the reason most people are able to ignore such questions most of the time. (Isn't that the real luxury?)
 
 We could even say that most of the progress humanity has made over the millennia has been, in large part, due to such thinkers relentlessly asking and answering such questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
 
@@ -87,7 +87,7 @@ So my definition includes scientists, doctors, entrepreneurs, architects, lawyer
 
 But I am getting ahead of myself. We will get back to talking about the special role of engineers when it comes to things like meaning, purpose and hope in life soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
 
-For now, let us get back to the real world of regular people, most of whom aren't engineers.
+For now, let us get back to the person in the street we started with, the one who said they rarely think about this type of stuff.
 
 Whether they think about it or not, most people do face such questions, either explicitly or implicitly, when they have profound life experiences, such as births or deaths in the family or when diagnosed with a serious disease or when they break up with someone or lose their job etc. Or when they face major life decisions, such as choosing a career path or a life partner or a new place to live. Or whom to vote for.
 
