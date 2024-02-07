@@ -65,11 +65,11 @@ Since the dawn of time, in every corner of the world, scores of human beings hav
 
 Now, if you go down the street and ask a random person whether they ever think about the fundamental questions of "life, the universe and everything", most will likely say that they rarely do. (That is if they don't look at you like you were crazy and cross the street first!)
 
-Many people probably go through their entire lives without ever thinking about these questions. Some would point to some book or some person. Some would even say it is a waste of time.
+Many people probably go through their entire lives without ever thinking about these questions. Some would point to some book or some person. Some would even say it is a waste of time. Some would say it's a luxury they can't afford.
 
 But the reason why most people are able to get through their lives without having to think about these questions on a regular basis is exactly because various thinkers (holy men / women, philosophers, lawmakers and scientists) have already done this thinking for them. Over time, their answers have been turned into social structures, practices, laws, rituals, technologies and techniques which hide all this complexity from the person in the street.&#x20;
 
-That's the reason most people are able to ignore such questions most of the time.
+That's the reason most people are able to ignore such questions most of the time. (That's the real luxury.)
 
 We could even say that most of the progress humanity has made over the millennia has been, in large part, due to such thinkers relentlessly asking and answering such questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
 
@@ -83,7 +83,7 @@ What can be more interesting than learning about the operating system of life, t
 
 Note that here, by "engineer", I don't necessarily mean just those who went to engineering school or those who have it as their job title. I mean anyone who thinks like an engineer, anyone who wants to understand how things work and how they could be improved.
 
-So my definition includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and everyone in between. Anyone who doesn't just want to use the apps, but wants to understand the operating system underneath them, and build new apps or even a whole new operating system, if necessary.
+So my definition includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and everyone in between. Anyone who doesn't want to just use the apps, but wants to understand the operating system underneath them, and build new apps or even a whole new operating system, if necessary.
 
 But I am getting ahead of myself. We will get back to talking about the special role of engineers when it comes to things like meaning, purpose and hope in life soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
 
