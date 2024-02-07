@@ -587,15 +587,15 @@ Chapman argues that pure Rationalism tends to overemphasize the patterned aspect
 
 Gödel’s Incompleteness Theorem proves that no mathematical system can be complete as well as self-consistent.
 
-This has been used by many people as a proof that trying to use reason or rationality to understand reality is doomed right at the core, because it has mathematical concepts at its core.
+This has been used by many people as a proof that trying to use reason or rationality to understand reality is doomed right at the core, because it has mathematical concepts at its core. Essentially the claim is that rationality is a mathematical system and as such, it can not provide an explanation of reality that is both consistent and complete.
 
 The way the MSE Framework addresses this problem is as follows:
 
 1. The MSE Framework relies not on pure rationality, but on Mindful Bounded Rationality. This methodology takes into account the inherent limitations of rationality and accommodates them by using heuristics, satisficing, mindfulness, and focusing on grounding in reality rather than abstractions.
-2. We are not claiming to build a complete model of reality. In fact, we admit that reality contains many unknowns and also complexity and nebulosity that we are unable to capture in terms of mathematical concepts, at least as of now.
+2. We are not claiming to build a complete model of reality. In fact, we admit that reality contains many unknowns and also complexity and nebulosity that we are unable to capture in terms of mathematical concepts.
 3. We rely on axioms while building our model, which again means we are not claiming to build a complete model. We admit that we cannot peek behind the axioms.
 4. Moreover, we are not aiming to create a complete and final solution to our problem of defining meaning, purpose and hope either. We explicitly say that our methodology assumes that any solution we come up with, while it will be good enough to solve the problem in the best way possible currently, would still remain open to learning and modification in the future.
 
-Sometimes, the people who bring up Gödel’s Theorem and limits of rationality in general want you to just give up on rationality and take leaps of faith with them or rely on someone’s opinion.
+Sometimes, the people who bring up Gödel’s Theorem and limits of rationality in general want you to just give up on rationality and take leaps of faith with them or rely on someone’s opinion or poetic ideas.
 
-But, even if one admits all these limits of rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
+But the flaw in that argument is that, even if one admits all these limits of rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith or rely on even less firmly established concepts. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!

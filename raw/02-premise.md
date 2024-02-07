@@ -248,6 +248,7 @@ Here is a (partial) list of people who have done great work in this area. All of
 * Stuart Kauffman (“Reinventing the Sacred”, Medical doctor / Biologist)
 * Brendan Graham Dempsey (“Emergentism”, Writer / Podcaster)
 * Donald Hoffman (“The Case Against Reality”, Psychologist, UC Irvine)
+* Venkatesh Rao ("Ribbonfarm", Consultant / Writer)
 * Erik Hoel (“The Intrinsic Perspective”, Neuroscientist / Writer)
 * Bobby Azarian (“The Romance of Reality”, Journalist / Cognitive Scientist)
 * Joscha Bach (Synthetic Intelligence, AI Researcher / Cognitive Scientist)

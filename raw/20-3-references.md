@@ -27,16 +27,24 @@ layout:
 
 ## Video Series / Playlists: <a href="#v7e981b5a1uz" id="v7e981b5a1uz"></a>
 
-* “ [The Meaning Crisis](https://www.youtube.com/@johnvervaeke) ” by John Vervaeke
+* “[The Meaning Crisis](https://www.youtube.com/@johnvervaeke) ” by John Vervaeke
 * “[Closer to Truth](https://www.youtube.com/@CloserToTruthTV) ” by Robert Lawrence Kuhn
 * “[The Biggest Ideas in the Universe](https://www.youtube.com/watch?v=HI09kat\_GeI\&list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) ” by Sean Carroll
+* "[Lex Fridman Podcast](https://www.youtube.com/@lexfridman)", by Lex Fridman
 * “[Do We See Reality as it is?](https://youtu.be/oYp5XuGYqqY) ” by Donald Hoffman
+* "[Science with Sabine](https://www.youtube.com/@SabineHossenfelder)", Sabine Hossenfelder
+* "[Academy of Ideas](https://www.youtube.com/@academyofideas)"
+* [Vedanta Society of New York](https://www.youtube.com/@VedantaNY), by Swami Sarvapriyananda
 * “[Deep Turtles](https://www.youtube.com/playlist?list=PLwBiGlALuhAzpZc0O0NyaAnCXJlaI3J\_T) ” My YouTube playlist of relevant videos I have been collecting
 
 ## Blogs / Websites: <a href="#vmhrhld6azr9" id="vmhrhld6azr9"></a>
 
 * [The Intrinsic Perspective](https://www.theintrinsicperspective.com/) by Eric Hoel
 * [Emergentism](https://open.substack.com/pub/brendangrahamdempsey/p/emergentism-introduction?r=1fopc\&utm\_campaign=post\&utm\_medium=web) by Brendan Graham Dempsey
+* [Ribbonfarm](https://www.ribbonfarm.com/), Venkatesh Rao
+* [Astral Codex Ten](https://www.astralcodexten.com/), Scott Alexander
+* [LessWrong](https://www.lesswrong.com/), Eliezer Yudkowsky
+* [Gwern.net](https://gwern.net/), Gwern Branwen
 * [Principia Cybernetica](http://pespmc1.vub.ac.be/EVOLVAL.html) by F. Heylighen, C. Joslyn and V. Turchin (editors)
 
 ## Scientific Papers and Articles <a href="#n5hjf7y9euts" id="n5hjf7y9euts"></a>
