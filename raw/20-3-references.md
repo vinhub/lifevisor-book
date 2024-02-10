@@ -16,14 +16,14 @@ layout:
 
 ## Books: <a href="#kq2658iknqpn" id="kq2658iknqpn"></a>
 
-* "Einstein's Enlightenment" by John Campbell
-* "In the Cells of the Eggplant" and "Meaningness" by David Chapman
-* "The Big Picture" by Sean Carroll
-* “Good and Real” by Gary Drescher
-* “Reinventing the Sacred” by Stuart Kauffman
-* “The Case Against Reality” by Donald Hoffman
-* “The Romance of Reality” by Bobby Azarian
-* "Operating Manual for Spaceship Earth" by R. Buckminster Fuller
+* "[Einstein's Enlightenment](https://www.google.com/books/edition/Einstein\_s\_Enlightenment/NKXsAQAACAAJ)" by John Campbell
+* "[In the Cells of the Eggplant](https://metarationality.com/)" and "[Meaningness](https://meaningness.com/)" by David Chapman
+* "[The Big Picture](https://en.wikipedia.org/wiki/The\_Big\_Picture\_\(Carroll\_book\))" by Sean Carroll
+* “[Good and Real](https://mitpress.mit.edu/9780262042338/good-and-real/)” by Gary Drescher
+* “[Reinventing the Sacred](https://www.hachettebookgroup.com/titles/stuart-a-kauffman/reinventing-the-sacred/9780465018888/)” by Stuart Kauffman
+* “[The Case Against Reality](https://a.co/d/cK8gtiJ)” by Donald Hoffman
+* “[The Romance of Reality](https://www.theromanceofreality.com/)” by Bobby Azarian
+* "[Operating Manual for Spaceship Earth](https://designsciencelab.com/resources/OperatingManual\_BF.pdf)" by R. Buckminster Fuller
 
 ## Video Series / Playlists: <a href="#v7e981b5a1uz" id="v7e981b5a1uz"></a>
 
@@ -67,3 +67,4 @@ layout:
 * [The Greatest White Pill of All | by Vin Bhalerao | Apr, 2022 | Medium](https://medium.com/@vinbhalerao/the-greatest-white-pill-of-all-7a46aeefdd75)
 * [Thinking from First Principles, About “First Principles Thinking”! | by Vin Bhalerao | Jun, 2022 | Medium](https://medium.com/@vinbhalerao/thinking-from-first-principles-about-first-principles-thinking-df9cbd828f90)
 
+Cover page art created using [Bing Image Creator](https://www.bing.com/images/create).
