@@ -52,15 +52,17 @@ Let us start from the beginning. Your beginning.
 
 ## A Journey of Discovery Begins… <a href="#nfknd97nkljp" id="nfknd97nkljp"></a>
 
-When we are born, we know very few things about our new reality.
+When we are born, we know very few things about our new reality that we suddenly find ourselves in.
 
 But we quickly learn that when we are hungry, we cry and then we get fed. When we feel unclean, we cry, and we get cleaned.
 
 Then we start to associate some faces with the feeling of being fed or cleaned. As a result, we associate feelings of joy and comfort with those faces.
 
-Then, we notice that the faces often smile at us and we mimic the same action. This makes the faces smile even more and we respond.
+Then, we notice that the faces often smile at us and we mimic the same action. This makes the faces smile even more and we respond with even wider smiles.
 
-Days and weeks pass. Then one day, one of those familiar faces appears and smiles at us. We smile back as usual.
+Days and weeks pass. We are starting to get a hang of this new place.
+
+Then one day, one of those familiar faces appears and smiles at us. We beam back as usual.
 
 But then, as if by magic, the face suddenly vanishes!
 
@@ -68,41 +70,43 @@ We are confused. What happened to that face? Where did it go?
 
 The smile on our own face disappears and is replaced with concern.
 
-But then, before our attention wanders off, the face appears again! We are happy once again!
+But then, before our attention wanders off, the face appears again! Yaay! We are happy once again!
 
-Everything is again fine with the world and we beam back with a big smile.
+Everything is again fine with the world and we respond with a chortle.
 
 Then the face vanishes again. And we are again confused. Where did it go?
 
-This cycle is repeated many times and it is a roller coaster for us, with alternating joy and confusion. Until we get tired or get hungry or need to be cleaned.
+This cycle is repeated many times and it is a roller coaster of emotions for us, with alternating joy and confusion. Until we get tired. Or hungry. Or need to be cleaned.
 
 And this game is just one of countless other pleasing, annoying and confusing things that occur around us all the time.
 
-We start to realize that the world is full of unexplained phenomena, i.e. magic, as far as we can tell. We don’t know what magic means yet, but we intuitively associate it with the world.
+We start to realize that the world is full of unexplained phenomena, i.e. magic, as far as we can tell. We don’t know what the word "magic" means yet, but we intuitively associate it with the world.
 
-Fast forward a few months, and we start to understand what’s going on with some of these magical phenomena.
+Fast forward a few more months, and we start to figure out what’s really going on with some of these magical phenomena.
 
-By then, due to our incessant activity, curiosity and exploration of our world, we have started forming concepts like “the world contains objects that persist for a while”, “the objects have properties like distance, movement, transparency / occlusion etc.”
+By then, due to our incessant activity, curiosity and exploration of our world, we have started forming concepts like “the world contains objects that persist for a while”, “the objects have properties like distance, movement, transparency / occlusion”, "the interactions of these objects with each other gives rise to interesting phenomena that follow predictable patterns".
 
-We don’t know what any of those words mean yet, of course, but have started forming a tacit understanding of real-world physics. Not the definitions, formulas and equations yet, but the related behaviors and intuition behind them.
+We don’t know what any of those words mean yet, of course, but have started forming a tacit understanding of real-world physics. Not the definitions, formulas and equations yet, but the related behaviors and intuitions behind them.
 
 Suddenly, a light turns on inside our heads. That face that appears and disappears, it isn’t really vanishing from reality. It is simply hiding behind an opaque object for a second and then reappearing!
 
-Eventually we figure out that most things that we thought were magic weren't. They were just physical phenomena that we thought were magical because we didn't understand them.
+Eventually we figure out that most things that we thought were magical weren't. They were just predictable physical phenomena that we thought were unexpected or magical only because we didn't understand how they occurred. But now we do.
 
-Unfortunately, once we start to understand this, the games lose their fun for us. When someone tries to play those games again with us, our attention starts to wander, looking for other magical things in the world.
+Unfortunately, once we start to understand this, some of these games lose their fun for us. When someone tries to play those games again with us, our attention starts to wander, looking for other magical things in the world.
 
-I believe that that experience of magic and its loss stays with us. Sometimes our whole lives. To the extent that whenever we come across something that confounds us, our first intuitive reaction is to think that it must be magical.
+I believe that that experience of magic (and its eventual loss) stays with us. Sometimes our whole lives. To the extent that whenever we come across something new that confounds us, our first intuitive reaction is to think that it must be magical.
 
-In fact, we seem to cling to that magical feeling so much that sometimes we prefer to suspend our knowledge or even just stop exploring and learning in order to preserve it!
+In fact, we seem to cling to that magical feeling so much that sometimes we prefer to ignore our understanding of the phenomena or even suspend our natural curiosity, in order to preserve it!
 
-But luckily, for many of us, the world contains a never-ending supply of magical objects and phenomena, and the fun continues. The cycle of magic, learning, revelation and loss continues in many other directions and probably never ends.
+But luckily, for many of us, the world contains a never-ending supply of magical objects and phenomena, and the fun continues. The cycle of temporarily experiencing magic, followed by exploration and understanding, which results in the loss of that sense of magic, continues in many directions and probably never ends.
 
-What’s interesting and truly magical here is the fact that we are naturally wired to be curious, to perform experiments and to analyze the world around us, looking to discover insights and find reliable [explanations](04-methodology.md#deep-dive-explanations).
+What’s interesting and truly magical here is the fact that we are naturally wired to be curious, to perform experiments with the world, to analyze their results, looking to discover insights and find reliable ways of [explaining them](04-methodology.md#deep-dive-explanations).
 
-Over time, we have formalized this natural tendency that we are all born with. We have identified various concepts and processes involved in it and created formal definitions for them. They form the basis for the methodology we will use in this book.
+Over time, we have created formalisms around this natural tendency that we are all born with. We have identified various concepts and processes involved in it and created rigorous definitions for them. They form the basis for the methodology we will use in this book.
 
-You guessed it, we are talking about evidence and reason. Let us take a deeper dive into them.
+You guessed it, we are talking about the concepts of evidence and reason, and many related ideas we have built on top of them, in order to make sense of and manipulate the world around us.
+
+Let us take a deeper (and more formal) dive into them.
 
 ## Evidence and Reason <a href="#id-2vrof4378c7d" id="id-2vrof4378c7d"></a>
 
