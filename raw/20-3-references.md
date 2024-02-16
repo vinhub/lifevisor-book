@@ -24,6 +24,7 @@ layout:
 * “[The Case Against Reality](https://a.co/d/cK8gtiJ)” by Donald Hoffman
 * “[The Romance of Reality](https://www.theromanceofreality.com/)” by Bobby Azarian
 * "[Operating Manual for Spaceship Earth](https://designsciencelab.com/resources/OperatingManual\_BF.pdf)" by R. Buckminster Fuller
+* "[The Science of Enlightenment](https://www.shinzen.org/resources/)" by Shinzen Young
 
 ## Video Series / Playlists: <a href="#v7e981b5a1uz" id="v7e981b5a1uz"></a>
 
@@ -32,19 +33,20 @@ layout:
 * “[The Biggest Ideas in the Universe](https://www.youtube.com/watch?v=HI09kat\_GeI\&list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX) ” by Sean Carroll
 * "[Lex Fridman Podcast](https://www.youtube.com/@lexfridman)", by Lex Fridman
 * “[Do We See Reality as it is?](https://youtu.be/oYp5XuGYqqY) ” by Donald Hoffman
-* "[Science with Sabine](https://www.youtube.com/@SabineHossenfelder)", Sabine Hossenfelder
-* "[Academy of Ideas](https://www.youtube.com/@academyofideas)"
-* [Vedanta Society of New York](https://www.youtube.com/@VedantaNY), by Swami Sarvapriyananda
+* "[Science with Sabine](https://www.youtube.com/@SabineHossenfelder)", by Sabine Hossenfelder
+* "[Academy of Ideas](https://www.youtube.com/@academyofideas)", by Anonymous
+* "[Vedanta Society of New York](https://www.youtube.com/@VedantaNY)", by Swami Sarvapriyananda
 * “[Deep Turtles](https://www.youtube.com/playlist?list=PLwBiGlALuhAzpZc0O0NyaAnCXJlaI3J\_T) ” My YouTube playlist of relevant videos I have been collecting
 
 ## Blogs / Websites: <a href="#vmhrhld6azr9" id="vmhrhld6azr9"></a>
 
 * [The Intrinsic Perspective](https://www.theintrinsicperspective.com/) by Eric Hoel
 * [Emergentism](https://open.substack.com/pub/brendangrahamdempsey/p/emergentism-introduction?r=1fopc\&utm\_campaign=post\&utm\_medium=web) by Brendan Graham Dempsey
-* [Ribbonfarm](https://www.ribbonfarm.com/), Venkatesh Rao
-* [Astral Codex Ten](https://www.astralcodexten.com/), Scott Alexander
-* [LessWrong](https://www.lesswrong.com/), Eliezer Yudkowsky
-* [Gwern.net](https://gwern.net/), Gwern Branwen
+* [Ribbonfarm](https://www.ribbonfarm.com/), by Venkatesh Rao
+* [Astral Codex Ten](https://www.astralcodexten.com/), by Scott Alexander
+* [LessWrong](https://www.lesswrong.com/), by Eliezer Yudkowsky
+* [Gwern.net](https://gwern.net/), by Gwern Branwen
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 * [Principia Cybernetica](http://pespmc1.vub.ac.be/EVOLVAL.html) by F. Heylighen, C. Joslyn and V. Turchin (editors)
 
 ## Scientific Papers and Articles <a href="#n5hjf7y9euts" id="n5hjf7y9euts"></a>
@@ -56,6 +58,7 @@ layout:
 * [The entire quantum Universe exists inside a single atom](https://bigthink.com/starts-with-a-bang/entire-quantum-universe-inside-single-atom/) by Ethan Siegel
 * [The Science of Meaning in Life](https://www.annualreviews.org/doi/10.1146/annurev-psych-072420-122921) by Laura A. King and Joshua A. Hicks
 * [The Problem of Meaning: The Free Energy Principle and Artificial Agency](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9260223/) by Julian Kiverstein, Michael D. Kirchhoff and Tom Froese
+* "[The Science of Muddling Through](https://www2.econ.iastate.edu/classes/crp274/swenson/CRP566/Readings/lindblom1959.pdf)" by Charles Lindblom
 
 ## My Own Essays on Related Topics <a href="#saex8ws4zl9j" id="saex8ws4zl9j"></a>
 
