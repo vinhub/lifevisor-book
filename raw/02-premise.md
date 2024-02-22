@@ -63,47 +63,51 @@ Since the dawn of time, in every corner of the world, scores of human beings hav
 * What can I be hopeful about?
 * How can I live a good life?
 
-Now, if you go down the street and ask a random person whether they ever think about the fundamental questions of "life, the universe and everything", most will likely say that they rarely do. (That is if they don't look at you like you were crazy and cross the street first!)
+Now, if you go down the street and try to ask a random person what they thought about the fundamental questions of "life, the universe and everything", most of them will probably say that they don't think about such stuff. (That is if they don't look at you like you were crazy and cross the street first!)
 
-Many people probably go through their entire lives without ever thinking about these questions. Some would point to some book or some person. Some would say it's a luxury they can't afford. Some would even say it's a waste of time.
+Many people probably go through their entire lives without ever thinking about these questions. Some might point to some book or some person. Some would say it's a luxury they can't afford. Some would even say it's a waste of time.
 
-But the reason why most people are able to get through their lives without having to think about these questions on a regular basis is exactly because various thinkers (holy men / women, philosophers, lawmakers and scientists) have already done this thinking for them. Over time, their answers have been turned into social structures, practices, laws, rituals, technologies and techniques which hide all this complexity from the person in the street.&#x20;
+But the reason why most people are able to get through their lives without having to think about these questions on a regular basis is exactly because various thinkers in the past have already done this thinking for them. These thinkers are what we revere as holy men / women, philosophers, lawmakers and even scientists. (Rarely engineers, but we will get to that soon enough.)
+
+Over time, the answers these thinkers have come up with have been turned into social structures, practices, laws, rituals, technologies and techniques which hide all this complexity from the person in the street.&#x20;
 
 That's the reason most people are able to ignore such questions most of the time. (Isn't that the real luxury?)
 
-We could even say that most of the progress humanity has made over the millennia has been, in large part, due to such thinkers relentlessly asking and answering such questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
+We could even say that most of the progress humanity has made over the millennia has been, in large part, due to many such thinkers relentlessly asking and answering such questions, simplifying the answers, creating structures and processes based on them, and bringing them to people.
 
 Another way of saying the same thing is that these questions and answers form the operating system of society, on top of which many apps have been built. Most people can simply use the apps to get through life. Only a few ever get their hands dirty by going deep into the operating system.
 
-But that's what an engineer is supposed to do, isn't it?
+But that's what an engineer is supposed to do, isn't it? An engineer whose hands aren't dirty is not really an engineer, right?
 
-Engineers don't want to just use the apps. We want to know the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how to develop new ones, and so on.
+Engineers don't want to just use the apps. We want to understand the plumbing beneath them. We want to know how the apps work, where they came from, why these apps and not some other ones, how to develop new ones, and so on.
 
-What can be more interesting than learning about the operating system of life, the universe and everything?
+For an engineer, what can be more interesting than learning about the operating system of life, the universe and everything?
 
 Note that here, by "engineer", I don't necessarily mean just those who went to engineering school or those who have it as their job title. I mean anyone who thinks like an engineer, anyone who wants to understand how things work and how they could be improved.
 
-So my definition includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and everyone in between. Anyone who doesn't want to just use the apps, but wants to understand the operating system underneath them, and build new apps or even a whole new operating system, if necessary.
+So my definition of engineers includes scientists, doctors, entrepreneurs, architects, lawyers, artisans and everyone in between. Anyone who doesn't want to just use the apps, but wants to understand the operating system underneath them, and build new apps or even a whole new operating system, if necessary.
 
 But I am getting ahead of myself. We will get back to talking about the special role of engineers when it comes to things like meaning, purpose and hope in life soon enough. After all, the book is titled "An Engineer's Search for Meaning"!
 
 For now, let us get back to the person in the street we started with, the one who said they rarely think about this type of stuff.
 
-Whether they think about it or not, most people do face such questions, either explicitly or implicitly, when they have profound life experiences, such as births or deaths in the family or when diagnosed with a serious disease or when they break up with someone or lose their job etc. Or when they face major life decisions, such as choosing a career path or a life partner or a new place to live. Or whom to vote for.
+Whether they think about it or not, most people do face such questions, either explicitly or implicitly, when they have profound life experiences, such as births or deaths in the family or when diagnosed with a serious disease or when they break up with someone or lose their job or get betrayed or seriously disappointed in some way. Or when they face major life decisions, such as choosing a career path or a life partner or a new place to live. Or whom to vote for.
 
 And of course, as we have already seen, when going through midlife crises!
 
 To summarize, while these questions look rather obscure, they have been extremely important and influential throughout history, and continue to be so, both at the societal level as well as the individual level.
 
-Needless to say, plenty of literature is devoted to them. As a result, all I should have needed to do to find satisfying answers to these questions of meaning, purpose and hope was to simply go to the library (i.e., Google and Wikipedia) and spend a few months reading.
+Needless to say, plenty of literature is devoted to them.&#x20;
+
+As a result, all I should have needed to do to find satisfactory answers to the questions of meaning, purpose and hope in life was to simply go to the library (or Google and Wikipedia or ChatGPT) and spend a few months reading.
 
 Well, as it turned out, it wasn’t that easy.
 
-My insistence on answering these questions rigorously and from First Principles ended up becoming a major hurdle in my own way. I didn't just want some answers that sounded good or were popular. I wanted to know how those answers were arrived at and be convinced that they stood on firm ground.
+My insistence on answering these questions rigorously and from First Principles ended up becoming a major hurdle in my way. I didn't just want some answers that sounded good or were popular. I wanted to know how those answers were arrived at and be convinced that they stood on firm ground.
 
-That's not what I found in the library. Or any of the newspapers. Or the internet.&#x20;
+Unfortunately, that's not what I found in the library. Or any of the newspapers. Or the internet in general.&#x20;
 
-There were plenty of answers, to be sure. But none of them quite met my criteria.
+There were plenty of answers, to be sure. But none of them quite met my criteria. They all looked made. up, at least to some extent.
 
 I had to make a choice. As Robert Frost’s famous poem goes, “Two roads diverged in a wood…” One was well traveled, while the other one wasn't.
 
