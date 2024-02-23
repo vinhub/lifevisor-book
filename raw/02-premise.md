@@ -320,7 +320,7 @@ In it, he argues that, in his own words:
 
 > “We are in the midst of a mental health crisis. There are increases in anxiety disorders, depression, despair, and suicide rates are going up in North America, parts of Europe, and other parts of the world. This mental health crisis is itself due to and engaged with crises in the environment and the political system, those in turn are enmeshed within a deeper cultural historical crisis that I call 'The Meaning Crisis.'”
 >
-> **― John Vervaeke**
+> **― John Vervaeke, Canadian philosopher and cognitive scientist, in "Awakening from the Meaning Crisis"**
 
 This wide ranging and incredibly informative lecture series provides a detailed overview of many areas of western and eastern philosophies, building up the case for how and why the present-day meaning crisis has come about and what can be done about it.
 

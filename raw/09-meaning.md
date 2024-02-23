@@ -35,6 +35,12 @@ _“Human being is meaning making. For the human, what evolving amounts to is th
 
 
 
+_"Ask yourself these two questions: What do I want to exist even if I don't. And how much of a difference I make to it. If you've got good answers to both of those, you have meaning in life. If you have only the first but not the second, you are seeking. If you have neither, you are in trouble."_
+
+**― John Vervaeke, Canadian philosopher and cognitive scientist, in "Solving the Meaning Crisis"**
+
+
+
 ***
 
 
