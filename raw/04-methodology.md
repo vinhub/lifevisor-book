@@ -164,7 +164,7 @@ This is known as Tacit knowledge or Embodied knowledge. Things like learning to 
 
 For the purposes of this book, we will ignore the third category, that of Knowing Individuals, except yourself. The reason is that we want to build things from the ground up. We do not want to simply take someone else’s word for things, even if they claim to be authoritative. (Of course, for practical purposes, we may not always go out and perform the observations ourselves, but we need to always be sure that this can be done in principle.)
 
-This is of course a very deep topic in philosophy and volumes have been written on it. I am not really doing full justice to it by describing it in one section. Just to give you a taste of another perspective, I have included a deep dive into [John Vervaeke's "4P/3R" Model of Cognition](04-methodology.md#deep-dive-john-vervaekes-4p-3r-model-of-cognition) which has significant overlap with the above, but adds further nuances.
+This is of course a very deep topic in philosophy and volumes have been written on it. I am not really doing full justice to it by describing it in one section. Just to give you a taste of another perspective, I have included a deep dive into [John Vervaeke's Model of Cognition](04-methodology.md#deep-dive-john-vervaekes-model-of-cognition) which has significant overlap with the above, but adds further nuances.
 
 I would also like to reiterate that the reason we are starting from something as deep as epistemology is because we want to build our framework starting all the way from the bottom. We don't want to just take someone's word for any part of it. I have also included a deep dive into this way of thinking and learning, which is popularly known as [Thinking from First Principles](04-methodology.md#deep-dive-first-principles-thinking).
 
@@ -470,20 +470,24 @@ As you would expect for any framework based on First Principles Thinking, we nee
 
 But before we do that, here are some deep dives into some of the concepts mentioned in this chapter. Most of this should be pretty familiar to readers who have a STEM background, so feel free to quickly skim over them if so.
 
+
+
 ***
 
-## Deep Dive: John Vervaeke's "4P/3R" Model of Cognition
+## Deep Dive: John Vervaeke's Model of Cognition
 
-John Vervaeke's 4P/3R model of cognition is an integrative framework designed to understand and explain various aspects of human cognition. I am including here a deep dive into his model to give us a slightly different way of looking at  essentially the same ideas I described in earlier in the section on Epistemology.
+Canadian cognitive scientist and philosopher John Vervaeke has proposed an integrative framework designed to understand and explain various aspects of human cognition. I am including here a deep dive into his model to give us a slightly different way of looking at  essentially the same ideas I described in earlier in the section on Epistemology.
 
-The 4Ps define 4 types of "knowing" that we are familiar with:
+This model consists of 4Ps and 3Rs. The 4Ps define 4 types of "knowing" that we are familiar with:
 
 1. **Propositional Knowledge**: This is knowledge about facts or "knowing that" something is the case. It is often verbal and can be communicated directly through statements or propositions.
 2. **Procedural Knowledge**: This refers to "knowing how" to do something and involves skills and procedures. It is not primarily about facts but about processes and is often acquired through practice and experience.
 3. **Perspectival Knowledge**: This involves "knowing what it is like" to have a particular experience from a specific perspective. It encompasses the subjective, first-person point of view, providing a context that frames our understanding of the world.
 4. **Participatory Knowledge**: This is the knowledge that emerges from being in a relationship with something, where both the knower and the known are co-transformed. It's a deeper, more embodied form of knowing that involves shaping and being shaped by our engagement with the world, people, and practices.
 
-But simply learning about the 4 types of knowing insufficient because reality is like a firehose of information and we would be unable to function unless we can continuously evaluate what is relevant to us and what is not. According to Vervake, we do this via a process he calls "Recursive Relevance Realization":
+But simply learning about the 4 types of knowing insufficient because reality is like a firehose of information and we would be unable to function unless we can continuously evaluate what is relevant to us and what is not.&#x20;
+
+According to Vervake, we do this via a process he calls "Recursive Relevance Realization" (3Rs):
 
 1. **Relevance:** As we discussed above, Relevance refers to separating the wheat from the chaff, or determining what is salient and important from the sea of information that surrounds us. This allows us to adequately model their current situation and respond effectively.
 2. **Realization:** This term can be seen in two different ways. In order to deal effectively with reality, one has to "realize" it i.e. to grasp their situation well enough as well as to "realize" something i.e. do something real in the real world in order to respond to it.
