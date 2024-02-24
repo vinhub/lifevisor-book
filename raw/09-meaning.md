@@ -650,13 +650,17 @@ We just had to wake up to this realization.
 
 We have done the hard part of the work now. Things get easier from here. In the next chapter, we will look at Purpose.
 
+
+
 ***
 
 
 
 ## Deep Dive: The "Science of Meaning" <a href="#almkltkkt13" id="almkltkkt13"></a>
 
-Here are some excerpts from a recent review of the current thinking in the field of the science of meaning (The Science of Meaning in Life, Annual Review of Psychology 2021, Laura A. King and Joshua A. Hicks, https://www.annualreviews.org/doi/10.1146/annurev-psych-072420-122921).
+As I have mentioned earlier, I believe that we now have sufficient motivation, and, more importantly, meaningful material, to develop something like a "Science of Meaning". And, luckily, there already appear to be researchers working on this.
+
+Here are some excerpts from a recent review of the current thinking in this area. ("The Science of Meaning in Life", Annual Review of Psychology 2021, Laura A. King and Joshua A. Hicks, https://www.annualreviews.org/doi/10.1146/annurev-psych-072420-122921).
 
 “Meaning in life is a subjective sense that one's life makes sense, has purpose, and matters to others.”
 
