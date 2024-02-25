@@ -30,7 +30,7 @@ _"P(A|B) = \[P(A)\*P(B|A)]/P(B), all the rest is commentary."_
 
 
 
-_"Clouds are an extreme case, but nebulosity is pervasive. Other than in mathematics and fundamental physics, nothing is ever definitely this-or-that. Everything is always somewhat this and somewhat that. Put under high enough magnification, a stainless steel ball exhibits the same indefiniteness as a cloud. No ball can be perfectly round, nor made of perfectly pure steel, nor can one definitely say whether some particular atoms are part of it or part of its surrounds."_
+_"Nebulosity is pervasive. Other than in mathematics and fundamental physics, nothing is ever definitely this-or-that. Everything is always somewhat this and somewhat that. Put under high enough magnification, a stainless steel ball exhibits the same indefiniteness as a cloud. No ball can be perfectly round, nor made of perfectly pure steel, nor can one definitely say whether some particular atoms are part of it or part of its surrounds."_
 
 **― David Chapman, Computer scientist and Buddhist scholar, in "The Cells of the Eggplant"**
 
@@ -52,7 +52,7 @@ _“Science can amuse and fascinate us all, but it is engineering that changes t
 
 In this chapter, we are going to look at the methodology we will use to build the MSE Framework.
 
-Let us start from the beginning. Your beginning.
+And since we like to do things from First Principles, we are going to start from the beginning. Your beginning, that is.
 
 ## A Journey of Discovery Begins… <a href="#nfknd97nkljp" id="nfknd97nkljp"></a>
 
@@ -84,23 +84,25 @@ This cycle is repeated many times and it is a roller coaster of emotions for us,
 
 And this game is just one of countless other pleasing, annoying and confusing things that occur around us all the time.
 
-We start to realize that the world is full of unexplained phenomena, i.e. magic, as far as we can tell. We don’t know what the word "magic" means yet, but we intuitively associate it with the world.
+We start to realize that the world is full of unexplained phenomena, i.e. magic, as far as we can tell. We don’t know what the word "magic" means yet, but we intuitively associate the underlying concept with the world.
 
 Fast forward a few more months, and we start to figure out what’s really going on with some of these magical phenomena.
 
-By then, due to our incessant activity, curiosity and exploration of our world, we have started forming concepts like “the world contains objects that persist for a while”, “the objects have properties like distance, movement, transparency / occlusion”, "the interactions of these objects with each other gives rise to interesting phenomena that follow predictable patterns".
+By then, due to our incessant activity, curiosity and exploration of our world, we have started forming concepts like “the world contains objects", "most of those objects persist”, “the objects have properties like distance, movement, transparency / occlusion”, "the interactions of these objects with each other gives rise to interesting phenomena that follow predictable patterns".
 
-We don’t know what any of those words mean yet, of course, but have started forming a tacit understanding of real-world physics. Not the definitions, formulas and equations yet, but the related behaviors and intuitions behind them.
+We don’t know what any of those words mean yet, of course, but we have started forming a tacit understanding of real-world physics. Not the definitions, formulas and equations yet, but the related behaviors and intuitions behind them.
 
-Suddenly, a light turns on inside our heads. That face that appears and disappears, it isn’t really vanishing from reality. It is simply hiding behind an opaque object for a second and then reappearing!
+Suddenly one day, while we are once again playing our favorite game of peek-a-boo, a light turns on inside our heads. That face that appears and disappears, it isn’t really vanishing from reality. It is simply hiding behind an opaque object for a second and then reappearing!
 
-Eventually we figure out that most things that we thought were magical weren't. They were just predictable physical phenomena that we thought were unexpected or magical only because we didn't understand how they occurred. But now we do.
+Unfortunately, once we start to understand this, such games lose their fun for us. When someone tries to play those games again with us, our attention starts to wander, looking for other magical things in the world.
 
-Unfortunately, once we start to understand this, some of these games lose their fun for us. When someone tries to play those games again with us, our attention starts to wander, looking for other magical things in the world.
+And the same phenomena repeats there, too.
 
-I believe that that experience of magic (and its eventual loss) stays with us. Sometimes our whole lives. To the extent that whenever we come across something new that confounds us, our first intuitive reaction is to think that it must be magical.
+Eventually we figure out that most things that we thought were magical, weren't. They were just predictable physical phenomena that we thought were unexpected or magical only because we didn't understand the physics behind them. Even intuitively. But now we do, and hence they aren't magical to us anymore.
 
-In fact, we seem to cling to that magical feeling so much that sometimes we prefer to ignore our understanding of the phenomena or even suspend our natural curiosity, in order to preserve it!
+I believe that that experience of magic (and its eventual loss) stays with us. Sometimes our whole lives. To the extent that whenever we come across something new that confounds us, our first intuitive reaction is to think that it must somehow be magical.
+
+In fact, we seem to cling to that magical feeling so much that sometimes we prefer to ignore our understanding of some phenomena or even suspend our natural curiosity, in order to preserve it!
 
 But luckily, for many of us, the world contains a never-ending supply of magical objects and phenomena, and the fun continues. The cycle of temporarily experiencing magic, followed by exploration and understanding, which results in the loss of that sense of magic, continues in many directions and probably never ends.
 
@@ -114,61 +116,61 @@ Let us take a deeper (and more formal) dive into them.
 
 ## Evidence and Reason <a href="#id-2vrof4378c7d" id="id-2vrof4378c7d"></a>
 
-Let us rewind back to the wonderful time when you had just opened your eyes for the first time and you knew very little about this totally new world you found yourself into.
+Let us rewind back to the wonderful time when you had just opened your eyes for the first time and you knew very little about this totally new world you found yourself in.
 
-Then, as your initial shock and displeasure about being thrust into this world against your wishes started to wear off, you started noticing things. Your brain was suddenly receiving a lot of input from the various senses that you were born with.
+Then, as your initial shock and displeasure about being thrust into this world against your wishes started to wear off, you started noticing things. Your brain was suddenly receiving a lot of input from the various senses that you were born with: sight, sound, smell, touch, taste, proprioception.
 
 You didn’t know it at that time, but what your brain was doing was collecting evidence about the world (and yourself), detecting patterns in it, making logical inferences based on them, and slowly piecing together a model of the world and yourself in it.
 
-With each piece of new evidence about some phenomena in the world, your brain updated this model, making it more in line with the world. The strength and direction of these updates depended upon how strong your prior beliefs about the phenomena were, how strong the new evidence was, whether it was corroborated by multiple senses and so on.
+With each new piece of evidence your brain gathered, it updated this model, bringing it more in line with how the world really is. The strength and direction of these updates depended upon how strong your prior beliefs about the phenomena were, how strong the new evidence was, whether it was corroborated by multiple senses and so on.
 
-You didn’t know it at that time, but you were performing Bayesian Inference, which we will take a [deeper look at later on in this chapter](04-methodology.md#deep-dive-bayesian-inference). In fact, one of the leading theories of how our brain works is called the Bayesian Brain Hypothesis. It is that fundamental to how we understand our reality.
+You didn’t know it at that time, but what you were doing was [Bayesian Inference](04-methodology.md#deep-dive-bayesian-inference). In fact, one of the leading theories of how our brain works is called the Bayesian Brain Hypothesis. It is fundamental to how we understand our reality.
 
-Let us get back to the model of reality that your brain was building as you were growing up.
-
-Over time, the model got larger and more complex, and most importantly, more capable of coming up with better explanations as well as making better predictions about phenomena in the real world.
+Over time, this model inside your brain got larger and more complex, and most importantly, more capable of coming up with better explanations as well as making better predictions about phenomena in the real world.
 
 And, the better your model got, the better your ability to deal with your new reality, going from total confusion to mere survival to some level of comfort to some measure of predictability and even control.
 
-You did this simply by performing various actions and observing their results. Not only that, but you acted on your curiosity, your imagination, and inspired by them, sought out phenomena or built things in the world.
+You did this not just by observing what was occurring around you, but also by performing various actions and observing their results. Not only that, but you acted on your curiosity, your imagination, and inspired by them, sought out phenomena or built things in the world, which further improved your understanding of it.
 
-You didn’t know this at that time either, but what you were doing was Active Inference, which we will also look at later on in this chapter.
+You didn’t know this at that time either, but what you were doing was Active Inference. This concept is so important to all living beings that we will devote a major part of the "Life" chapter on it, later on in the book.
 
-Perception, reason, memory, imagination and experimentation were the basis upon which you initially built all the knowledge about the world.
+Observation, reasoning, memory, imagination and experimentation were the basis upon which you initially gathered most of the knowledge about the world.
 
-Then, as you grew up, you also started acquiring knowledge in other ways, such as relying on what the adults told you or what the books said. Over time, you also learned that you could learn some things just via introspection.
+Then, as you grew up, you also started acquiring knowledge in other ways, such as relying on what the adults told you or what the books said. Over time, you also learned that you could learn some things via introspection.
 
-You didn’t know this either, but all of the above fall under the branch of philosophy known as Epistemology.
+You didn’t know this at that time either, but all of the above fall under the branch of philosophy known as Epistemology.
 
-Philosophy textbooks define Epistemology as the branch of philosophy that deals with knowledge: what it is, how people acquire it and related details.
+## Epistemology
 
-In the domain of Epistemology, Knowledge is defined as “justified true belief”.
+Philosophy textbooks define Epistemology as the branch of philosophy that deals with knowledge: what it is, how we acquire it and related details.
 
-Yes, ultimately it is still a belief since that is all we can truthfully say about what our brains know. But in order to be classified as knowledge we need justification of its truthfulness.
+If we are going to build a framework from First Principles, we have to start there: what constitutes knowledge, which methods are used to acquire it. So we have to start with Epistemology. (I have included a [deep dive into First Principles Thinking](04-methodology.md#deep-dive-first-principles-thinking) if you are unfamiliar with it).
+
+Epistemology defines Knowledge as “justified true belief”.
+
+It is an admission of the fact that all we really have in the end are beliefs with various degrees of justifications of their truthfulness. In order for a belief to be classified as knowledge we need strong justification of its truthfulness.
 
 In order to understand this a little better, let us look at two aspects of knowledge: Types and Sources.
 
-## Epistemology: Types of Knowledge <a href="#frvu2vz8w3m8" id="frvu2vz8w3m8"></a>
+### Types of Knowledge <a href="#frvu2vz8w3m8" id="frvu2vz8w3m8"></a>
 
 The Stanford Encyclopedia of Philosophy states that there are 3 types of knowledge:
 
 1. Knowing Facts (or Know-that),
 2. Knowing How (or Know-how) and
-3. Knowing Individuals (or Knowledge by Acquaintance).
+3. Knowledge by Acquaintance.
 
 Within the category of Knowing Facts, we include things that are typically associated with science. These come in the form of evidence, propositions, formulas, algorithms, equations, models etc. that we use to explain natural phenomena.
 
-In the category of Knowing How, we include things like processes, techniques and practices. It also includes knowledge that is hard to put into words, and can only be learned only through observation and practice.
+In the category of Knowing How, we include things like processes, techniques and practices. It also includes knowledge that is hard to put into words, and can only be learned only through observation and practice. Such knowledge is known as Tacit knowledge or Embodied knowledge. Things like learning to play a musical instrument or riding a bike fall into this category.
 
-This is known as Tacit knowledge or Embodied knowledge. Things like learning to play a musical instrument or riding a bike fall into this category. The Karl Friston quote at the beginning of this chapter also refers to this type of knowledge.
+In the category of Knowledge by Acquaintance, we include the knowledge we acquire through direct experience or perception. For example, knowing a person or being familiar with the taste of a particular food. It involves a direct, personal relationship or encounter with the subject of knowledge.
 
-For the purposes of this book, we will ignore the third category, that of Knowing Individuals, except yourself. The reason is that we want to build things from the ground up. We do not want to simply take someone else’s word for things, even if they claim to be authoritative. (Of course, for practical purposes, we may not always go out and perform the observations ourselves, but we need to always be sure that this can be done in principle.)
+Just to give you a taste of another perspective, I have included a deep dive into [John Vervaeke's Model of Cognition](04-methodology.md#deep-dive-john-vervaekes-model-of-cognition) which has significant overlap with the above, but adds further nuances.&#x20;
 
-This is of course a very deep topic in philosophy and volumes have been written on it. I am not really doing full justice to it by describing it in one section. Just to give you a taste of another perspective, I have included a deep dive into [John Vervaeke's Model of Cognition](04-methodology.md#deep-dive-john-vervaekes-model-of-cognition) which has significant overlap with the above, but adds further nuances.
+Next, let us look at the sources of knowledge.
 
-I would also like to reiterate that the reason we are starting from something as deep as epistemology is because we want to build our framework starting all the way from the bottom. We don't want to just take someone's word for any part of it. I have also included a deep dive into this way of thinking and learning, which is popularly known as [Thinking from First Principles](04-methodology.md#deep-dive-first-principles-thinking).
-
-## Epistemology: Sources of Knowledge <a href="#id-3sc0sp81ti11" id="id-3sc0sp81ti11"></a>
+### Sources of Knowledge <a href="#id-3sc0sp81ti11" id="id-3sc0sp81ti11"></a>
 
 The Stanford Encyclopedia of Philosophy also states that there are 5 sources of knowledge:
 
@@ -178,27 +180,27 @@ The Stanford Encyclopedia of Philosophy also states that there are 5 sources of 
 4. Testimony, and
 5. Introspection.
 
-And once again, due to our insistence on thinking from First Principles, we will primarily focus on Perception, Reason, Memory and [Introspection](04-methodology.md#deep-dive-introspection) for building our framework, because we can do those things ourselves.
+Due to our insistence on thinking from First Principles, we will primarily focus on Perception, Reason, Memory and Introspection for building our framework, because we can do those things ourselves.
 
-We will rely on Testimony only when we have confidence that we could acquire the same piece of knowledge from one of the other sources ourselves.
+We will rely on the remaining source, Testimony, only when we have sufficient justification that we could acquire the same piece of knowledge from one of the other sources ourselves.
 
 For example, what this means is that we can rely on, say, a result published by a scientist (which would fall into the category of Testimony) if the scientist has a good reputation and their result has been peer reviewed and we could even replicate the result ourselves if we wanted to.
 
 Also, while Perception, Reason and Memory should be pretty clear, we need to say something about Introspection, since there is some debate in the scientific community about whether it really belongs in science.
 
-In order to avoid stepping into controversial areas, we will only take any evidence derived from Introspection seriously if it is easy to define and easy to experience by yourself, which implies that should be very widely corroborated. It should also not be explainable in any of the other ways.
+In order to avoid stepping into controversial areas that border on pseudoscience, we will only take any evidence derived from Introspection seriously if it is easy to define and easy to experience by anyone (including yourself), which implies that should be very widely corroborated. It should also not be explainable in any of the other ways.
 
-For example, this allows us to include the concept of consciousness, purely as subjective phenomenal experience, into our methodology. We allow it because it is simple to define, we can readily experience it ourselves, is very widely corroborated, and we have no other explanation for it (at present).
+For example, this allows us to include the concept of consciousness, purely as subjective phenomenal experience, into our methodology. We allow it because it is simple to define, we can readily experience it ourselves, is very widely corroborated, and we have no other explanation for it at present. (Of course, if a better explanation became available down the road, we will update our framework accordingly. We will talk about this in more detail in the chapter on Consciousness.)
 
-At the same time, we cannot include introspective reports of many other religious concepts such as the existence of supernatural powers with specific features or behaviors or commandments supposedly coming from them. Most conceptualizations of supernatural powers have complex features and behaviors attributed to them, and we have been finding other explanations for pretty much all of them. As a result, we will not be able to include it in our model.
+At the same time, we cannot include introspective reports of many other religious concepts such as the existence of supernatural powers with specific features or behaviors or commandments supposedly coming from them. Most conceptualizations of supernatural powers have complex features and behaviors attributed to them, and we have been finding other explanations for pretty much all of those features and behaviors. As a result, we will not be able to include such reports of introspection in our model.
 
-All of this discussion on epistemology may have just been a long-winded way of me saying that we are going to base the framework only on the principles of Rationality or Rational Thinking, without relying on any faith or dogma or magic or opinion.
+All of this discussion on epistemology may have just been a long-winded way of me saying that we are going to base the framework only on the principles of Rationality or Rational Thinking, without relying on any faith or dogma or magic or opinion. (Yes, I am aware that there are some strong objections to using Rationality for explaining reality, and we will get to them immediately after this section.)
 
-Yes, that means we lose some of the magic in our lives that we enjoyed in the past, but luckily we keep discovering new instances to entertain ourselves.
+It is true that taking this approach does mean we lose some of the sense of magic in our lives that we enjoyed in the past, but luckily we keep discovering new instances to entertain ourselves! Moreover, once we go down this path long enough, we discover other sources of wonder and awe, which we will get to eventually.
 
-In fact, an extremely important point to note is that any of the concepts that we do include into our framework can be challenged and even replaced if something better comes along. Nothing that is included here should be seen as final. In fact, being flexible and constantly improving, or being "alive", is an essential aspect of the framework.
+Also, an extremely important point to note is that any of the concepts that we do include into our framework can be challenged and even replaced if something better comes along. Nothing that is included here should be seen as final. In fact, being flexible and constantly improving, or being "alive", is an essential aspect of the framework.
 
-While all of the above should be familiar to anyone with a background in STEM fields, the reason I decided to go into so much detail is only because I wanted to provide a clear and robust basis for the framework by starting from well-defined concepts in epistemology.
+Knowledge and epistemology in general are of course very deep topics in philosophy and volumes have been written on it. I am not really doing full justice to it by describing them in one section. But I felt it is important to start there since we want to be absolutely sure that we aren't going to depend upon anything that does not have a strong justification for it, and we have thought about this aspect carefully.
 
 This type of analysis is exactly what our insistence on rationality and Thinking from First Principles demands. (Now you may understand why I am unhappy with the other ways of finding meaning in our lives. They do not rise anywhere close to this standard.)
 
@@ -474,6 +476,8 @@ But before we do that, here are some deep dives into some of the concepts mentio
 
 ***
 
+
+
 ## Deep Dive: John Vervaeke's Model of Cognition
 
 Canadian cognitive scientist and philosopher John Vervaeke has proposed an integrative framework designed to understand and explain various aspects of human cognition. I am including here a deep dive into his model to give us a slightly different way of looking at  essentially the same ideas I described in earlier in the section on Epistemology.
@@ -495,6 +499,8 @@ According to Vervake, we do this via a process he calls "Recursive Relevance Rea
 
 Vervaeke argues that cognition is not just about processing information or solving problems in isolation. Instead, it's deeply intertwined with our embodied engagement with the world, our perspectives, and our relationships, both with others and with our environment.
 
+
+
 ## Deep Dive: First Principles Thinking
 
 First Principles Thinking basically means “don’t take someone else’s word for it, check it out yourself!”
@@ -513,6 +519,8 @@ This idea has actually been around since Aristotle, and various famous people ha
 
 Needless to say, for the MSE Framework, we are taking a First Principles approach because we want to solve the crisis created by the existing solutions. It is conventional wisdom that has brought us here so we don't want to rely on it. We want to start from scratch and rethink the problem of meaning, purpose and hope, and see if we can end up with a better approach to solving it.
 
+
+
 ## Deep Dive: Explanations
 
 According to David Deutsch, physicist, the father of quantum computing and author of many fascinating books, the pursuit of the ultimate truth is an ongoing process that requires an open-minded and critical approach to knowledge.
@@ -524,6 +532,8 @@ According to him, explanations are the fundamental building blocks of knowledge 
 In his view, explanations are not just descriptions of phenomena but are also predictive, testable, and falsifiable. Explanations provide a framework for understanding the world and allow us to make predictions about future observations.
 
 He also says that there is no limit to the explanatory power of human knowledge, meaning that we can always strive to create better explanations of the world around us. What is important is the process of seeking and refining our explanations of reality through a rigorous and iterative process of testing, refining, and updating our understanding of the world.
+
+
 
 ## Deep Dive: Bayesian Inference
 
@@ -558,6 +568,8 @@ In our example, you might suddenly remember that the president is coming to visi
 
 A lot of our learning is basically a result of repeated application of this process and each time, we are likely to be improving our model of our reality.
 
+
+
 ## Deep Dive: The Scientific Method
 
 <figure><img src=".gitbook/assets/Scientific Method.jpg" alt="" width="563"><figcaption></figcaption></figure>
@@ -582,6 +594,8 @@ Science is authoritative because, it is impossible to defy it, in the areas wher
 
 And science also provides a different type of certainty because its methods are future proof. While the body of science as a whole may evolve as we collect more and more evidence, the underlying scientific method we rely on to process that evidence and improve our models will continue to be trustworthy.
 
+
+
 ## Deep Dive: Introspection
 
 Many subjective experiences are self-evident to ourselves. We can honestly say that they are occurring, but the inner world of our minds is mostly opaque to anyone other than ourselves, so there is really no way to prove to someone else anything about any of the phenomena we may be experiencing inside our minds.
@@ -597,6 +611,8 @@ For the MSE Framework, we will take evidence of introspective phenomena seriousl
 It goes without saying that the existence of consciousness is pretty much universally corroborated, and has found no other explanation, so we will include it in our models.
 
 Of course, if an objective explanation for consciousness is found down the road, we will adjust our models accordingly.
+
+
 
 ## Deep Dive: Pattern and Nebulosity
 
@@ -616,6 +632,8 @@ At an even higher level, Chapman gives a great example of a cloud. No matter whi
 
 Chapman argues that pure Rationalism tends to overemphasize the patterned aspects of reality while ignoring the nebulous ones. As a result, while we should not abandon Rationalism, we definitely need to look beyond it to understand or deal with reality.
 
+
+
 ## Deep Dive: Gödel's Incompleteness Theorem <a href="#deep-dive-godels-incompleteness-theorem" id="deep-dive-godels-incompleteness-theorem"></a>
 
 Gödel’s Incompleteness Theorem proves that no mathematical system can be complete as well as self-consistent.
@@ -632,3 +650,4 @@ The way the MSE Framework addresses this problem is as follows:
 Sometimes, the people who bring up Gödel’s Theorem and limits of rationality in general want you to just give up on rationality and take leaps of faith with them or rely on someone’s opinion or poetic ideas.
 
 But the flaw in that argument is that, even if one admits all these limits of rationality, that does not give you permission to suddenly turn around and run in the opposite direction where your only choice is to take leaps of faith or rely on even less firmly established concepts. Just because you only have a good enough but less than perfect solution does not mean you should suddenly jump to something with no substantiated basis at all!
+
