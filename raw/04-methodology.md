@@ -204,19 +204,25 @@ Knowledge and epistemology in general are of course very deep topics in philosop
 
 This type of analysis is exactly what our insistence on rationality and Thinking from First Principles demands. (Now you may understand why I am unhappy with the other ways of finding meaning in our lives. They do not rise anywhere close to this standard.)
 
-Still, an honest application of rationality itself requires that we recognize its limits, and come up with rational ways of dealing with them.
+Still, an honest application of rationality itself requires that we recognize its limits, and come up with rational ways of dealing with them. In other words, we want to follow rational thinking, but avoid becoming ardent followers of rationalism.
 
 ## Limits of Rationality <a href="#wxq23tip4xsn" id="wxq23tip4xsn"></a>
 
-First off, as I have already acknowledged in the previous chapter, this endeavor of trying to find meaning, purpose and hope using rationality alone is incredibly audacious and we need to avoid any appearance of naiveté or hubris while tackling it.
+First off, as I have already acknowledged in the previous chapter, this endeavor of trying to find meaning, purpose and hope using evidence and reason alone is incredibly audacious and we need to avoid any appearance of naiveté or hubris while tackling it.
 
-In fact, one of the strongest criticisms of rationality is exactly that its adherents suffer from naiveté on one hand or hubris on the other. Dunning-Kruger effect and all that.
+The dictionary defines rationalism as "a belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response".
 
-It is also true that every good idea that people have ever come up with eventually gets driven off the cliff by its most ardent followers. This is one of the reasons we use the metaphor of a pendulum to describe human societies - things always go too far and then have to be reversed.
+That sounds a lot like what we are trying to do here, isn't it?
 
-Even the application of rationality is no exception to this rule. History is full of self-described rationalists driving themselves and their faithful followers off cliffs to the amusement of onlookers.
+But it is also known that taking this approach too far causes serious problems. In fact, one of the strongest criticisms of rationalism is exactly that its adherents suffer from naiveté on one hand or hubris on the other.
 
-This occurs because too many rationalists have a tendency to make it sound like reality is far simpler than it really is. They usually fall in love with some abstract idea or model and simply assume that reality must conform to it. They try to impose rationality on things that are highly nebulous or make untenable predictions about things that are inherently unpredictable. They often come up with recommendations that look good on paper but fail miserably in reality. And sometimes they reach conclusions that are just absurd. (This idea is critically important to the book, and I have included a [Deep Dive into Pattern and Nebulosity](04-methodology.md#deep-dive-pattern-and-nebulosity) at the end of the chapter go delve into some of its details.)
+At a higher level, one can say that every good idea that people have ever come up with eventually gets driven off the cliff by its most ardent followers! This is one of the reasons we use the metaphor of a pendulum to describe human societies - we tend to take things too far and then have to be reverse course.
+
+The concept of rationality or rationalism is no exception to this rule. History is full of self-described rationalists driving themselves and their faithful followers off cliffs.
+
+This occurs because many rationalists have a tendency to make it sound like reality is far simpler than it really is. Or that our intellectual abilities are far stronger than they really are.&#x20;
+
+Rationalists usually fall in love with some abstract idea or model or "theory of everything" and simply assume that reality must conform to it. They try to impose those ideas or models on things that are highly nebulous or make untenable predictions about things that are inherently unpredictable. They often come up with recommendations, based on their models, that look good on paper but fail miserably in reality. And sometimes they reach conclusions that are just absurd.
 
 Ironically, other rationalists have analyzed this phenomenon, and come up with names for a set of biases that many ardent rationalists suffer from:
 
@@ -224,13 +230,17 @@ Ironically, other rationalists have analyzed this phenomenon, and come up with n
 * **Formality or Elegance bias:** The inclination to prioritize solutions or ideas that are aesthetically pleasing or sophisticated in presentation, sometimes at the expense of practicality or functionality.
 * **Systematicity bias:** The preference for structured and systematic approaches, often leading to a tendency to overlook or undervalue more flexible or chaotic methods.
 
-We need to be careful to avoid these pitfalls of rational thinking. We know that reality is not always legible, formal, elegant or systematic.
+We need to be careful to avoid these pitfalls of over-reliance on rational thinking. We know that reality is not always legible, formal, elegant or systematic.
 
-At an even more fundamental level, some point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. I have included a [Deep Dive into Gödel's Incompleteness Theorem](04-methodology.md#deep-dive-godels-incompleteness-theorem) at the end of the chapter.
+We need to acknowledge that reality seems to contain some patterns, but also a lot of nebulosity as well as many unknowns. And while rationality can help us come to grips with the patterned aspects of reality, it fails when dealing with nebulosity or unknowns. (This idea is critically important to the book, and I have included a [Deep Dive into Pattern and Nebulosity](04-methodology.md#deep-dive-pattern-and-nebulosity) at the end of the chapter go delve into some of its details.)
 
-We want to be mindful of all of these issues, but we don't want to throw the baby out with the bathwater either, as the opponents of rationality often do.
+At an even more fundamental level, opponents of rationalism point to Gödel's Incompleteness Theorem as the ultimate proof of the futility of using rationality to understand reality. This objection is important, but before I can address it, I have to discuss my proposed solution first. (I have included a [Deep Dive into Gödel's Incompleteness Theorem](04-methodology.md#deep-dive-godels-incompleteness-theorem) at the end of the chapter, in case you are unfamiliar with it).
 
-Also note that, at times, politics, dogma and self-interest do enter even the fields that are supposed to be based purely on rationality, such as science and engineering.
+When people encounter these ideas, though, their knee-jerk reaction is to totally give up on rational thinking. They may either go back to far more irrational concepts to justify their beliefs or stop thinking altogether.
+
+As a result, politics, dogma and self-interest do enter even the fields that are supposed to be based purely on rationality, such as science and engineering.
+
+We want to be mindful of all of the aforementioned limits of rationality, but we don't want to throw the baby out with the bathwater either, as the opponents of rationality often do.
 
 One of the best ways of dealing with this problem is to make our epistemological constraints clear as we have done earlier in the chapter. By limiting ourselves to only the types and sources of knowledge as stated above, we reduce the possibility of falling for politics or dogma or self-interest.
 
@@ -242,7 +252,7 @@ We will do this in two ways, one of which is well-known and the other one I some
 
 ### A) Bounded Rationality <a href="#oye3xuh5xzku" id="oye3xuh5xzku"></a>
 
-Reality is extremely cast and complex and our brains are relatively puny and simple in comparison. In spite of the great strides we have made, our knowledge of reality is quite limited. Our time and reach in this universe, even if you include all of humanity that has ever existed and all the technology and techniques we have ever built, are still minuscule as compared to the vastness of the universe.
+Reality is extremely vast and complex and our brains are relatively puny and simple in comparison. In spite of the great strides we have made, our knowledge of reality is quite limited. Our time and reach in this universe, even if you include all of humanity that has ever existed and all the technology and techniques we have ever built, are still minuscule as compared to the vastness of the universe.
 
 These constraints have been widely recognized and studied by many rationalists for a long time. One of the most prominent voices among them was that of Herbert Simon, an American political scientist who has a rare distinction of winning both the Nobel and Turing awards. He formulated an approach known as Bounded Rationality to deal with these constraints.
 
