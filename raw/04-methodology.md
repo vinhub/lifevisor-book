@@ -262,29 +262,27 @@ As we all know, the problem we are undertaking, that of defining the MSE Framewo
 
 Bounded Rationality involves the incorporation of heuristics, tacit or embodied knowledge and evidence-based practices that can’t always be formulated precisely in terms of scientific formulas. But note that we are still bound by the constraints of evidence, repeatability, and being always open to challenges and improvement.
 
-This approach has come to the fore in recent decades after people realized that their over-reliance on pure rationality caused many failures. I should also note that many engineering practices rely heavily this approach.
+This approach has come to the fore in recent decades after people realized that their over-reliance on pure rationality caused many failures. I should also note that many engineering practices rely heavily on ideas from Bounded Rationality.
 
 Besides Bounded Rationality, we need to add one more idea to our toolbox.
 
 ### B) Present-Moment Focus and Groundedness <a href="#m7qvu1memfd7" id="m7qvu1memfd7"></a>
 
-Often, we may have a very good understanding of our present situation and the forces at play, but our ability to predict things too far into the future (or even the past, for that matter) goes down rapidly as the timespan increases.
+Often, we may have a very good understanding of our situation and the forces at play in the current moment, but our ability to predict things too far into the future (or remember things from the past, for that matter) goes down rapidly as the timespan increases.
 
-This is because reality is extremely complex, involving too many entities and forces acting on them along too many directions. Trying to apply our relatively limited knowledge of reality to this complex soup quickly leads to combinatorial explosions. The larger the distance to any point along any of these directions, the less we should trust our ability to make any statements about it.
+This is because reality is extremely complex, involving too many entities and forces acting on them along too many directions. Trying to apply our relatively limited knowledge of reality to this complex soup quickly leads to combinatorial explosions. Real world systems are also extremely sensitive to initial conditions, which we may not be able to measure accurately. As a result, the longer the time horizon, the less we should trust our ability to make any statements about it.
 
 It is not just that none of us can say exactly what will happen tomorrow or whether our account of some distant event in the past is accurate in all its aspects. Even well-known scientific theories, such as the origin of the universe or its presumed end aren't as clearcut as we believe. There are serious challenges to either the whole or parts of these theories.
 
-In the MSE Framework, the way we deal with this limitation is to put most of our trust on the present moment, and our present location in space, and our current location along all other dimensions of reality that we can think of. The further we get away from our local neighborhood along any of these dimensions, the less we trust our predictions or analysis of it.
+In the MSE Framework, the way we deal with this limitation is to put most of our trust on the present moment, and our present location in space, and our current location along all other dimensions of reality that we can think of. The further we get away from our local neighborhood along any of these dimensions, the less we can trust our predictions or analysis of it.
 
 Ideally, we want to base as much of our thinking on phenomena we can observe "right here, right now". Another way of putting it may be that they need to be "clear and present".
 
-Note that this does not mean we can't look at the long term or distant phenomena at all. It is just that we don't consider them to be the major factor in our model, as it is commonly done in most of the other methodologies for finding meaning, purpose and hope.
+Note that this does not mean we can't look at the long term or distant phenomena at all. We can and certainly certainly do make long term plans and strategies when going through our lives. But what we are saying here is that we don't need to do that for the purpose of finding meaning, purpose and hope, which makes this methodology far more trustworthy.&#x20;
 
-Most religious and even philosophical models rely on the creation of the universe or its ultimate end (or even beyond, the afterlife) to create their model of reality. Not only does that lead to the need to take leaps of faith, but often the distance from those points to the present is so large that, if we are honest, we are simply unable to apply any sort of rational analysis to them.
+This is clearly in contrast with pretty much all other ways of thinking about meaning, purpose and hope, which are usually based on far larger time frames (such as the beginning or end of our lives or even the universe or the afterlife) or far distant entities (such as supernatural beings outside the realm of physical reality). Not only does doing so require us to take leaps of faith, but often the distance from those points to the present is so large that, if we are honest, we are simply unable to apply any sort of rational analysis to them.
 
-As we have already noted, our ability to make predictions goes down rapidly as we move further and further away from the present moment. So, while it is ok to make long term plans or have high-level strategies, we have to take them with more and more grains of salt, the longer their distance from here.
-
-Doing so not only makes our methodology far more robust, but, as a bonus, also helps us come up with a meaningful name for it!
+Focusing on the here and now not only makes our methodology far more robust and amenable to rational analysis, but, as a bonus, also helps us come up with a meaningful name for it!
 
 Doesn't what we are talking about here almost sound like the widely known idea of Mindfulness?
 
@@ -292,9 +290,9 @@ This is not an accident. We will have a lot more to talk about Mindfulness in th
 
 For now, let us just use the word to qualify our methodology, combined with the idea mentioned earlier, and come up with a meaningful name for it: “Mindful Bounded Rationality”.
 
-\[ Note: I realize that it seems little unusual to qualify such a fundamental methodology using a complicated adjective like "mindfulness". And I tried other words, such as "situated" or "active" in its place, but they all came with other connotations that didn't fit the intended meaning here. I think mindfulness works quite well here, but if I do find a better word for what I am trying to convey, I'd be happy to use it. ]
+\[ Note: I realize that it seems little unusual to qualify such a fundamental methodology using a complicated adjective like "mindfulness". And I tried other words, such as "situated" or "active" in its place, but they all came with other connotations that didn't fit the intended meaning here. I think mindfulness works quite well here, but if I do find a better word for what I am trying to convey, I'd be happy to switch to it. ]
 
-Let us take a deep dive into it.
+Let us take a deep dive into what we mean by Mindful Bounded Rationality.
 
 ## Mindful Bounded Rationality <a href="#kxhbwway0ih6" id="kxhbwway0ih6"></a>
 
