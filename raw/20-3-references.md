@@ -72,4 +72,3 @@ layout:
 * "[The Greatest White Pill of All" | by Vin Bhalerao | Apr, 2022 | Medium](https://medium.com/@vinbhalerao/the-greatest-white-pill-of-all-7a46aeefdd75)
 * "[Thinking from First Principles, About “First Principles Thinking”"! | by Vin Bhalerao | Jun, 2022 | Medium](https://medium.com/@vinbhalerao/thinking-from-first-principles-about-first-principles-thinking-df9cbd828f90)
 
-Cover page art created using [Bing Image Creator](https://www.bing.com/images/create).

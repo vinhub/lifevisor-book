@@ -28,5 +28,5 @@ You can read this book (for free) in 3 ways:
 
 This book is still under development, but very close to being ready. It is a part of a larger effort, known as [LifeVisor.AI](https://lifevisor.ai).&#x20;
 
-Comments? Suggestions? Send them to info \[at] RedmondLabs \[dot] com. And if you are familiar with Github, you can [send a PR](https://github.com/vinhub/lifevisor-book)!
+Comments? Suggestions? Please send them my way using the [contact form on this page](https://meaning.lifevisor.ai/).
 

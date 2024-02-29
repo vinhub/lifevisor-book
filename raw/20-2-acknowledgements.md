@@ -25,3 +25,14 @@ I am grateful to all the people who have helped me along the way, including but 
 * To the ancient and deeply wisdom-oriented culture of India where I grew up, and to the modern and free-thinking culture of the US where I flourished, and, ultimately,
 * To the "6CED" tendencies of this awesome universe we get to live in, which not only made all of this possible but actually made it happen, through me.
 
+
+
+## Credits:
+
+* The [cover page art](https://meaning.lifevisor.ai/) consists of 3 parts:&#x20;
+  * A "Mindful Engineer" with a pen in one hand (symbolizing thinking / planning) and a spanner (symbolizing hands-on engineering). It was created using the Bing Image Creator.
+  * The background image symbolizes the "Living Local Universe". It was also created using the Bing Image Creator.
+  * The title / subtitle / author text was added using Microsoft PowerPoint.
+* The [book's main website](https://meaning.lifevisor.ai/) was created with the help of OpenAI's ChatGPT.
+* The striking photo of the honey bee in the "[The Whole Book in 5 Minutes](0-2-in-5-min.md)" chapter is by [Alexas\_Fotos](https://unsplash.com/@alexas\_fotos) on [Unsplash](https://unsplash.com/).
+
