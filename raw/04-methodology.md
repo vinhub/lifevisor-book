@@ -436,21 +436,21 @@ So, what does he do? In his words that have achieved meme status,
 
 He then proceeds to calculate how to make his rations last longer, how to grow his own food, and even make his own oxygen! Eventually he figures out how to take off using a broken rocket.
 
-What is not obvious to a lot of people is that he isn't really "science-ing" the sh\*t out of his predicament. He is "engineering" the sh\*t out of it!
+What is not obvious to a lot of people is that he isn't really "science-ing" much. He is mostly "engineering" it!
 
 While there is certainly a good amount of science involved in what he does, most of his activities actually fall into the domain of engineering: Quickly and constantly assessing his overall situation, determining his constraints and requirements, figuring out and scheduling the critical path to survival, conducting field experiments when necessary, many of which fail and have to be redesigned. Not aim for the luxury of perfection, but for the reality of "satisficing". Not discovering new concepts, but applying existing concepts and making them work in the messy and unpredictable world, to build something useful.
 
-This is mostly engineering.
+This is pretty much the textbook definition of engineering.
 
-Of course there is an overlap, but if you had to distinguish the science part from the engineering part, you would say that it is mostly engineering.
+Of course there is a lot of overlap between "science-ing" and "engineering", but if you had to distinguish the science part from the engineering part, you would say that it is mostly engineering.
 
-I included this here to further emphasize the distinction and supremacy of engineering. (Don't worry, I'm not about to include another quote from another Matt Damon movie here. Which movie I am referring to and why it may be relevant here is left as an exercise to the reader.)
+I included this here to further emphasize the distinct identity and supremacy of engineering as compared to science. (Eh? "Identity" and "supremacy"? :-) Sorry, couldn't help it.)
 
-I suppose this is another somewhat radical thought, so I should address one of the main objections I can think of.
+I suppose my emphasis on engineering rather than science may look a little unusual to many people, so it makes sense for me to address one of the main objections I can think of.
 
 ## Doesn't This Sound Like a Compromise Though?
 
-In some ways, Mindful Bounded Rationality feels like a compromise.
+In some ways, our methodology of Mindful Bounded Rationality feels like a compromise.
 
 We have been led to believe that we need a perfect understanding of reality before we can undertake any deep analysis of it. This is what has led people to always come back to some supernatural power.
 
