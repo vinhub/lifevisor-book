@@ -34,6 +34,16 @@ section {
     text-align: center;
 }
 
+#faq .accordion-button {
+    color: #007bff; /* Change color for active accordion headers */
+    background-color: #e7f1ff; /* Light background color for active headers */
+}
+
+#faq .accordion-body {
+    font-size: 16px; /* Adjust body text size as needed */
+    margin-left: 20px;
+}
+
 #author img {
     border: 1px solid #ddd;
     border-radius: 24px;
