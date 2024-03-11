@@ -41,7 +41,6 @@ section {
 
 #faq .accordion-body {
     font-size: 16px; /* Adjust body text size as needed */
-    margin-left: 20px;
 }
 
 #author img {
@@ -72,41 +71,19 @@ hr {
     }
 }
 
+.message {
+    display: none;
+    color: #fff;
+    text-align: center;
+    padding: 4px;
+    margin-top: 10px;
+    font-weight: 600;
+ }
+
 .error-message {
-  display: none;
-  color: #fff;
-  background: #ed3c0d;
-  text-align: center;
-  padding: 4px;
-  margin: 10px 0 0 0;
-  font-weight: 600;
+    background: #ed3c0d;
 }
 
 .sent-message {
-  display: none;
-  color: #fff;
   background: #18d26e;
-  text-align: center;
-  padding: 15px;
-  font-weight: 600;
-}
-
-.saving {
-  display: none;
-  background: rgba(255, 255, 255, 0.5);
-  text-align: center;
-  padding: 15px;
-  border-radius: 50px;
-}
-
-.saving:before {
-  content: "";
-  display: inline-block;
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
-  border-top-color: #eee;
-  animation: animate-loading-notify 1s linear infinite;
 }
