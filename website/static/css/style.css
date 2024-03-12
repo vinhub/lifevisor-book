@@ -87,3 +87,7 @@ hr {
 .sent-message {
   background: #18d26e;
 }
+
+.copyright-text {
+    font-style: italic;
+}
