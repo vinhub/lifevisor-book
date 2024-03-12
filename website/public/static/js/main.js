@@ -22,7 +22,6 @@ submit_btn.onclick = (event) => {
     const xhr = new XMLHttpRequest();
     xhr.onreadystatechange = () => {
       if (xhr.readyState === XMLHttpRequest.DONE) {
-        document.querySelector(".saving").style.display = "none";
         if (xhr.status === 200) {
           name_input.value = "";
           email_input.value = "";
@@ -73,8 +72,6 @@ submit_btn.onclick = (event) => {
     // xhr.open("POST", "http://127.0.0.1:5001/lv-site-380602/us-central1/saveEMail", true);
     xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     xhr.send("name=" + name + "&email=" + email + "&message=" + message);
-
-    document.querySelector(".saving").style.display = "block";
 
     event.preventDefault();
 }
