@@ -34,5 +34,4 @@ I am grateful to all the people who have helped me along the way, including but 
   * In the foreground is a "Mindful Engineer" with a pen in one hand (symbolizing thinking / planning) and a spanner (symbolizing hands-on engineering). It was created using the Microsoft Copilot Image Creator and Designer.
   * The background image symbolizes the "Search for Meaning in the Living Local Universe". It was also created using the Microsoft Copilot Image Creator and Designer.
   * Further editing tweaks including adding the title / subtitle / author name was done using Microsoft PowerPoint.
-* The [book's main website](https://meaning.lifevisor.ai/) was created with the help of OpenAI's ChatGPT.
 
