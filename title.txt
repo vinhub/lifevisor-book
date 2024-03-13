@@ -1,10 +1,9 @@
 ---
 title: An Engineer's Search for Meaning
 subtitle: A Principled, Fact-Based Approach for Finding Meaning, Purpose and Hope in Life
-author: Vinayak (Vin) Bhalerao (@deepestturtle on Twitter)
+author: Copyright © 2023 by Vinayak (Vin) Bhalerao, CC BY-NC-ND 4.0.
 subject: "life, meaning, engineering, science, philosophy, self-help"
 keywords: [books, life, meaning, engineering, science, philosophy, self-help]
-rights: © 2023 Vinayak (Vin) Bhalerao, CC BY-NC
 language: en-US
 documentclass: book
 toc-own-page: true
